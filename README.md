@@ -8,9 +8,9 @@ Welcome to the Microplastic Image Explorer webpage. This tool was designed to al
 
 # Installation
 
-- Use the web app: [openanalysis.org/image_explorer](https://openanalysis.org/image_explorer)
+- Use the web app: [openanalysis.org/image_explorer](https://moore-institute-4-plastic-pollution-res.github.io/microplastic_image_explorerWebR/)
 
-- The code for the app is in [/code/microplastic_image_explorer](https://github.com/Moore-Institute-4-Plastic-Pollution-Res/Microplastic_Data_Portal/tree/main/code/microplastic_image_explorer) 
+- The code for the app is in [app.R](https://github.com/Moore-Institute-4-Plastic-Pollution-Res/microplastic_image_explorerWebR/blob/main/app.R) 
 
 # Additional Information
 
