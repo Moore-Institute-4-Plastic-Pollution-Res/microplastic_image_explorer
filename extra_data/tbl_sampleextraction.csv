@@ -1,0 +1,811 @@
+objectid,labid,sampleid,sievemeshsize,sievediameter,filtertype,filterporesize,filterdiameter,filterholder,kohdigestiontemp,wpodigestions,samplestorage,time,comments,b1separationtime,b2separationtime,kohdigestiontime,matrix,sizefraction
+175,LabN,LabN_CW_1,212,3,PCTE,20,47,Glass,-88.0,-88,"dry, on filters, in glass petri dish",0.08,,-88.0,-88.0,-88.0,CW,212-500 um
+176,LabN,LabN_CW_2,212,3,PCTE,20,47,Glass,-88.0,-88,"dry, on filters, in glass petri dish",0.08,,-88.0,-88.0,-88.0,CW,212-500 um
+177,LabN,LabN_CW_3,212,3,PCTE,20,47,Glass,-88.0,-88,"dry, on filters, in glass petri dish",0.08,,-88.0,-88.0,-88.0,CW,212-500 um
+178,LabN,LabN_CW_4,212,3,PCTE,20,47,Glass,-88.0,-88,"dry, on filters, in glass petri dish",0.08,,-88.0,-88.0,-88.0,CW,212-500 um
+60,LabC,LabC_DW_1,212,3.937 inches,NYLON,20,44,Glass,0.0,"1:5
+ratio of Fe2SO4:H2O2 reached",Dry others,22.0,the size of sieve we used are 200 um and 500 um,0.0,0.0,0.0,DW,212-500 um
+61,LabC,LabC_DW_1,500,3.937 inches,NYLON,20,44,Glass,0.0,"1:5
+ratio of Fe2SO4:H2O2 reached",Dry others,22.0,the size of sieve we used are 200 um and 500 um,0.0,0.0,0.0,DW,>500 um
+58,LabA,LabA_CW_1,500,47 mm,Anodisc,18,25,Stainless steel + Glass,-88.0,-88,">500 on stainless steel storage chambers in petri dishes, dry, < 500 on Anodisc in petri dishes, dry)",0.4,,-88.0,-88.0,-88.0,CW,18-500 um
+59,LabA,LabA_CW_2,500,47 mm,Anodisc,18,25,Stainless steel + Glass,-88.0,-88,">500 on stainless steel storage chambers in petri dishes, dry, < 500 on Anodisc in petri dishes, dry)",0.4,,-88.0,-88.0,-88.0,CW,18-500 um
+179,LabN,LabN_CW_1,500,3,PCTE,20,47,Glass,-88.0,-88,"dry, on filters, in glass petri dish",0.08,,-88.0,-88.0,-88.0,CW,>500 um
+180,LabN,LabN_CW_2,500,3,PCTE,20,47,Glass,-88.0,-88,"dry, on filters, in glass petri dish",0.08,,-88.0,-88.0,-88.0,CW,>500 um
+181,LabN,LabN_CW_3,500,3,PCTE,20,47,Glass,-88.0,-88,"dry, on filters, in glass petri dish",0.08,,-88.0,-88.0,-88.0,CW,>500 um
+182,LabN,LabN_CW_4,500,3,PCTE,20,47,Glass,-88.0,-88,"dry, on filters, in glass petri dish",0.08,,-88.0,-88.0,-88.0,CW,>500 um
+526,LabN,LabN_CW_1,20,-88,PCTE,20,47,Glass,-88.0,-88,"dry, on filters, in glass petri dish",0.17,,-88.0,-88.0,-88.0,CW,20-212 um
+527,LabN,LabN_CW_2,20,-88,PCTE,20,47,Glass,-88.0,-88,"dry, on filters, in glass petri dish",0.17,,-88.0,-88.0,-88.0,CW,20-212 um
+528,LabN,LabN_CW_3,20,-88,PCTE,20,47,Glass,-88.0,-88,"dry, on filters, in glass petri dish",0.17,,-88.0,-88.0,-88.0,CW,20-212 um
+207,LabB,LabB_CW_1,212,8,"20 um: Nylon Net, 212 and 500 um: MCE",0,47,Glass,0.0,0,Dry,3.0,"For 212 and 500 um fractions, a 0.45 um Gridded MCE filter was used. For 20 um fraction, a 20um Nylon net filter was used. The 1um fraction was never filtered due to inability to vacuum filter through the 0.8 um filters.",0.0,0.0,0.0,CW,212-500 um
+208,LabB,LabB_CW_1,500,8,"20 um: Nylon Net, 212 and 500 um: MCE",0,47,Glass,0.0,0,Dry,3.0,"For 212 and 500 um fractions, a 0.45 um Gridded MCE filter was used. For 20 um fraction, a 20um Nylon net filter was used. The 1um fraction was never filtered due to inability to vacuum filter through the 0.8 um filters.",0.0,0.0,0.0,CW,>500 um
+209,LabB,LabB_CW_2,212,8,"20 um: Nylon Net, 212 and 500 um: MCE",0,47,Glass,0.0,0,Dry,2.0,"For 212 and 500 um fractions, a 0.45 um Gridded MCE filter was used. For 20 um fraction, a 20um Nylon net filter was used. The 1um fraction was never filtered due to inability to vacuum filter through the 0.8 um filters.",0.0,0.0,0.0,CW,212-500 um
+210,LabB,LabB_CW_2,500,8,"20 um: Nylon Net, 212 and 500 um: MCE",0,47,Glass,0.0,0,Dry,2.0,"For 212 and 500 um fractions, a 0.45 um Gridded MCE filter was used. For 20 um fraction, a 20um Nylon net filter was used. The 1um fraction was never filtered due to inability to vacuum filter through the 0.8 um filters.",0.0,0.0,0.0,CW,>500 um
+211,LabB,LabB_CW_3,212,8,"20 um: Nylon Net, 212 and 500 um: MCE",0,47,Glass,0.0,0,Dry,1.0,"For 212 and 500 um fractions, a 0.45 um Gridded MCE filter was used. For 20 um fraction, a 20um Nylon net filter was used. The 1um fraction was never filtered due to inability to vacuum filter through the 0.8 um filters.",0.0,0.0,0.0,CW,212-500 um
+212,LabB,LabB_CW_3,500,8,"20 um: Nylon Net, 212 and 500 um: MCE",0,47,Glass,0.0,0,Dry,1.0,"For 212 and 500 um fractions, a 0.45 um Gridded MCE filter was used. For 20 um fraction, a 20um Nylon net filter was used. The 1um fraction was never filtered due to inability to vacuum filter through the 0.8 um filters.",0.0,0.0,0.0,CW,>500 um
+213,LabB,LabB_CW_4,212,8,"20 um: Nylon Net, 212 and 500 um: MCE",0,47,Glass,0.0,0,Dry,1.0,"For 212 and 500 um fractions, a 0.45 um Gridded MCE filter was used. For 20 um fraction, a 20um Nylon net filter was used. The 1um fraction was never filtered due to inability to vacuum filter through the 0.8 um filters.",0.0,0.0,0.0,CW,212-500 um
+214,LabB,LabB_CW_4,500,8,"20 um: Nylon Net, 212 and 500 um: MCE",0,47,Glass,0.0,0,Dry,1.0,"For 212 and 500 um fractions, a 0.45 um Gridded MCE filter was used. For 20 um fraction, a 20um Nylon net filter was used. The 1um fraction was never filtered due to inability to vacuum filter through the 0.8 um filters.",0.0,0.0,0.0,CW,>500 um
+215,LabZ,LabZ_CW_1,500,3,"PCTE, Gold Coated",20,47,Glass,-88.0,-88,Dry,6.0,"Eff. Area of filter is 962 sq. mm.  Unable to filter 1um pore size from hydrodynamic resistance, possibly due to surfactant or other substance added by SCCWRP.  Suggest issuing samples without surfactant in future.",-88.0,-88.0,-88.0,CW,>500 um
+216,LabZ,LabZ_CW_2,500,3,"PCTE, Gold Coated",20,47,Glass,-88.0,-88,Dry,6.0,"Eff. Area of filter is 962 sq. mm.  Unable to filter 1um pore size from hydrodynamic resistance, possibly due to surfactant or other substance added by SCCWRP.  Suggest issuing samples without surfactant in future.",-88.0,-88.0,-88.0,CW,>500 um
+217,LabZ,LabZ_CW_3,500,3,"PCTE, Gold Coated",20,47,Glass,-88.0,-88,Dry,6.0,"Eff. Area of filter is 962 sq. mm.  Unable to filter 1um pore size from hydrodynamic resistance, possibly due to surfactant or other substance added by SCCWRP.  Suggest issuing samples without surfactant in future.",-88.0,-88.0,-88.0,CW,>500 um
+218,LabZ,LabZ_CW_4,500,3,"PCTE, Gold Coated",20,47,Glass,-88.0,-88,Dry,2.0,"Eff. Area of filter is 962 sq. mm.  Unable to filter 1um pore size from hydrodynamic resistance, possibly due to surfactant or other substance added by SCCWRP.  Suggest issuing samples without surfactant in future.",-88.0,-88.0,-88.0,CW,>500 um
+219,LabZ,LabZ_CW_1,212,3,"PCTE, Gold Coated",20,47,Glass,-88.0,-88,Dry,6.0,"Eff. Area of filter is 962 sq. mm.  Unable to filter 1um pore size from hydrodynamic resistance, possibly due to surfactant or other substance added by SCCWRP.  Suggest issuing samples without surfactant in future.",-88.0,-88.0,-88.0,CW,212-500 um
+220,LabZ,LabZ_CW_2,212,3,"PCTE, Gold Coated",20,47,Glass,-88.0,-88,Dry,6.0,"Eff. Area of filter is 962 sq. mm.  Unable to filter 1um pore size from hydrodynamic resistance, possibly due to surfactant or other substance added by SCCWRP.  Suggest issuing samples without surfactant in future.",-88.0,-88.0,-88.0,CW,212-500 um
+221,LabZ,LabZ_CW_3,212,3,"PCTE, Gold Coated",20,47,Glass,-88.0,-88,Dry,6.0,"Eff. Area of filter is 962 sq. mm.  Unable to filter 1um pore size from hydrodynamic resistance, possibly due to surfactant or other substance added by SCCWRP.  Suggest issuing samples without surfactant in future.",-88.0,-88.0,-88.0,CW,212-500 um
+222,LabZ,LabZ_CW_4,212,3,"PCTE, Gold Coated",20,47,Glass,-88.0,-88,Dry,2.0,"Eff. Area of filter is 962 sq. mm.  Unable to filter 1um pore size from hydrodynamic resistance, possibly due to surfactant or other substance added by SCCWRP.  Suggest issuing samples without surfactant in future.",-88.0,-88.0,-88.0,CW,212-500 um
+529,LabN,LabN_CW_4,20,-88,PCTE,20,47,Glass,-88.0,-88,"dry, on filters, in glass petri dish",0.17,,-88.0,-88.0,-88.0,CW,20-212 um
+530,LabN,LabN_CW_1,1,-88,PCTE,1,47,Glass,-88.0,-88,"dry, on filters, in glass petri dish",8.35,"Problems filtering the first sample @30C, increased to 50C, 2x 1um filters used and likely sample loss",-88.0,-88.0,-88.0,CW,1-20 um
+531,LabN,LabN_CW_2,1,-88,PCTE,1,47,Glass,-88.0,-88,"dry, on filters, in glass petri dish",3.25,Increased hot plate temperature improved filtration,-88.0,-88.0,-88.0,CW,1-20 um
+532,LabN,LabN_CW_3,1,-88,PCTE,1,47,Glass,-88.0,-88,"dry, on filters, in glass petri dish",1.15,Increased hot plate temperature improved filtration,-88.0,-88.0,-88.0,CW,1-20 um
+533,LabN,LabN_CW_4,1,-88,PCTE,1,47,Glass,-88.0,-88,"dry, on filters, in glass petri dish",2.0,Increased hot plate temperature improved filtration,-88.0,-88.0,-88.0,CW,1-20 um
+648,LabZ,LabZ_SD_01,500,3,"PCTE, Gold Coated",20,47,Glass,-88.0,-88,Dry,3.0,,16.0,-88.0,-88.0,SD,>500 um
+649,LabZ,LabZ_SD_01,212,3,"PCTE, Gold Coated",20,47,Glass,-88.0,-88,Dry,3.0,,16.0,-88.0,-88.0,SD,212-500 um
+650,LabZ,LabZ_SD_01,212,3,"PCTE, Gold Coated",20,47,Glass,-88.0,-88,Dry,4.0,"Eff. Area of filter is 962 sq. mm.  (35 mm diameter deposit), separation time is approx. (overnight unattended)",16.0,16.0,-88.0,SD,20-212 um
+651,LabZ,LabZ_SD_01,212,3,"PCTE, Gold Coated",1,47,Glass,-88.0,-88,Dry,4.0,"Eff. Area of filter is 962 sq. mm.  (35 mm diameter deposit), separation time is approx. (overnight unattended)",16.0,16.0,-88.0,SD,1-20 um
+235,LabF,LabF_CW_1,500,3.94,"Stainless steel (20µm), Silver membrane (1,2µm)",20,25,Glass,0.0,0,"on filters, dry",15.0,"Samples were sieved trough 500 and 212µm mesh sieves, then filtered trought 20µm and 1.2µm filters.",0.0,0.0,0.0,CW,>500 um
+236,LabF,LabF_CW_2,500,3.94,"Stainless steel (20µm), Silver membrane (1,2µm)",20,25,Glass,0.0,0,"on filters, dry",15.0,Last filtration step (1.2µm) responsible for most of the processing time.,0.0,0.0,0.0,CW,>500 um
+237,LabF,LabF_CW_3,500,3.94,"Stainless steel (20µm), Silver membrane (1,2µm)",20,25,Glass,0.0,0,"on filters, dry",15.0,No density separation or chemical digestion for these CW samples.,0.0,0.0,0.0,CW,>500 um
+238,LabF,LabF_CW_4,500,3.94,"Stainless steel (20µm), Silver membrane (1,2µm)",20,25,Glass,0.0,0,"on filters, dry",15.0,,0.0,0.0,0.0,CW,>500 um
+239,LabC,LabC_CW_1,212,3.937 inches,NYLON,20,44,Glass,0.0,no,Dry,3.0,the size of sieve we used is 200 um and 500 um,0.0,0.0,0.0,CW,212-500 um
+240,LabC,LabC_CW_1,500,3.937 inches,NYLON,20,44,Glass,0.0,no,Dry,4.0,the size of sieve we used is 200 um and 501 um,0.0,0.0,0.0,CW,>500 um
+241,LabC,LabC_CW_2,212,3.937 inches,NYLON,20,44,Glass,0.0,no,Dry,3.0,the size of sieve we used is 200 um and 500 um,0.0,0.0,0.0,CW,>500 um
+242,LabC,LabC_CW_2,500,3.937 inches,NYLON,20,44,Glass,0.0,no,Dry,3.0,the size of sieve we used is 200 um and 500 um,0.0,0.0,0.0,CW,212-500 um
+243,LabC,LabC_CW_3,212,3.937 inches,NYLON,20,44,Glass,0.0,no,Dry,3.0,the size of sieve we used is 200 um and 500 um,0.0,0.0,0.0,CW,>500 um
+244,LabC,LabC_CW_3,500,3.937 inches,NYLON,20,44,Glass,0.0,no,Dry,3.0,the size of sieve we used is 200 um and 500 um,0.0,0.0,0.0,CW,212-500 um
+245,LabC,LabC_CW_4,212,3.937 inches,NYLON,20,44,Glass,0.0,no,Dry,2.0,the size of sieve we used is 200 um and 500 um,0.0,0.0,0.0,CW,>500 um
+246,LabC,LabC_CW_4,500,3.937 inches,NYLON,20,44,Glass,0.0,no,Dry,2.0,the size of sieve we used is 200 um and 500 um,0.0,0.0,0.0,CW,212-500 um
+247,LabV,LabV_CW_1,212,"8"" SS ASTM",Sterlitech PCTE,20,47,Stainless-steel,-88.0,-88,Glass jar,-88.0,Microscopy only; 1µm solutions kept several weeks while decisions were made re Pyr-GCMS preparation. Bacterial growth + excess surfactant congealed so 1 um fraction not collected.,-88.0,-88.0,-88.0,CW,212-500 um
+248,LabV,LabV_CW_1,500,"8"" SS ASTM",Sterlitech PCTE,20,47,Stainless-steel,-88.0,-88,Glass jar,-88.0,Microscopy only; 1µm solutions kept several weeks while decisions were made re Pyr-GCMS preparation. Bacterial growth + excess surfactant congealed so 1 um fraction not collected.,-88.0,-88.0,-88.0,CW,>500 um
+249,LabV,LabV_CW_2,212,"8"" SS ASTM",Sterlitech PCTE,20,47,Stainless-steel,-88.0,-88,Glass jar,-88.0,Microscopy only; 1µm solutions kept several weeks while decisions were made re Pyr-GCMS preparation. Bacterial growth + excess surfactant congealed so 1 um fraction not collected.,-88.0,-88.0,-88.0,CW,212-500 um
+250,LabV,LabV_CW_2,500,"8"" SS ASTM",Sterlitech PCTE,20,47,Stainless-steel,-88.0,-88,Glass jar,-88.0,Microscopy only; 1µm solutions kept several weeks while decisions were made re Pyr-GCMS preparation. Bacterial growth + excess surfactant congealed so 1 um fraction not collected.,-88.0,-88.0,-88.0,CW,>500 um
+251,LabV,LabV_CW_3,212,"8"" SS ASTM",Sterlitech PCTE,20,47,Stainless-steel,-88.0,-88,Glass jar,-88.0,Microscopy only; 1µm solutions kept several weeks while decisions were made re Pyr-GCMS preparation. Bacterial growth + excess surfactant congealed so 1 um fraction not collected.,-88.0,-88.0,-88.0,CW,212-500 um
+252,LabV,LabV_CW_3,500,"8"" SS ASTM",Sterlitech PCTE,20,47,Stainless-steel,-88.0,-88,Glass jar,-88.0,Microscopy only; 1µm solutions kept several weeks while decisions were made re Pyr-GCMS preparation. Bacterial growth + excess surfactant congealed so 1 um fraction not collected.,-88.0,-88.0,-88.0,CW,>500 um
+253,LabV,LabV_CW_4,212,"8"" SS ASTM",Sterlitech PCTE,20,47,Stainless-steel,-88.0,-88,Glass jar,-88.0,Microscopy only; 1µm solutions kept several weeks while decisions were made re Pyr-GCMS preparation. Bacterial growth + excess surfactant congealed so 1 um fraction not collected.,-88.0,-88.0,-88.0,CW,212-500 um
+254,LabV,LabV_CW_4,500,"8"" SS ASTM",Sterlitech PCTE,20,47,Stainless-steel,-88.0,-88,Glass jar,-88.0,Microscopy only; 1µm solutions kept several weeks while decisions were made re Pyr-GCMS preparation. Bacterial growth + excess surfactant congealed so 1 um fraction not collected.,-88.0,-88.0,-88.0,CW,>500 um
+255,LabM,LabM_CW_1,500,3 inch,NA,-88,-88,NA,-88.0,NA,Dry; each fraction on glass petri,0.5,,-88.0,-88.0,-88.0,CW,>500 um
+256,LabM,LabM_CW_1,212,8 inch,NA,-88,-88,NA,-88.0,NA,Dry; each fraction on glass petri,0.5,"0.5 for sieving all 3 together, not 0.3 separately",-88.0,-88.0,-88.0,CW,212-500 um
+257,LabM,LabM_CW_1,20,3 inch,NA,-88,-88,NA,-88.0,NA,Dry; each fraction on glass petri,0.5,20 um sieve used instead of 20 um filter,-88.0,-88.0,-88.0,CW,20-212 um
+258,LabM,LabM_CW_1,20,3 inch,Nylon membrane,1,47,stainless steel,-88.0,NA,not analyzed,1.5,"filtration issues with time, leaks; not completed",-88.0,-88.0,-88.0,CW,1-20 um
+259,LabM,LabM_CW_2,500,3 inch,NA,-88,-88,NA,-88.0,NA,Dry; each fraction on glass petri,0.5,,-88.0,-88.0,-88.0,CW,>500 um
+260,LabM,LabM_CW_2,212,8 inch,NA,-88,-88,NA,-88.0,NA,Dry; each fraction on glass petri,0.5,,-88.0,-88.0,-88.0,CW,212-500 um
+261,LabM,LabM_CW_2,20,3 inch,NA,-88,-88,NA,-88.0,NA,Dry; each fraction on glass petri,0.5,"0.5 for sieving all 3 together, not 0.3 separately",-88.0,-88.0,-88.0,CW,20-212 um
+262,LabM,LabM_CW_2,20,3 inch,Nylon membrane,1,47,stainless steel,-88.0,NA,not analyzed,1.5,"filtration issues with time, leaks; not completed",-88.0,-88.0,-88.0,CW,1-20 um
+263,LabM,LabM_CW_3,500,3 inch,NA,-88,-88,NA,-88.0,NA,Dry; each fraction on glass petri,0.5,,-88.0,-88.0,-88.0,CW,>500 um
+264,LabM,LabM_CW_3,212,8 inch,NA,-88,-88,NA,-88.0,NA,Dry; each fraction on glass petri,0.5,"0.5 for sieving all 3 together, not 0.3 separately",-88.0,-88.0,-88.0,CW,212-500 um
+265,LabM,LabM_CW_3,20,3 inch,NA,-88,-88,NA,-88.0,NA,Dry; each fraction on glass petri,0.5,20 um sieve used instead of 20 um filter,-88.0,-88.0,-88.0,CW,20-212 um
+266,LabM,LabM_CW_3,20,3 inch,Nylon membrane,1,47,stainless steel,-88.0,NA,not analyzed,1.5,"filtration issues with time, leaks; not completed",-88.0,-88.0,-88.0,CW,1-20 um
+267,LabM,LabM_CW_4,500,3 inch,NA,-88,-88,NA,-88.0,NA,Dry; each fraction on glass petri,0.5,,-88.0,-88.0,-88.0,CW,>500 um
+268,LabM,LabM_CW_4,212,8 inch,NA,-88,-88,NA,-88.0,NA,Dry; each fraction on glass petri,0.5,"0.5 for sieving all 3 together, not 0.3 separately",-88.0,-88.0,-88.0,CW,212-500 um
+269,LabM,LabM_CW_4,20,3 inch,NA,-88,-88,NA,-88.0,NA,Dry; each fraction on glass petri,0.5,20 um sieve used instead of 20 um filter,-88.0,-88.0,-88.0,CW,20-212 um
+270,LabM,LabM_CW_4,20,3 inch,Nylon membrane,1,47,stainless steel,-88.0,NA,not analyzed,1.5,"filtration issues with time, leaks; not completed",-88.0,-88.0,-88.0,CW,1-20 um
+271,LabD,LabD_CW_2,"212, 500",8,PCTE,20,47,Stainless-steel,-88.0,-88,"On filters, dry",30.0,1% acetic acid on 1-20 um size class,2.0,24.0,-88.0,CW,212-500 um
+272,LabRR,LabRR_CW_1,500,200 mm,Cr/Al-coated Nylon Mesh,20,25,Glass,0.0,0,Dry,1.0,,0.0,0.0,0.0,CW,>500 um
+273,LabRR,LabRR_CW_1,212,200 mm,Cr/Al-coated Nylon Mesh,20,25,Glass,0.0,0,Dry,1.0,,0.0,0.0,0.0,CW,>500 um
+274,LabQ,LabQ_CW_1,212,3,PCTE,1,47,Glass,-88.0,-88,Dry,1.0,,-88.0,-88.0,-88.0,CW,212-500 um
+275,LabQ,LabQ_CW_1,212,3,PCTE,20,47,Glass,-88.0,-88,Dry,2.0,212 um mesh size with  20 um is duplicated in row 3 and 4. 1st instance - for the contents of the 212 um sieve (Reference: SOP pg 33 - Extraction procedure B.1.c). 2nd instance  (Reference: SOP pg 33 - Extraction procedure B.2-7),-88.0,-88.0,-88.0,CW,1-20 um
+534,LabR,LabR_CW_1,500,8,PCTE,20,47,Glass,-88.0,-88,room temp,4.0,,-88.0,-88.0,-88.0,CW,212-500 um
+277,LabQ,LabQ_CW_2,212,3,PCTE,1,47,Glass,-88.0,-88,Dry,1.0,,-88.0,-88.0,-88.0,CW,>500 um
+278,LabQ,LabQ_CW_2,212,3,PCTE,20,47,Glass,-88.0,-88,Dry,2.0,212 um mesh size with  20 um is duplicated in row 3 and 4. 1st instance - for the contents of the 212 um sieve (Reference: SOP pg 33 - Extraction procedure B.1.c). 2nd instance  (Reference: SOP pg 33 - Extraction procedure B.2-7),-88.0,-88.0,-88.0,CW,1-20 um
+280,LabQ,LabQ_CW_3,212,3,PCTE,1,47,Glass,-88.0,-88,Dry,1.0,,-88.0,-88.0,-88.0,CW,>500 um
+281,LabQ,LabQ_CW_3,212,3,PCTE,20,47,Glass,-88.0,-88,Dry,2.0,212 um mesh size with  20 um is duplicated in row 3 and 4. 1st instance - for the contents of the 212 um sieve (Reference: SOP pg 33 - Extraction procedure B.1.c). 2nd instance  (Reference: SOP pg 33 - Extraction procedure B.2-7),-88.0,-88.0,-88.0,CW,1-20 um
+283,LabQ,LabQ_CW_4,212,3,PCTE,1,47,Glass,-88.0,-88,Dry,1.0,,-88.0,-88.0,-88.0,CW,>500 um
+284,LabQ,LabQ_CW_4,212,3,PCTE,20,47,Glass,-88.0,-88,Dry,2.0,212 um mesh size with  20 um is duplicated in row 3 and 4. 1st instance - for the contents of the 212 um sieve (Reference: SOP pg 33 - Extraction procedure B.1.c). 2nd instance  (Reference: SOP pg 33 - Extraction procedure B.2-7),-88.0,-88.0,-88.0,CW,1-20 um
+286,LabS,LabS_CW_1,500,8,Polycarbonate,20,47,Stainless-steel,0.0,0,Reflective slide which is put on a Petri Dish,10.16,There was a 'white  substance' stayed on the first sieve (See Additionnal Picture White_Substance_Sieve) because rinsing was not enough to eliminate all the white substance. This white substance dried to form friable and electrostatic fragments.,0.0,0.0,0.0,CW,>500 um
+287,LabS,LabS_CW_2,500,8,Polycarbonate,20,47,Stainless-steel,0.0,0,Reflective slide which is put on a Petri Dish,15.2,This is the same thing but this is on the second sieve that the white substance dry. A part of the substance passed through the sieves and was found in the fraction size 20 µm - 212 µm.,0.0,0.0,0.0,CW,>500 um
+288,LabS,LabS_CW_3,500,8,Polycarbonate,20,47,Stainless-steel,0.0,0,Reflective slide which is put on a Petri Dish,70.5,"Fast filtration through the sieves (2,5 hours) but slow filtration through the filter because of the 'white sticky substance' that obstruct rapidly the filter (See Additional picture White_Substance_filter).",0.0,0.0,0.0,CW,>500 um
+289,LabS,LabS_CW_4,500,8,Polycarbonate,20,47,Stainless-steel,0.0,0,Reflective slide which is put on a Petri Dish,63.3,"Same comments as for sample UQAR_CW_03.  Also, impossible to filter through a 1 um pore size for all samples due to this white substance (picture of the white substance in the sample is on additionnal pictures and named White_Substance_Sample).",0.0,0.0,0.0,CW,>500 um
+290,LabS,LabS_CW_1,212,8,Polycarbonate,20,47,Stainless-steel,0.0,0,Reflective slide which is put on a Petri Dish,10.16,There was a 'white  substance' stayed on the first sieve (See Additionnal Picture White_Substance_Sieve) because rinsing was not enough to eliminate all the white substance. This white substance dried to form friable and electrostatic fragments.,0.0,0.0,0.0,CW,>500 um
+279,LabQ,LabQ_CW_2,500,3,PCTE,20,47,Glass,-88.0,-88,Dry,1.0,,-88.0,-88.0,-88.0,CW,20-212 um
+282,LabQ,LabQ_CW_3,500,3,PCTE,20,47,Glass,-88.0,-88,Dry,1.0,,-88.0,-88.0,-88.0,CW,20-212 um
+285,LabQ,LabQ_CW_4,500,3,PCTE,20,47,Glass,-88.0,-88,Dry,1.0,,-88.0,-88.0,-88.0,CW,20-212 um
+291,LabS,LabS_CW_2,212,8,Polycarbonate,20,47,Stainless-steel,0.0,0,Reflective slide which is put on a Petri Dish,15.2,This is the same thing but this is on the second sieve that the white substance dry. A part of the substance passed through the sieves and was found in the fraction size 20 µm - 212 µm.,0.0,0.0,0.0,CW,212-500 um
+292,LabS,LabS_CW_3,212,8,Polycarbonate,20,47,Stainless-steel,0.0,0,Reflective slide which is put on a Petri Dish,70.5,"Fast filtration through the sieves (2,5 hours) but slow filtration through the filter because of the 'white sticky substance' that obstruct rapidly the filter (See Additional picture White_Substance_filter).",0.0,0.0,0.0,CW,212-500 um
+293,LabS,LabS_CW_4,212,8,Polycarbonate,20,47,Stainless-steel,0.0,0,Reflective slide which is put on a Petri Dish,63.3,"Same comments as for sample UQAR_CW_03.  Also, impossible to filter through a 1 um pore size for all samples due to this white substance (picture of the white substance in the sample is on additionnal pictures and named White_Substance_Sample).",0.0,0.0,0.0,CW,212-500 um
+294,LabG,LabG_CW_1,500,8 inches,Cellulose Acetate,-88,-88,Glass,-88.0,-88,"on tape, dry",3.0,,-88.0,-88.0,-88.0,CW,212-500 um
+295,LabG,LabG_CW_1,212,8 inches,Cellulose Acetate,-88,-88,Glass,-88.0,-88,"on tape, dry",3.0,,-88.0,-88.0,-88.0,CW,>500 um
+535,LabR,LabR_CW_1,212,8,PCTE,20,47,Glass,-88.0,-88,room temp,4.0,,-88.0,-88.0,-88.0,CW,20-212 um
+297,LabG,LabG_CW_1,1,-88,polycarbonate,1,25,Plastic- 6 well plates,-88.0,-88,"on filters, dry",27.0,overnight filtration,-88.0,-88.0,-88.0,CW,20-212 um
+298,LabG,LabG_CW_2,500,8 inches,Cellulose Acetate,-88,-88,Glass,-88.0,-88,"on tape, dry",3.0,,-88.0,-88.0,-88.0,CW,1-20 um
+299,LabG,LabG_CW_2,212,8 inches,Cellulose Acetate,-88,-88,Glass,-88.0,-88,"on tape, dry",3.0,,-88.0,-88.0,-88.0,CW,>500 um
+301,LabG,LabG_CW_2,1,-88,polycarbonate,1,25,Plastic- 6 well plates,-88.0,-88,"on filters, dry",27.0,overnight filtration,-88.0,-88.0,-88.0,CW,20-212 um
+302,LabG,LabG_CW_3,500,8 inches,Cellulose Acetate,-88,-88,Glass,-88.0,-88,"on tape, dry",3.0,,-88.0,-88.0,-88.0,CW,1-20 um
+303,LabG,LabG_CW_3,212,8 inches,Cellulose Acetate,-88,-88,Glass,-88.0,-88,"on tape, dry",3.0,,-88.0,-88.0,-88.0,CW,>500 um
+305,LabG,LabG_CW_3,1,-88,polycarbonate,1,25,Plastic- 6 well plates,-88.0,-88,"on filters, dry",27.0,overnight filtration,-88.0,-88.0,-88.0,CW,20-212 um
+306,LabG,LabG_CW_4,500,8 inches,Cellulose Acetate,-88,-88,Glass,-88.0,-88,"on tape, dry",3.0,,-88.0,-88.0,-88.0,CW,1-20 um
+307,LabG,LabG_CW_4,212,8 inches,Cellulose Acetate,-88,-88,Glass,-88.0,-88,"on tape, dry",3.0,,-88.0,-88.0,-88.0,CW,>500 um
+536,LabR,LabR_CW_1,212,8,PCTE,5,47,Glass,-88.0,-88,room temp,4.0,"Gelatin Gate, lost CW_01, had to make a new sample",-88.0,-88.0,-88.0,CW,1-20 um
+309,LabG,LabG_CW_4,1,-88,polycarbonate,1,25,Plastic- 6 well plates,-88.0,-88,"on filters, dry",27.0,overnight filtration,-88.0,-88.0,-88.0,CW,20-212 um
+310,LabU,LabU_CW_1,500,8,"Cellulose (20 micron), borosilicate glass fiber (1 micron)",20,47,GLASS,-88.0,-88,Dry,0.25,Samples separated on sieves were then filtered onto 20 micron filters for storage.,0.25,-88.0,-88.0,CW,1-20 um
+311,LabU,LabU_CW_2,500,8,"Cellulose (20 micron), borosilicate glass fiber (1 micron)",20,47,GLASS,-88.0,-88,Dry,0.25,Samples separated on sieves were then filtered onto 20 micron filters for storage.,0.25,-88.0,-88.0,CW,>500 um
+312,LabU,LabU_CW_3,500,8,"Cellulose (20 micron), borosilicate glass fiber (1 micron)",20,47,GLASS,-88.0,-88,Dry,0.25,Samples separated on sieves were then filtered onto 20 micron filters for storage.,0.25,-88.0,-88.0,CW,>500 um
+300,LabG,LabG_CW_2,20,-88,polycarbonate,20,25,Plastic- 6 well plates,-88.0,-88,"on filters, dry",27.0,overnight filtration,-88.0,-88.0,-88.0,CW,212-500 um
+304,LabG,LabG_CW_3,20,-88,polycarbonate,20,25,Plastic- 6 well plates,-88.0,-88,"on filters, dry",27.0,overnight filtration,-88.0,-88.0,-88.0,CW,212-500 um
+313,LabU,LabU_CW_4,500,8,"Cellulose (20 micron), borosilicate glass fiber (1 micron)",20,47,GLASS,-88.0,-88,Dry,0.25,Samples separated on sieves were then filtered onto 20 micron filters for storage.,0.25,-88.0,-88.0,CW,>500 um
+314,LabAA,LabAA_CW_1,500,8 inches,Polycarbonate,-88,-88,Glass,-88.0,0,Dry (on tape or filter paper in a petri dish),0.25,,0.0,0.0,0.0,CW,>500 um
+315,LabAA,LabAA_CW_1,212,8 inches,Polycarbonate,-88,-88,Glass,-88.0,0,Dry (on tape or filter paper in a petri dish),0.25,,0.0,0.0,0.0,CW,212-500 um
+316,LabAA,LabAA_CW_1,212,8 inches,Polycarbonate,20,47,Glass,-88.0,0,Dry (on tape or filter paper) Wet (in RO water),0.5,Flocculant made filtration through the filters slow. Had to use 1 - 20 µm filter,0.0,0.0,0.0,CW,>500 um
+317,LabAA,LabAA_CW_1,212,8 inches,Polycarbonate,1,47,Glass,-88.0,0,Dry (on tape or filter paper) Wet (in RO water),3.0,Flocculant made filtration through the filters slow. Had to use  6 - 1 µm filters.,0.0,0.0,0.0,CW,20-212 um
+318,LabAA,LabAA_CW_2,500,8 inches,Polycarbonate,-88,-88,Glass,-88.0,0,Dry (on tape or filter paper in a petri dish),0.25,,0.0,0.0,0.0,CW,1-20 um
+319,LabAA,LabAA_CW_2,212,8 inches,Polycarbonate,-88,-88,Glass,-88.0,0,Dry (on tape or filter paper in a petri dish),0.25,,0.0,0.0,0.0,CW,>500 um
+320,LabAA,LabAA_CW_2,212,8 inches,Polycarbonate,20,47,Glass,-88.0,0,Dry (on tape or filter paper) Wet (in RO water),1.5,Flocculant made filtration through the filters slow. Had to use 2 - 20 µm filters,0.0,0.0,0.0,CW,212-500 um
+321,LabAA,LabAA_CW_2,212,8 inches,Polycarbonate,1,47,Glass,-88.0,0,Dry (on tape or filter paper) Wet (in RO water),4.0,Flocculant made filtration through the filters slow. Had to use  3 - 1 µm filters.,0.0,0.0,0.0,CW,20-212 um
+322,LabAA,LabAA_CW_3,500,8 inches,Polycarbonate,-88,-88,Glass,-88.0,0,Dry (on tape or filter paper in a petri dish),0.25,,0.0,0.0,0.0,CW,1-20 um
+323,LabAA,LabAA_CW_3,212,8 inches,Polycarbonate,-88,-88,Glass,-88.0,0,Dry (on tape or filter paper in a petri dish),0.25,,0.0,0.0,0.0,CW,>500 um
+324,LabAA,LabAA_CW_3,212,8 inches,Polycarbonate,20,47,Glass,-88.0,0,Dry (on tape or filter paper) Wet (in RO water),1.0,"Flocculant made filtration through the filters slow.  Each sample different, CW_3 hardest to filter. Had to use 2 - 20 µm filters",0.0,0.0,0.0,CW,212-500 um
+325,LabAA,LabAA_CW_3,212,8 inches,Polycarbonate,1,47,Glass,-88.0,0,Dry (on tape or filter paper) Wet (in RO water),9.0,"Flocculant made filtration through the filters slow.  Each sample different, CW_3 hardest to filter. Had to use  19 - 1 µm filters.",0.0,0.0,0.0,CW,20-212 um
+326,LabAA,LabAA_CW_4,500,8 inches,Polycarbonate,-88,-88,Glass,-88.0,0,None Stored - Nothing to Store,0.25,,0.0,0.0,0.0,CW,1-20 um
+327,LabAA,LabAA_CW_4,212,8 inches,Polycarbonate,-88,-88,Glass,-88.0,0,None Stored - Nothing to Store,0.25,,0.0,0.0,0.0,CW,>500 um
+328,LabAA,LabAA_CW_4,212,8 inches,Polycarbonate,20,47,Glass,-88.0,0,None Stored - Nothing to Store,0.5,Flocculant made filtration through the filters slow. Had to use 1 - 20 µm filter,0.0,0.0,0.0,CW,212-500 um
+329,LabAA,LabAA_CW_4,212,8 inches,Polycarbonate,1,47,Glass,-88.0,0,None Stored - Nothing to Store,3.0,Flocculant made filtration through the filters slow. Had to use  4 - 1 µm filters.,0.0,0.0,0.0,CW,20-212 um
+537,LabR,LabR_CW_2,500,8,PCTE,20,47,Glass,-88.0,-88,room temp,2.0,,-88.0,-88.0,-88.0,CW,212-500 um
+538,LabR,LabR_CW_2,212,8,PCTE,20,47,Glass,-88.0,-88,room temp,2.0,,-88.0,-88.0,-88.0,CW,20-212 um
+539,LabR,LabR_CW_2,20,8,PCTE,5,47,Glass,-88.0,-88,room temp,2.0,Gelatin Gate,-88.0,-88.0,-88.0,CW,1-20 um
+333,LabX,LabX_CW_1,1,89,cellulose,1,89,glass,-88.0,-88,25,14.0,,5.0,-88.0,-88.0,CW,20-212 um
+540,LabR,LabR_CW_3,500,8,PCTE,20,47,Glass,-88.0,-88,room temp,2.0,,-88.0,-88.0,-88.0,CW,212-500 um
+541,LabR,LabR_CW_3,212,8,PCTE,20,47,Glass,-88.0,-88,room temp,2.0,,-88.0,-88.0,-88.0,CW,20-212 um
+542,LabR,LabR_CW_3,20,8,PCTE,5,47,Glass,-88.0,-88,room temp,2.0,Gelatin Gate,-88.0,-88.0,-88.0,CW,1-20 um
+335,LabX,LabX_CW_2,212,203,cellulose,1,203,glass,-88.0,-88,25,7.0,,1.0,5.0,-88.0,CW,>500 um
+543,LabR,LabR_CW_4,500,8,PCTE,20,47,Glass,-88.0,-88,room temp,1.33,,-88.0,-88.0,-88.0,CW,212-500 um
+337,LabX,LabX_CW_2,1,89,cellulose,1,89,glass,-88.0,-88,25,18.0,,5.0,-88.0,-88.0,CW,20-212 um
+544,LabR,LabR_CW_4,212,8,PCTE,20,47,Glass,-88.0,-88,room temp,1.33,,-88.0,-88.0,-88.0,CW,20-212 um
+545,LabR,LabR_CW_4,20,8,PCTE,5,47,Glass,-88.0,-88,room temp,1.33,Gelatin Gate,-88.0,-88.0,-88.0,CW,1-20 um
+546,LabR,LabR_CW_1,500,8,PCTE,-88,47,Glass,-88.0,-88,room temp,2.0,,-88.0,-88.0,-88.0,CW,>500 um
+547,LabR,LabR_CW_2,500,8,PCTE,-88,47,Glass,-88.0,-88,room temp,2.0,,-88.0,-88.0,-88.0,CW,>500 um
+345,LabL,LabL_CW_1,250,730000,GF/A,2,47000,glass and stainless steel clamp,-88.0,-88,GF/A in petri dishes,4.0,"4 h for all cw samples, every samples < 125 um was discarded. All units on this sheet are in um",-88.0,-88.0,-88.0,CW,>500 um
+346,LabL,LabL_CW_1,125,730000,GF/A,2,47000,glass and stainless steel clamp,-88.0,-88,GF/A in petri dishes,4.0,"4 h for all cw samples, every samples < 125 um was discarded. All units on this sheet are in um",-88.0,-88.0,-88.0,CW,212-500 um
+347,LabL,LabL_CW_2,500,730000,GF/A,2,47000,glass and stainless steel clamp,-88.0,-88,GF/A in petri dishes,4.0,"4 h for all cw samples, every samples < 125 um was discarded. All units on this sheet are in um",-88.0,-88.0,-88.0,CW,>500 um
+348,LabL,LabL_CW_2,250,730000,GF/A,2,47000,glass and stainless steel clamp,-88.0,-88,GF/A in petri dishes,4.0,"4 h for all cw samples, every samples < 125 um was discarded. All units on this sheet are in um",-88.0,-88.0,-88.0,CW,250-500 um
+349,LabL,LabL_CW_2,125,730000,GF/A,2,47000,glass and stainless steel clamp,-88.0,-88,GF/A in petri dishes,4.0,"4 h for all cw samples, every samples < 125 um was discarded. All units on this sheet are in um",-88.0,-88.0,-88.0,CW,125-250 um
+350,LabL,LabL_CW_3,500,730000,GF/A,2,47000,glass and stainless steel clamp,-88.0,-88,GF/A in petri dishes,4.0,"4 h for all cw samples, every samples < 125 um was discarded. All units on this sheet are in um",-88.0,-88.0,-88.0,CW,>500 um
+351,LabL,LabL_CW_3,250,730000,GF/A,2,47000,glass and stainless steel clamp,-88.0,-88,GF/A in petri dishes,4.0,"4 h for all cw samples, every samples < 125 um was discarded. All units on this sheet are in um",-88.0,-88.0,-88.0,CW,250-500 um
+341,LabX,LabX_CW_3,1,89,cellulose,1,89,glass,-88.0,-88,25,31.0,,15.0,15.0,-88.0,CW,20-212 um
+548,LabR,LabR_CW_3,500,8,PCTE,-88,47,Glass,-88.0,-88,room temp,2.0,,-88.0,-88.0,-88.0,CW,>500 um
+549,LabR,LabR_CW_4,500,8,PCTE,-88,47,Glass,-88.0,-88,room temp,2.0,,-88.0,-88.0,-88.0,CW,>500 um
+652,LabZ,LabZ_SD_02,500,3,"PCTE, Gold Coated",20,47,Glass,-88.0,-88,Dry,3.0,,16.0,-88.0,-88.0,SD,>500 um
+352,LabL,LabL_CW_3,125,730000,GF/A,2,47000,glass and stainless steel clamp,-88.0,-88,GF/A in petri dishes,4.0,"4 h for all cw samples, every samples < 125 um was discarded. All units on this sheet are in um",-88.0,-88.0,-88.0,CW,125-250 um
+353,LabL,LabL_CW_4,500,730000,GF/A,2,47000,glass and stainless steel clamp,-88.0,-88,GF/A in petri dishes,4.0,"4 h for all cw samples, every samples < 125 um was discarded. All units on this sheet are in um",-88.0,-88.0,-88.0,CW,>500 um
+354,LabL,LabL_CW_4,250,730000,GF/A,2,47000,glass and stainless steel clamp,-88.0,-88,GF/A in petri dishes,4.0,"4 h for all cw samples, every samples < 125 um was discarded. All units on this sheet are in um",-88.0,-88.0,-88.0,CW,250-500 um
+355,LabL,LabL_CW_4,125,730000,GF/A,2,47000,glass and stainless steel clamp,-88.0,-88,GF/A in petri dishes,4.0,"4 h for all cw samples, every samples < 125 um was discarded. All units on this sheet are in um",-88.0,-88.0,-88.0,CW,125-250 um
+356,LabQ,LabQ_CW_5,212,3,PCTE,1,47,Glass,-88.0,-88,"on filters, dry",1.0,,-88.0,-88.0,-88.0,CW,>500 um
+357,LabQ,LabQ_CW_6,212,3,PCTE,1,47,Glass,-88.0,-88,"on filters, dry",1.0,,-88.0,-88.0,-88.0,CW,1-20 um
+358,LabQ,LabQ_CW_7,212,3,PCTE,1,47,Glass,-88.0,-88,"on filters, dry",1.0,,-88.0,-88.0,-88.0,CW,1-20 um
+359,LabQ,LabQ_CW_8,212,3,PCTE,1,47,Glass,-88.0,-88,"on filters, dry",1.0,,-88.0,-88.0,-88.0,CW,1-20 um
+360,LabQ,LabQ_CW_5,212,3,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",1.0,,-88.0,-88.0,-88.0,CW,1-20 um
+380,LabDD,LabDD_CW_1,500,3.25 inches,polycarbonate,1,47,glass,0.0,0,"on filters, dry",1.5,,0.0,0.0,0.0,CW,1-20 um
+381,LabDD,LabDD_CW_1,212,3.25 inches,polycarbonate,1,47,glass,0.0,0,"on filters, dry",1.5,,0.0,0.0,0.0,CW,212-500 um
+382,LabDD,LabDD_CW_1,20,3.25 inches,polycarbonate,1,47,glass,0.0,0,"on filters, dry",8.0,,0.0,0.0,0.0,CW,20-212 um
+383,LabDD,LabDD_CW_1,1,3.25 inches,polycarbonate,1,47,glass,0.0,0,"on filters, dry",10.0,"sieve was actually a 20 µm sieve, but we put 1 µm to avoid the appearance of a duplicate sample",0.0,0.0,0.0,CW,1-20 um
+384,LabDD,LabDD_CW_2,500,3.25 inches,polycarbonate,1,47,glass,0.0,0,"on filters, dry",0.75,,0.0,0.0,0.0,CW,>500 um
+276,LabQ,LabQ_CW_1,500,3,PCTE,20,47,Glass,-88.0,-88,Dry,1.0,,-88.0,-88.0,-88.0,CW,20-212 um
+385,LabDD,LabDD_CW_2,212,3.25 inches,polycarbonate,1,47,glass,0.0,0,"on filters, dry",0.75,,0.0,0.0,0.0,CW,212-500 um
+386,LabDD,LabDD_CW_2,20,3.25 inches,polycarbonate,1,47,glass,0.0,0,"on filters, dry",0.5,,0.0,0.0,0.0,CW,20-212 um
+387,LabDD,LabDD_CW_2,1,3.25 inches,polycarbonate,1,47,glass,0.0,0,"on filters, dry",5.0,"sieve was actually a 20 µm sieve, but we put 1 µm to avoid the appearance of a duplicate sample",0.0,0.0,0.0,CW,1-20 um
+388,LabDD,LabDD_CW_3,500,3.25 inches,polycarbonate,1,47,glass,0.0,0,"on filters, dry",1.0,,0.0,0.0,0.0,CW,>500 um
+389,LabDD,LabDD_CW_3,212,3.25 inches,polycarbonate,1,47,glass,0.0,0,"on filters, dry",1.0,,0.0,0.0,0.0,CW,212-500 um
+390,LabDD,LabDD_CW_3,20,3.25 inches,polycarbonate,1,47,glass,0.0,0,"on filters, dry",2.0,,0.0,0.0,0.0,CW,20-212 um
+391,LabDD,LabDD_CW_3,1,3.25 inches,polycarbonate,1,47,glass,0.0,0,"on filters, dry",2.0,"sieve was actually a 20 µm sieve, but we put 1 µm to avoid the appearance of a duplicate sample",0.0,0.0,0.0,CW,1-20 um
+392,LabDD,LabDD_CW_4,500,3.25 inches,polycarbonate,1,47,glass,0.0,0,"on filters, dry",0.5,,0.0,0.0,0.0,CW,>500 um
+393,LabDD,LabDD_CW_4,212,3.25 inches,polycarbonate,1,47,glass,0.0,0,"on filters, dry",0.5,,0.0,0.0,0.0,CW,212-500 um
+394,LabDD,LabDD_CW_4,20,3.25 inches,polycarbonate,1,47,glass,0.0,0,"on filters, dry",0.5,,0.0,0.0,0.0,CW,20-212 um
+395,LabDD,LabDD_CW_4,1,3.25 inches,polycarbonate,1,47,glass,0.0,0,"on filters, dry",7.0,"sieve was actually a 20 µm sieve, but we put 1 µm to avoid the appearance of a duplicate sample",0.0,0.0,0.0,CW,1-20 um
+400,LabH,LabH_CW_1,500,3.9 inches,borosilicate glass,20,47,Stainless-steel,-88.0,-88,"on filters, dry",2.0,,-88.0,-88.0,-88.0,CW,>500 um
+401,LabH,LabH_CW_1,212,3.9 inches,borosilicate glass,20,47,Stainless-steel,-88.0,-88,"on filters, dry",2.0,,-88.0,-88.0,-88.0,CW,20-212 um
+403,LabH,LabH_CW_2,500,3.9 inches,borosilicate glass,20,47,Stainless-steel,-88.0,-88,"on filters, dry",2.0,,-88.0,-88.0,-88.0,CW,>500 um
+404,LabH,LabH_CW_2,212,3.9 inches,borosilicate glass,20,47,Stainless-steel,-88.0,-88,"on filters, dry",2.0,,-88.0,-88.0,-88.0,CW,20-212 um
+406,LabH,LabH_CW_3,500,3.9 inches,borosilicate glass,20,47,Stainless-steel,-88.0,-88,"on filters, dry",2.0,,-88.0,-88.0,-88.0,CW,>500 um
+405,LabH,LabH_CW_2,212,3.9 inches,borosilicate glass,1,47,Stainless-steel,-88.0,-88,"on filters, dry",2.0,,-88.0,-88.0,-88.0,CW,212-500 um
+653,LabZ,LabZ_SD_02,212,3,"PCTE, Gold Coated",20,47,Glass,-88.0,-88,Dry,3.0,,16.0,-88.0,-88.0,SD,212-500 um
+407,LabH,LabH_CW_3,212,3.9 inches,borosilicate glass,20,47,Stainless-steel,-88.0,-88,"on filters, dry",2.0,,-88.0,-88.0,-88.0,CW,20-212 um
+409,LabH,LabH_CW_4,500,3.9 inches,borosilicate glass,20,47,Stainless-steel,-88.0,-88,"on filters, dry",2.0,,-88.0,-88.0,-88.0,CW,>500 um
+410,LabH,LabH_CW_4,212,3.9 inches,borosilicate glass,20,47,Stainless-steel,-88.0,-88,"on filters, dry",2.0,,-88.0,-88.0,-88.0,CW,20-212 um
+654,LabZ,LabZ_SD_02,212,3,"PCTE, Gold Coated",20,47,Glass,-88.0,-88,Dry,4.0,"Eff. Area of filter is 962 sq. mm.  (35 mm diameter deposit), separation time is approx. (overnight unattended)",16.0,16.0,-88.0,SD,20-212 um
+428,LabCC,LabCC_CW_1,500,8 inches,polycarbonate,1,47,Plastic,0.0,0,Dry,0.16,,0.0,0.0,0.0,CW,>500 um
+435,LabCC,LabCC_CW_3,250,8 inches,polycarbonate,1,47,Plastic,0.0,0,Dry,0.16,,0.0,0.0,0.0,CW,250-500 um
+436,LabCC,LabCC_CW_3,20,8 inches,polycarbonate,1,47,Plastic,0.0,0,Dry,0.16,,0.0,0.0,0.0,CW,20-250 um
+438,LabCC,LabCC_CW_4,250,8 inches,polycarbonate,1,47,Plastic,0.0,0,Dry,0.16,,0.0,0.0,0.0,CW,250-500 um
+439,LabCC,LabCC_CW_4,20,8 inches,polycarbonate,1,47,Plastic,0.0,0,Dry,0.16,,0.0,0.0,0.0,CW,20-250 um
+411,LabH,LabH_CW_4,212,3.9 inches,borosilicate glass,1,47,Stainless-steel,-88.0,-88,"on filters, dry",2.0,,-88.0,-88.0,-88.0,CW,212-500 um
+415,LabQQ,LabQQ_CW_2,500,1.85 inches,polycarbonate,20,47,Glass,0.0,NR,"on filters, dry",0.05,significant clogging,0.0,0.0,0.0,CW,>500 um
+417,LabQQ,LabQQ_CW_2,212,1.85 inches,polycarbonate,1,47,Glass,0.0,NR,"on filters, dry",1.0,significant clogging,0.0,0.0,0.0,CW,1-20 um
+419,LabQQ,LabQQ_CW_3,212,1.85 inches,polycarbonate,20,47,Glass,0.0,NR,"on filters, dry",0.5,significant clogging,0.0,0.0,0.0,CW,20-212 um
+423,LabQQ,LabQQ_CW_4,212,1.85 inches,polycarbonate,1,47,Glass,0.0,NR,"on filters, dry",1.0,no particles,0.0,0.0,0.0,CW,1-20 um
+412,LabQQ,LabQQ_CW_1,500,1.85 inches,polycarbonate,20,47,Glass,0.0,NR,"on filters, dry",0.05,significant clogging,0.0,0.0,0.0,CW,>500 um
+413,LabQQ,LabQQ_CW_1,212,1.85 inches,polycarbonate,20,47,Glass,0.0,NR,"on filters, dry",0.5,significant clogging,0.0,0.0,0.0,CW,20-212 um
+414,LabQQ,LabQQ_CW_1,212,1.85 inches,polycarbonate,1,47,Glass,0.0,NR,"on filters, dry",1.0,significant clogging,0.0,0.0,0.0,CW,1-20 um
+416,LabQQ,LabQQ_CW_2,212,1.85 inches,polycarbonate,20,47,Glass,0.0,NR,"on filters, dry",0.5,significant clogging,0.0,0.0,0.0,CW,20-212 um
+418,LabQQ,LabQQ_CW_3,500,1.85 inches,polycarbonate,20,47,Glass,0.0,NR,"on filters, dry",0.05,significant clogging,0.0,0.0,0.0,CW,>500 um
+420,LabQQ,LabQQ_CW_3,212,1.85 inches,polycarbonate,1,47,Glass,0.0,NR,"on filters, dry",1.0,significant clogging,0.0,0.0,0.0,CW,1-20 um
+421,LabQQ,LabQQ_CW_4,500,1.85 inches,polycarbonate,20,47,Glass,0.0,NR,"on filters, dry",0.05,no particles,0.0,0.0,0.0,CW,>500 um
+422,LabQQ,LabQQ_CW_4,212,1.85 inches,polycarbonate,20,47,Glass,0.0,NR,"on filters, dry",0.5,no particles,0.0,0.0,0.0,CW,20-212 um
+364,LabQ,LabQ_CW_5,500,3,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",1.0,,-88.0,-88.0,-88.0,CW,20-212 um
+365,LabQ,LabQ_CW_6,500,3,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",1.0,,-88.0,-88.0,-88.0,CW,>500 um
+366,LabQ,LabQ_CW_7,500,3,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",1.0,,-88.0,-88.0,-88.0,CW,>500 um
+367,LabQ,LabQ_CW_8,500,3,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",1.0,,-88.0,-88.0,-88.0,CW,>500 um
+296,LabG,LabG_CW_1,20,-88,polycarbonate,20,25,Plastic- 6 well plates,-88.0,-88,"on filters, dry",27.0,overnight filtration,-88.0,-88.0,-88.0,CW,212-500 um
+308,LabG,LabG_CW_4,20,-88,polycarbonate,20,25,Plastic- 6 well plates,-88.0,-88,"on filters, dry",27.0,overnight filtration,-88.0,-88.0,-88.0,CW,212-500 um
+402,LabH,LabH_CW_1,212,3.9 inches,borosilicate glass,1,47,Stainless-steel,-88.0,-88,"on filters, dry",2.0,,-88.0,-88.0,-88.0,CW,212-500 um
+408,LabH,LabH_CW_3,212,3.9 inches,borosilicate glass,1,47,Stainless-steel,-88.0,-88,"on filters, dry",2.0,,-88.0,-88.0,-88.0,CW,212-500 um
+361,LabQ,LabQ_CW_6,212,3,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",1.0,,-88.0,-88.0,-88.0,CW,20-212 um
+362,LabQ,LabQ_CW_7,212,3,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",1.0,,-88.0,-88.0,-88.0,CW,20-212 um
+363,LabQ,LabQ_CW_8,212,3,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",1.0,,-88.0,-88.0,-88.0,CW,20-212 um
+655,LabZ,LabZ_SD_02,212,3,"PCTE, Gold Coated",1,47,Glass,-88.0,-88,Dry,4.0,"Eff. Area of filter is 962 sq. mm.  (35 mm diameter deposit), separation time is approx. (overnight unattended)",16.0,16.0,-88.0,SD,1-20 um
+656,LabZ,LabZ_SD_03,500,3,"PCTE, Gold Coated",20,47,Glass,-88.0,-88,Dry,3.0,,16.0,-88.0,-88.0,SD,>500 um
+657,LabZ,LabZ_SD_03,212,3,"PCTE, Gold Coated",20,47,Glass,-88.0,-88,Dry,3.0,,16.0,-88.0,-88.0,SD,212-500 um
+658,LabZ,LabZ_SD_03,212,3,"PCTE, Gold Coated",20,47,Glass,-88.0,-88,Dry,4.0,"Eff. Area of filter is 962 sq. mm.  (35 mm diameter deposit), separation time is approx. (overnight unattended)",16.0,16.0,-88.0,SD,20-212 um
+659,LabZ,LabZ_SD_03,212,3,"PCTE, Gold Coated",1,47,Glass,-88.0,-88,Dry,4.0,"Eff. Area of filter is 962 sq. mm.  (35 mm diameter deposit), separation time is approx. (overnight unattended)",16.0,16.0,-88.0,SD,1-20 um
+660,LabZ,LabZ_SD_04,500,3,"PCTE, Gold Coated",20,47,Glass,-88.0,-88,Dry,3.0,,16.0,-88.0,-88.0,SD,>500 um
+661,LabZ,LabZ_SD_04,212,3,"PCTE, Gold Coated",20,47,Glass,-88.0,-88,Dry,3.0,,16.0,-88.0,-88.0,SD,212-500 um
+662,LabZ,LabZ_SD_04,212,3,"PCTE, Gold Coated",20,47,Glass,-88.0,-88,Dry,4.0,"Eff. Area of filter is 962 sq. mm.  (35 mm diameter deposit), separation time is approx. (overnight unattended)",16.0,16.0,-88.0,SD,20-212 um
+663,LabZ,LabZ_SD_04,212,3,"PCTE, Gold Coated",1,47,Glass,-88.0,-88,Dry,4.0,"Eff. Area of filter is 962 sq. mm.  (35 mm diameter deposit), separation time is approx. (overnight unattended)",16.0,16.0,-88.0,SD,1-20 um
+719,LabC,LabC_DW_2,212,3.937 inches,polycarbonate,20,44,Glass,-88.0,no,Dry,10.0,the size of sieve we used is 200 um and 500 um,-88.0,-88.0,-88.0,DW,>500 um
+720,LabC,LabC_DW_2,500,3.937 inches,polycarbonate,20,44,Glass,-88.0,no,Dry,10.0,the size of sieve we used is 200 um and 500 um,-88.0,-88.0,-88.0,DW,1-20 um
+721,LabC,LabC_DW_3,212,3.937 inches,polycarbonate,20,44,Glass,-88.0,no,Dry,11.0,the size of sieve we used is 200 um and 500 um,-88.0,-88.0,-88.0,DW,20-212 um
+722,LabC,LabC_DW_3,500,3.937 inches,polycarbonate,20,44,Glass,-88.0,no,Dry,11.0,the size of sieve we used is 200 um and 500 um,-88.0,-88.0,-88.0,DW,212-500 um
+723,LabC,LabC_DW_4,212,3.937 inches,polycarbonate,20,44,Glass,-88.0,no,Dry,11.0,the size of sieve we used is 200 um and 500 um,-88.0,-88.0,-88.0,DW,>500 um
+724,LabC,LabC_DW_4,500,3.937 inches,polycarbonate,20,44,Glass,-88.0,no,Dry,11.0,the size of sieve we used is 200 um and 500 um,-88.0,-88.0,-88.0,DW,1-20 um
+749,LabAA,LabAA_DW_1,212,8 inches,polycarbonate,20,47,Glass,-88.0,Digested 1 time with Fenton's ragent,"on filters, dry",13.0,Time is only for Fenton's and H2O2 reactions. Add another 12 hrs for the Alcojet soak and sieve.,-88.0,-88.0,-88.0,DW,212-500 um
+750,LabAA,LabAA_DW_1,500,8 inches,polycarbonate,20,47,Glass,-88.0,Digested 1 time with Fenton's ragent,"on filters, dry",12.0,Time is only for Fenton's and H2O2 reactions. Add another 12 hrs for the Alcojet soak and sieve.,-88.0,-88.0,-88.0,DW,>500 um
+751,LabAA,LabAA_DW_2,212,8 inches,polycarbonate,20,47,Glass,-88.0,Digested 1 time with Fenton's ragent,"on filters, dry",13.0,Time is only for Fenton's and H2O2 reactions. Add another 12 hrs for the Alcojet soak and sieve.,-88.0,-88.0,-88.0,DW,212-500 um
+752,LabAA,LabAA_DW_2,500,8 inches,polycarbonate,20,47,Glass,-88.0,Digested 1 time with Fenton's ragent,"on filters, dry",12.0,Time is only for Fenton's and H2O2 reactions. Add another 12 hrs for the Alcojet soak and sieve.,-88.0,-88.0,-88.0,DW,>500 um
+753,LabAA,LabAA_DW_3,212,8 inches,polycarbonate,20,47,Glass,-88.0,Digested 1 time with Fenton's ragent,"on filters, dry",13.0,Time is only for Fenton's and H2O2 reactions. Add another 12 hrs for the Alcojet soak and sieve.,-88.0,-88.0,-88.0,DW,212-500 um
+754,LabAA,LabAA_DW_3,500,8 inches,polycarbonate,20,47,Glass,-88.0,Digested 1 time with Fenton's ragent,"on filters, dry",12.0,Time is only for Fenton's and H2O2 reactions. Add another 12 hrs for the Alcojet soak and sieve.,-88.0,-88.0,-88.0,DW,>500 um
+755,LabAA,LabAA_DW_4,212,8 inches,polycarbonate,20,47,Glass,-88.0,Digested 1 time with Fenton's ragent,"on filters, dry",14.0,Time is only for Fenton's and H2O2 reactions. Add another 12 hrs for the Alcojet soak and sieve.,-88.0,-88.0,-88.0,DW,212-500 um
+756,LabAA,LabAA_DW_4,500,8 inches,polycarbonate,20,47,Glass,-88.0,Digested 1 time with Fenton's ragent,"on filters, dry",15.0,Time is only for Fenton's and H2O2 reactions. Add another 12 hrs for the Alcojet soak and sieve.,-88.0,-88.0,-88.0,DW,>500 um
+1,LabA,LabA_CW_1,500,47 mm,Not Applicable,0,25,Stainless steel + Glass,-88.0,-88,">500 on stainless steel storage chambers in petri dishes, dry, < 500 on Anodisc in petri dishes, dry)",0.08,Bioparticipate formation causing agglomoration cleaned by WPO protocol,-88.0,-88.0,-88.0,CW,>500 um
+2,LabA,LabA_CW_2,500,47 mm,Not Applicable,0,25,Stainless steel + Glass,-88.0,-88,">500 on stainless steel storage chambers in petri dishes, dry, < 500 on Anodisc in petri dishes, dry)",0.08,,-88.0,-88.0,-88.0,CW,>500 um
+3,LabA,LabA_CW_3,500,47 mm,Not Applicable,0,25,Stainless steel + Glass,-88.0,-88,">500 on stainless steel storage chambers in petri dishes, dry, < 500 on Anodisc in petri dishes, dry)",0.08,,-88.0,-88.0,-88.0,CW,>500 um
+4,LabA,LabA_CW_4,500,47 mm,Not Applicable,0,25,Stainless steel + Glass,-88.0,-88,">500 on stainless steel storage chambers in petri dishes, dry, < 500 on Anodisc in petri dishes, dry)",0.08,,-88.0,-88.0,-88.0,CW,>500 um
+562,LabD,LabD_SD_1,212,8 inches,polycarbonate,20,47,Stainless steel,-88.0,-88,"on filters, dry",23.0,Oxidized at 60C for 2 hours with 30% H2O2,2.0,24.0,-88.0,SD,20-212 um
+563,LabD,LabD_SD_1,"212, 500",8 inches,polycarbonate,20,47,Stainless steel,-88.0,-88,"on filters, dry",23.0,Oxidized at 60C for 2 hours with 30% H2O2,2.0,24.0,-88.0,SD,212-500 um
+564,LabD,LabD_SD_1,500,8 inches,polycarbonate,20,47,Stainless steel,-88.0,-88,"on filters, dry",23.0,Oxidized at 60C for 2 hours with 30% H2O2,2.0,24.0,-88.0,SD,>500 um
+565,LabD,LabD_SD_2,212,8 inches,polycarbonate,20,47,Stainless steel,-88.0,-88,"on filters, dry",23.0,Oxidized at 60C for 2 hours with 30% H2O2,2.0,24.0,-88.0,SD,20-212 um
+566,LabD,LabD_SD_2,"212, 500",8 inches,polycarbonate,20,47,Stainless steel,-88.0,-88,"on filters, dry",23.0,Oxidized at 60C for 2 hours with 30% H2O2,2.0,24.0,-88.0,SD,212-500 um
+567,LabD,LabD_SD_2,500,8 inches,polycarbonate,20,47,Stainless steel,-88.0,-88,"on filters, dry",23.0,Oxidized at 60C for 2 hours with 30% H2O2,2.0,24.0,-88.0,SD,>500 um
+568,LabD,LabD_SD_3,212,8 inches,polycarbonate,20,47,Stainless steel,-88.0,-88,"on filters, dry",24.0,Oxidized at 60C for 2 hours with 30% H2O2,2.0,24.0,-88.0,SD,20-212 um
+569,LabD,LabD_SD_3,"212, 500",8 inches,polycarbonate,20,47,Stainless steel,-88.0,-88,"on filters, dry",24.0,Oxidized at 60C for 2 hours with 30% H2O2,2.0,24.0,-88.0,SD,212-500 um
+5,LabA,LabA_CW_3,500,47 mm,Anodisc,18,25,Stainless steel + Glass,-88.0,-88,">500 on stainless steel storage chambers in petri dishes, dry, < 500 on Anodisc in petri dishes, dry)",0.4,,-88.0,-88.0,-88.0,CW,18-500 um
+6,LabA,LabA_CW_4,500,47 mm,Anodisc,18,25,Stainless steel + Glass,-88.0,-88,">500 on stainless steel storage chambers in petri dishes, dry, < 500 on Anodisc in petri dishes, dry)",0.4,,-88.0,-88.0,-88.0,CW,18-500 um
+570,LabD,LabD_SD_3,500,8 inches,polycarbonate,20,47,Stainless steel,-88.0,-88,"on filters, dry",24.0,Oxidized at 60C for 2 hours with 30% H2O2,2.0,24.0,-88.0,SD,>500 um
+571,LabD,LabD_SD_4,212,8 inches,polycarbonate,20,47,Stainless steel,-88.0,-88,"on filters, dry",23.0,Oxidized at 60C for 2 hours with 30% H2O2,2.0,24.0,-88.0,SD,20-212 um
+725,LabQ,LabQ_DW_5,212,3 inches,PCTE,20,47,Glass,-88.0,3,"on filters, dry",54.2,,-88.0,-88.0,-88.0,DW,212-500 um
+726,LabQ,LabQ_DW_5,500,3 inches,PCTE,20,47,Glass,-88.0,3,"on filters, dry",54.2,,-88.0,-88.0,-88.0,DW,>500 um
+727,LabQ,LabQ_DW_6,212,3 inches,PCTE,20,47,Glass,-88.0,3,"on filters, dry",54.2,,-88.0,-88.0,-88.0,DW,212-500 um
+728,LabQ,LabQ_DW_6,500,3 inches,PCTE,20,47,Glass,-88.0,3,"on filters, dry",54.2,,-88.0,-88.0,-88.0,DW,>500 um
+729,LabQ,LabQ_DW_7,212,3 inches,PCTE,20,47,Glass,-88.0,3,"on filters, dry",54.2,,-88.0,-88.0,-88.0,DW,212-500 um
+730,LabQ,LabQ_DW_7,500,3 inches,PCTE,20,47,Glass,-88.0,3,"on filters, dry",54.2,,-88.0,-88.0,-88.0,DW,>500 um
+731,LabQ,LabQ_DW_8,212,3 inches,PCTE,20,47,Glass,-88.0,3,"on filters, dry",54.2,,-88.0,-88.0,-88.0,DW,212-500 um
+732,LabQ,LabQ_DW_8,500,3 inches,PCTE,20,47,Glass,-88.0,3,"on filters, dry",54.2,,-88.0,-88.0,-88.0,DW,>500 um
+331,LabX,LabX_CW_1,212,203,stainless steel,20,203,stainless steel,-88.0,-88,25,7.0,,1.0,-88.0,-88.0,CW,>500 um
+332,LabX,LabX_CW_1,20,47,nylon,20,47,glass,-88.0,-88,25,14.0,,1.0,-88.0,-88.0,CW,212-500 um
+330,LabX,LabX_CW_1,500,203,stainless steel,20,203,stainless steel,-88.0,-88,25,7.0,,1.0,-88.0,-88.0,CW,1-20 um
+336,LabX,LabX_CW_2,20,47,nylon,20,47,glass,-88.0,-88,25,18.0,,10.0,-88.0,-88.0,CW,212-500 um
+334,LabX,LabX_CW_2,500,203,stainless steel,20,203,stainless steel,-88.0,-88,25,7.0,,1.0,-88.0,-88.0,CW,1-20 um
+342,LabX,LabX_CW_4,500,203,stainless steel,20,203,stainless steel,-88.0,-88,25,49.0,,1.0,-88.0,-88.0,CW,1-20 um
+340,LabX,LabX_CW_3,20,47,nylon,20,47,glass,-88.0,-88,25,31.0,,5.0,-88.0,-88.0,CW,212-500 um
+339,LabX,LabX_CW_3,212,203,stainless steel,20,203,stainless steel,-88.0,-88,25,31.0,,1.0,-88.0,-88.0,CW,>500 um
+338,LabX,LabX_CW_3,500,203,stainless steel,20,203,stainless steel,-88.0,-88,25,31.0,,1.0,-88.0,-88.0,CW,1-20 um
+572,LabD,LabD_SD_4,"212, 500",8 inches,polycarbonate,20,47,Stainless steel,-88.0,-88,"on filters, dry",23.0,Oxidized at 60C for 2 hours with 30% H2O2,2.0,24.0,-88.0,SD,212-500 um
+573,LabD,LabD_SD_4,500,8 inches,polycarbonate,20,47,Stainless steel,-88.0,-88,"on filters, dry",23.0,Oxidized at 60C for 2 hours with 30% H2O2,2.0,24.0,-88.0,SD,>500 um
+664,LabRR,LabRR_DW_2,500,200 mm,NA,-88,-88,NA,0.0,Digested 1 time with Fenton's reagent,dry,36.0,"Sample seemed to be digested OK after round 1, so particles were picked immediatly. The 212-500µm fraction was found to contain soft/brittle, suety residue, which may be undigested material.",0.0,0.0,0.0,DW,>500 um
+665,LabRR,LabRR_DW_2,212,200 mm,NA,-88,-88,NA,0.0,Digested 1 time with Fenton's reagent,dry,36.0,"Sample seemed to be digested OK after round 1, so particles were picked immediatly. The 212-500µm fraction was found to contain soft/brittle, suety residue, which may be undigested material.",0.0,0.0,0.0,DW,212-500 um
+668,LabR,LabR_SD_1,500,3.5 inches,polycarbonate,20,44,Glass,-88.0,-88,"on filters, dry",24.0,"24 hours per sample, not per size fraction",2.0,18.0,-88.0,SD,>500 um
+669,LabR,LabR_SD_1,212,3.5 inches,polycarbonate,20,44,Glass,-88.0,-88,"on filters, dry",24.0,"24 hours per sample, not per size fraction",2.0,18.0,-88.0,SD,212-500 um
+670,LabR,LabR_SD_1,212,3.5 inches,polycarbonate,20,44,Glass,-88.0,-88,"on filters, dry",24.0,"24 hours per sample, not per size fraction",2.0,18.0,-88.0,SD,20-212 um
+671,LabR,LabR_SD_1,212,3.5 inches,polycarbonate,1,44,Glass,-88.0,-88,"on filters, dry",24.0,"24 hours per sample, not per size fraction",2.0,18.0,-88.0,SD,1-20 um
+672,LabR,LabR_SD_2,500,3.5 inches,polycarbonate,20,44,Glass,-88.0,-88,"on filters, dry",24.0,"24 hours per sample, not per size fraction",2.0,18.0,-88.0,SD,>500 um
+673,LabR,LabR_SD_2,212,3.5 inches,polycarbonate,20,44,Glass,-88.0,-88,"on filters, dry",24.0,"24 hours per sample, not per size fraction",2.0,18.0,-88.0,SD,212-500 um
+674,LabR,LabR_SD_2,212,3.5 inches,polycarbonate,20,44,Glass,-88.0,-88,"on filters, dry",24.0,"24 hours per sample, not per size fraction",2.0,18.0,-88.0,SD,20-212 um
+574,LabT,LabT_CW_009,500,8,glass fiber,1,25,Glass,0.0,NA,"on filters, dry",0.15,,0.0,0.0,0.0,CW,>500 um
+575,LabT,LabT_CW_009,212,8,glassfiber,1,25,Glass,0.0,NA,"on filters, dry",0.15,,0.0,0.0,0.0,CW,212-500 um
+576,LabT,LabT_CW_009,45,8,glass fiber,1,25,Glass,0.0,NA,"on filters, dry",0.15,,0.0,0.0,0.0,CW,45-212 um
+577,LabT,LabT_CW_009,1,NA,glass fiber,1,47,Glass,0.0,NA,"on filters, dry",1.0,multiple filters,0.0,0.0,0.0,CW,1-45 um
+578,LabT,LabT_CW_010,500,8,glass fiber,1,25,Glass,0.0,NA,"on filters, dry",0.15,,0.0,0.0,0.0,CW,>500 um
+579,LabT,LabT_CW_010,212,8,glass fiber,1,25,Glass,0.0,NA,"on filters, dry",0.15,,0.0,0.0,0.0,CW,212-500 um
+580,LabT,LabT_CW_010,45,8,glass fiber,1,25,Glass,0.0,NA,"on filters, dry",0.15,,0.0,0.0,0.0,CW,45-212 um
+581,LabT,LabT_CW_010,1,NA,glass fiber,1,47,Glass,0.0,NA,"on filters, dry",1.0,,0.0,0.0,0.0,CW,1-45 um
+582,LabT,LabT_CW_011,500,8,glass fiber,1,25,Glass,0.0,NA,"on filters, dry",0.15,,0.0,0.0,0.0,CW,>500 um
+583,LabT,LabT_CW_011,212,8,glass fiber,1,25,Glass,0.0,NA,"on filters, dry",0.15,,0.0,0.0,0.0,CW,212-500 um
+584,LabT,LabT_CW_011,45,8,glass fiber,1,25,Glass,0.0,NA,"on filters, dry",0.15,,0.0,0.0,0.0,CW,45-212 um
+585,LabT,LabT_CW_011,1,NA,glass fiber,1,47,Glass,0.0,NA,"on filters, dry",1.0,multiple filters,0.0,0.0,0.0,CW,1-45 um
+586,LabT,LabT_CW_012,500,8,glass fiber,1,25,Glass,0.0,NA,"on filters, dry",0.1,,0.0,0.0,0.0,CW,>500 um
+587,LabT,LabT_CW_012,212,8,glass fiber,1,25,Glass,0.0,NA,"on filters, dry",0.1,,0.0,0.0,0.0,CW,212-500 um
+588,LabT,LabT_CW_012,45,8,glass fiber,1,25,Glass,0.0,NA,"on filters, dry",0.1,,0.0,0.0,0.0,CW,45-212 um
+470,LabF,LabF_CW_1,212,3.94,"Stainless steel (20¬µm), Silver membrane (1,2¬µm)",20,25,Glass,0.0,0,"on filters, dry",0.75,,0.0,0.0,0.0,CW,212-500 um
+471,LabF,LabF_CW_2,212,3.94,"Stainless steel (20¬µm), Silver membrane (1,2¬µm)",20,25,Glass,0.0,0,"on filters, dry",0.75,,0.0,0.0,0.0,CW,212-500 um
+472,LabF,LabF_CW_3,212,3.94,"Stainless steel (20¬µm), Silver membrane (1,2¬µm)",20,25,Glass,0.0,0,"on filters, dry",0.75,,0.0,0.0,0.0,CW,212-500 um
+473,LabF,LabF_CW_4,212,3.94,"Stainless steel (20¬µm), Silver membrane (1,2¬µm)",20,25,Glass,0.0,0,"on filters, dry",0.75,,0.0,0.0,0.0,CW,212-500 um
+474,LabF,LabF_CW_1,212,3.94,"Stainless steel (20¬µm), Silver membrane (1,2¬µm)",20,25,Glass,0.0,0,"on filters, dry",1.5,,0.0,0.0,0.0,CW,20-212 um
+475,LabF,LabF_CW_2,212,3.94,"Stainless steel (20¬µm), Silver membrane (1,2¬µm)",20,25,Glass,0.0,0,"on filters, dry",1.5,,0.0,0.0,0.0,CW,20-212 um
+476,LabF,LabF_CW_3,212,3.94,"Stainless steel (20¬µm), Silver membrane (1,2¬µm)",20,25,Glass,0.0,0,"on filters, dry",1.5,,0.0,0.0,0.0,CW,20-212 um
+477,LabF,LabF_CW_4,212,3.94,"Stainless steel (20¬µm), Silver membrane (1,2¬µm)",20,25,Glass,0.0,0,"on filters, dry",1.5,,0.0,0.0,0.0,CW,20-212 um
+478,LabF,LabF_CW_1,212,3.94,"Stainless steel (20¬µm), Silver membrane (1,2¬µm)",1,25,Glass,0.0,0,"on filters, dry",0.5,Last filtration step (1.2¬µm) responsible for most of the processing time.,0.0,0.0,0.0,CW,1-20 um
+479,LabF,LabF_CW_2,212,3.94,"Stainless steel (20¬µm), Silver membrane (1,2¬µm)",1,25,Glass,0.0,0,"on filters, dry",0.5,Last filtration step (1.2¬µm) responsible for most of the processing time.,0.0,0.0,0.0,CW,1-20 um
+480,LabF,LabF_CW_3,212,3.94,"Stainless steel (20¬µm), Silver membrane (1,2¬µm)",1,25,Glass,0.0,0,"on filters, dry",0.5,Last filtration step (1.2¬µm) responsible for most of the processing time.,0.0,0.0,0.0,CW,1-20 um
+481,LabF,LabF_CW_4,212,3.94,"Stainless steel (20¬µm), Silver membrane (1,2¬µm)",1,25,Glass,0.0,0,"on filters, dry",0.5,Last filtration step (1.2¬µm) responsible for most of the processing time.,0.0,0.0,0.0,CW,1-20 um
+482,LabQ,LabQ_CW_1,212,3,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",1.0,,-88.0,-88.0,-88.0,CW,212-500 um
+483,LabQ,LabQ_CW_2,212,3,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",1.0,,-88.0,-88.0,-88.0,CW,212-500 um
+484,LabQ,LabQ_CW_3,212,3,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",1.0,,-88.0,-88.0,-88.0,CW,212-500 um
+485,LabQ,LabQ_CW_4,212,3,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",1.0,,-88.0,-88.0,-88.0,CW,212-500 um
+486,LabQ,LabQ_CW_5,212,3,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",1.0,,-88.0,-88.0,-88.0,CW,212-500 um
+487,LabQ,LabQ_CW_6,212,3,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",1.0,,-88.0,-88.0,-88.0,CW,212-500 um
+488,LabQ,LabQ_CW_7,212,3,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",1.0,,-88.0,-88.0,-88.0,CW,212-500 um
+489,LabQ,LabQ_CW_8,212,3,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",1.0,,-88.0,-88.0,-88.0,CW,212-500 um
+589,LabT,LabT_CW_012,1,NA,glass fiber,1,47,Glass,0.0,NA,"on filters, dry",0.1,multiple filters,0.0,0.0,0.0,CW,1-45 um
+666,LabRR,LabRR_DW_4,500,200 mm,NA,-88,-88,NA,0.0,Digested 1 time with Fenton's reagent,dry,36.0,"Sample seemed to be digested OK after round 1, so particles were picked immediatly. The 212-500µm fraction was found to contain soft/brittle, suety residue, which may be undigested material.",0.0,0.0,0.0,DW,>500 um
+667,LabRR,LabRR_DW_4,212,200 mm,NA,-88,-88,NA,0.0,Digested 1 time with Fenton's reagent,dry,36.0,"Sample seemed to be digested OK after round 1, so particles were picked immediatly. The 212-500µm fraction was found to contain soft/brittle, suety residue, which may be undigested material.",0.0,0.0,0.0,DW,212-500 um
+675,LabR,LabR_SD_2,212,3.5 inches,polycarbonate,1,44,Glass,-88.0,-88,"on filters, dry",24.0,"24 hours per sample, not per size fraction",2.0,18.0,-88.0,SD,1-20 um
+676,LabR,LabR_SD_3,500,3.5 inches,polycarbonate,20,44,Glass,-88.0,-88,"on filters, dry",24.0,"24 hours per sample, not per size fraction",2.0,18.0,-88.0,SD,>500 um
+677,LabR,LabR_SD_3,212,3.5 inches,polycarbonate,20,44,Glass,-88.0,-88,"on filters, dry",24.0,"24 hours per sample, not per size fraction",2.0,18.0,-88.0,SD,212-500 um
+678,LabR,LabR_SD_3,212,3.5 inches,polycarbonate,20,44,Glass,-88.0,-88,"on filters, dry",24.0,"24 hours per sample, not per size fraction",2.0,18.0,-88.0,SD,20-212 um
+679,LabR,LabR_SD_3,212,3.5 inches,polycarbonate,1,44,Glass,-88.0,-88,"on filters, dry",24.0,"24 hours per sample, not per size fraction",2.0,18.0,-88.0,SD,1-20 um
+680,LabR,LabR_SD_4,500,3.5 inches,polycarbonate,20,44,Glass,-88.0,-88,"on filters, dry",24.0,"24 hours per sample, not per size fraction",2.0,18.0,-88.0,SD,>500 um
+681,LabR,LabR_SD_4,212,3.5 inches,polycarbonate,20,44,Glass,-88.0,-88,"on filters, dry",24.0,"24 hours per sample, not per size fraction",2.0,18.0,-88.0,SD,212-500 um
+682,LabR,LabR_SD_4,212,3.5 inches,polycarbonate,20,44,Glass,-88.0,-88,"on filters, dry",24.0,"24 hours per sample, not per size fraction",2.0,18.0,-88.0,SD,20-212 um
+683,LabR,LabR_SD_4,212,3.5 inches,polycarbonate,1,44,Glass,-88.0,-88,"on filters, dry",24.0,"24 hours per sample, not per size fraction",2.0,18.0,-88.0,SD,1-20 um
+590,LabR,LabR_DW_1,500,3.5 inches,polycarbonate,20,44,Glass,-88.0,-88,"on filters, dry",1.0,,-88.0,-88.0,-88.0,DW,>500 um
+591,LabR,LabR_DW_1,212,3.5 inches,polycarbonate,20,44,Glass,-88.0,Digested 1 time with Fenton's reagent,"on filters, dry",4.5,Let samples soak in the 10% Alcojet detergent step overnight vs. only 3 hours to digest all organic material,4.5,-88.0,-88.0,DW,212-500 um
+592,LabR,LabR_DW_2,500,3.5 inches,polycarbonate,20,44,Glass,-88.0,-88,"on filters, dry",1.0,,-88.0,-88.0,-88.0,DW,>500 um
+593,LabR,LabR_DW_2,212,3.5 inches,polycarbonate,20,44,Glass,-88.0,Digested 2 times with Fenton's reagent,"on filters, dry",4.5,Let samples soak in the 10% Alcojet detergent step overnight vs. only 3 hours to digest all organic material,4.5,6.0,-88.0,DW,212-500 um
+594,LabR,LabR_DW_3,500,3.5 inches,polycarbonate,20,44,Glass,-88.0,-88,"on filters, dry",1.0,,-88.0,-88.0,-88.0,DW,>500 um
+595,LabR,LabR_DW_3,212,3.5 inches,polycarbonate,20,44,Glass,-88.0,Digested 1 time with Fenton's reagent,"on filters, dry",5.0,Let samples soak in the 10% Alcojet detergent step overnight vs. only 3 hours to digest all organic material,5.0,-88.0,-88.0,DW,212-500 um
+596,LabR,LabR_DW_4,500,3.5 inches,polycarbonate,20,44,Glass,-88.0,-88,"on filters, dry",1.0,,-88.0,-88.0,-88.0,DW,>500 um
+597,LabR,LabR_DW_4,212,3.5 inches,polycarbonate,20,44,Glass,-88.0,Digested 1 time with Fenton's reagent,"on filters, dry",5.0,Let samples soak in the 10% Alcojet detergent step overnight vs. only 3 hours to digest all organic material,5.0,-88.0,-88.0,DW,212-500 um
+684,LabR,LabR_FT_1,500,3.5 inches,polycarbonate,20,44,Glass,45.0,1,"on filters, dry",51.0,,-88.0,-88.0,48.0,FT,>500 um
+685,LabR,LabR_FT_1,212,3.5 inches,polycarbonate,20,44,Glass,45.0,1,"on filters, dry",51.0,,-88.0,-88.0,48.0,FT,212-500 um
+686,LabR,LabR_FT_1,212,3.5 inches,polycarbonate,20,44,Glass,45.0,1,"on filters, dry",51.0,Detergent soak for 12 hours following digestion,-88.0,-88.0,48.0,FT,20-212 um
+687,LabR,LabR_FT_1,213,3.5 inches,polycarbonate,10,44,Glass,45.0,1,"on filters, dry",51.0,Detergent soak for 12 hours following digestion,-88.0,-88.0,48.0,FT,10-20 um
+688,LabR,LabR_FT_1,214,3.5 inches,polycarbonate,1,44,Glass,45.0,1,"on filters, dry",51.0,Detergent soak for 12 hours following digestion,-88.0,-88.0,48.0,FT,1-20 um
+502,LabQQ,LabQQ_CW_1,212,1.85 inches,polycarbonate,20,47,Glass,0.0,NR,"on filters, dry",0.5,no particles,0.0,0.0,0.0,CW,212-500 um
+344,LabL,LabL_CW_1,500,730000,GF/A,2,47000,glass and stainless steel clamp,-88.0,-88,GF/A in petri dishes,4.0,"4 h for all cw samples, every samples < 125 um was discarded. All units on this sheet are in um",-88.0,-88.0,-88.0,CW,>500 um
+598,LabRR,LabRR_DW_1,500,200 mm,NA,-88,-88,NA,0.0,Digested 1 time with Fenton's reagent,dry,36.0,"Sample seemed to be digested OK after round 1, so particles were picked immediatly. The 212-500µm fraction was found to contain soft/brittle, suety residue, which may be undigested material.",0.0,0.0,0.0,DW,>500 um
+599,LabRR,LabRR_DW_1,212,200 mm,NA,-88,-88,NA,0.0,Digested 1 time with Fenton's reagent,dry,36.0,"Sample seemed to be digested OK after round 1, so particles were picked immediatly. The 212-500µm fraction was found to contain soft/brittle, suety residue, which may be undigested material.",0.0,0.0,0.0,DW,212-500 um
+689,LabR,LabR_FT_2,500,3.5 inches,polycarbonate,20,44,Glass,45.0,1,"on filters, dry",51.0,,-88.0,-88.0,48.0,FT,>500 um
+690,LabR,LabR_FT_2,212,3.5 inches,polycarbonate,20,44,Glass,45.0,1,"on filters, dry",51.0,,-88.0,-88.0,48.0,FT,212-500 um
+691,LabR,LabR_FT_2,212,3.5 inches,polycarbonate,20,44,Glass,45.0,1,"on filters, dry",51.0,Detergent soak for 12 hours following digestion,-88.0,-88.0,48.0,FT,20-212 um
+692,LabR,LabR_FT_2,213,3.5 inches,polycarbonate,10,44,Glass,45.0,1,"on filters, dry",51.0,Detergent soak for 12 hours following digestion,-88.0,-88.0,48.0,FT,10-20 um
+693,LabR,LabR_FT_2,214,3.5 inches,polycarbonate,1,44,Glass,45.0,1,"on filters, dry",51.0,Detergent soak for 12 hours following digestion,-88.0,-88.0,48.0,FT,1-20 um
+694,LabR,LabR_FT_3,500,3.5 inches,polycarbonate,20,44,Glass,45.0,1,"on filters, dry",51.0,,-88.0,-88.0,48.0,FT,>500 um
+695,LabR,LabR_FT_3,212,3.5 inches,polycarbonate,20,44,Glass,45.0,1,"on filters, dry",51.0,,-88.0,-88.0,48.0,FT,212-500 um
+696,LabR,LabR_FT_3,212,3.5 inches,polycarbonate,20,44,Glass,45.0,1,"on filters, dry",51.0,Detergent soak for 12 hours following digestion,-88.0,-88.0,48.0,FT,20-212 um
+697,LabR,LabR_FT_3,213,3.5 inches,polycarbonate,10,44,Glass,45.0,1,"on filters, dry",51.0,Detergent soak for 12 hours following digestion,-88.0,-88.0,48.0,FT,10-20 um
+698,LabR,LabR_FT_3,214,3.5 inches,polycarbonate,1,44,Glass,45.0,1,"on filters, dry",51.0,Detergent soak for 12 hours following digestion,-88.0,-88.0,48.0,FT,1-20 um
+699,LabR,LabR_FT_4,212,3.5 inches,polycarbonate,20,44,Glass,45.0,1,"on filters, dry",51.0,,-88.0,-88.0,48.0,FT,212-500 um
+700,LabR,LabR_FT_4,212,3.5 inches,polycarbonate,20,44,Glass,45.0,1,"on filters, dry",51.0,Detergent soak for 12 hours following digestion,-88.0,-88.0,48.0,FT,20-212 um
+503,LabQQ,LabQQ_CW_2,212,1.85 inches,polycarbonate,20,47,Glass,0.0,NR,"on filters, dry",0.5,no particles,0.0,0.0,0.0,CW,212-500 um
+504,LabQQ,LabQQ_CW_3,212,1.85 inches,polycarbonate,20,47,Glass,0.0,NR,"on filters, dry",0.5,no particles,0.0,0.0,0.0,CW,212-500 um
+505,LabQQ,LabQQ_CW_4,212,1.85 inches,polycarbonate,20,47,Glass,0.0,NR,"on filters, dry",0.5,no particles,0.0,0.0,0.0,CW,212-500 um
+701,LabR,LabR_FT_4,213,3.5 inches,polycarbonate,10,44,Glass,45.0,1,"on filters, dry",51.0,Detergent soak for 12 hours following digestion,-88.0,-88.0,48.0,FT,10-20 um
+702,LabR,LabR_FT_4,214,3.5 inches,polycarbonate,1,44,Glass,45.0,1,"on filters, dry",51.0,Detergent soak for 12 hours following digestion,-88.0,-88.0,48.0,FT,1-20 um
+733,LabQ,LabQ_SD_1,212,3 inches,PCTE,1,47,Glass,-88.0,-88,"on filters, dry",138.08333333,Multiple days of vacuum filtration required,4.0,24.0,-88.0,SD,1-20 um
+600,LabWW,LabWW_CW_1,500,3 inches,Stainless-steel,500,25,Metal,0.0,not applicable,"on filters, dry",3.0,Specially constructed metal holders to support the sieves and collect the sample that passed through,1.0,1.0,0.0,CW,>500 um
+601,LabWW,LabWW_CW_2,500,3 inches,Stainless-steel,500,25,Metal,0.0,not applicable,"on filters, dry",4.0,Specially constructed metal holders to support the sieves and collect the sample that passed through,1.0,1.0,0.0,CW,>500 um
+602,LabWW,LabWW_CW_3,500,3 inches,Stainless-steel,500,25,Metal,0.0,not applicable,"on filters, dry",5.0,Specially constructed metal holders to support the sieves and collect the sample that passed through,1.0,1.0,0.0,CW,>500 um
+603,LabWW,LabWW_CW_4,500,3 inches,Stainless-steel,500,25,Metal,0.0,not applicable,"on filters, dry",6.0,Specially constructed metal holders to support the sieves and collect the sample that passed through,1.0,1.0,0.0,CW,>500 um
+604,LabWW,LabWW_CW_1,500,3 inches,Stainless-steel,212,25,Metal,0.0,not applicable,"on filters, dry",7.0,Specially constructed metal holders to support the sieves and collect the sample that passed through,1.0,1.0,0.0,CW,212-500 um
+605,LabWW,LabWW_CW_2,212,3 inches,Stainless-steel,212,25,Metal,0.0,not applicable,"on filters, dry",8.0,Specially constructed metal holders to support the sieves and collect the sample that passed through,1.0,1.0,0.0,CW,212-500 um
+606,LabWW,LabWW_CW_3,212,3 inches,Stainless-steel,212,25,Metal,0.0,not applicable,"on filters, dry",9.0,Specially constructed metal holders to support the sieves and collect the sample that passed through,1.0,1.0,0.0,CW,212-500 um
+607,LabWW,LabWW_CW_4,212,3 inches,Stainless-steel,212,25,Metal,0.0,not applicable,"on filters, dry",10.0,Specially constructed metal holders to support the sieves and collect the sample that passed through,1.0,1.0,0.0,CW,212-500 um
+506,LabJJ,LabJJ_CW_1,212,8,polycarbonate,20,47,Glass,0.0,0,"Wet until vacuumed, then on filters, dry",20.0,"Time for the initial sample included gathering materials, filtering water, cleaning, going over the protocol and attempting to filter the sample down to the 1 micron size fraction.  This time includes two people working together.",0.0,0.0,0.0,CW,212-500 um
+507,LabJJ,LabJJ_CW_2,212,8,polycarbonate,20,47,Glass,0.0,0,"Wet until vacuumed, then on filters, dry",2.0,"These times include sieving, vacuuming, cleaning, filtering water, etc. with two people.",0.0,0.0,0.0,CW,212-500 um
+508,LabJJ,LabJJ_CW_3,212,8,polycarbonate,20,47,Glass,0.0,0,"Wet until vacuumed, then on filters, dry",2.0,,0.0,0.0,0.0,CW,212-500 um
+509,LabJJ,LabJJ_CW_4,212,8,polycarbonate,20,47,Glass,0.0,0,"Wet until vacuumed, then on filters, dry",2.0,,0.0,0.0,0.0,CW,212-500 um
+510,LabJJ,LabJJ_CW_1,500,8,polycarbonate,20,47,Glass,0.0,0,"Wet until vacuumed, then on filters, dry",20.0,"Time for the initial sample included gathering materials, filtering water, cleaning, going over the protocol and attempting to filter the sample down to the 1 micron size fraction.  This time includes two people working together.",0.0,0.0,0.0,CW,>500 um
+511,LabJJ,LabJJ_CW_2,500,8,polycarbonate,20,47,Glass,0.0,0,"Wet until vacuumed, then on filters, dry",2.0,"These times include sieving, vacuuming, cleaning, filtering water, etc. with two people.",0.0,0.0,0.0,CW,>500 um
+512,LabJJ,LabJJ_CW_3,500,8,polycarbonate,20,47,Glass,0.0,0,"Wet until vacuumed, then on filters, dry",2.0,,0.0,0.0,0.0,CW,>500 um
+513,LabJJ,LabJJ_CW_4,500,8,polycarbonate,20,47,Glass,0.0,0,"Wet until vacuumed, then on filters, dry",2.0,,0.0,0.0,0.0,CW,>500 um
+608,LabWW,LabWW_CW_1,20,3 inches,Ni-mesh,26,25,Metal,0.0,not applicable,"on filters, dry",11.0,Specially constructed metal holders to support the sieves and collect the sample that passed through,1.0,1.0,0.0,CW,20-212 um
+609,LabWW,LabWW_CW_2,20,3 inches,Ni-mesh,26,25,Metal,0.0,not applicable,"on filters, dry",12.0,Actual size fraction is 26-212 um. Specially constructed metal holders to support the sieves and collect the sample that passed through,1.0,1.0,0.0,CW,20-212 um
+610,LabWW,LabWW_CW_3,20,3 inches,Ni-mesh,26,25,Metal,0.0,not applicable,"on filters, dry",13.0,Actual size fraction is 26-212 um. Specially constructed metal holders to support the sieves and collect the sample that passed through,1.0,1.0,0.0,CW,20-212 um
+514,LabJ,LabJ_CW_1,500,8,PCTE,500,44,Glass,0.0,0,Dry,0.1,,0.4,0.4,0.0,CW,>500 um
+515,LabJ,LabJ_CW_1,212,8,PCTE,212,44,Glass,0.0,0,Dry,1.1,,0.4,0.4,0.0,CW,212-500 um
+516,LabJ,LabJ_CW_1,212,8,PCTE,20,44,Glass,0.0,0,Dry,20.0,Each filter can only filter 30-50mL of samples,0.4,0.4,0.0,CW,20-212 um
+517,LabJ,LabJ_CW_2,500,8,PCTE,500,44,Glass,0.0,0,Dry,0.1,,0.4,0.4,0.0,CW,>500 um
+518,LabJ,LabJ_CW_2,212,8,PCTE,212,44,Glass,0.0,0,Dry,1.1,,0.4,0.4,0.0,CW,212-500 um
+519,LabJ,LabJ_CW_2,212,8,PCTE,20,44,Glass,0.0,0,Dry,15.0,Each filter can only filter 30-50mL of samples,0.4,0.4,0.0,CW,20-212 um
+520,LabJ,LabJ_CW_3,500,8,PCTE,500,44,Glass,0.0,0,Dry,0.1,,0.4,0.4,0.0,CW,>500 um
+521,LabJ,LabJ_CW_3,212,8,PCTE,212,44,Glass,0.0,0,Dry,1.1,,0.4,0.4,0.0,CW,212-500 um
+522,LabJ,LabJ_CW_3,212,8,PCTE,20,44,Glass,0.0,0,Dry,15.0,Each filter can only filter 30-50mL of samples,0.4,0.4,0.0,CW,20-212 um
+523,LabJ,LabJ_CW_4,500,8,PCTE,500,44,Glass,0.0,0,Dry,0.1,,0.4,0.4,0.0,CW,>500 um
+524,LabJ,LabJ_CW_4,212,9,PCTE,212,44,Glass,0.0,0,Dry,1.1,,0.4,0.4,0.0,CW,212-500 um
+525,LabJ,LabJ_CW_4,212,8,PCTE,20,44,Glass,0.0,0,Dry,30.0,Each filter can only filter 30-50mL of samples,0.4,0.4,0.0,CW,20-212 um
+611,LabWW,LabWW_CW_4,20,3 inches,Ni-mesh,26,25,Metal,0.0,not applicable,"on filters, dry",14.0,Actual size fraction is 26-212 um. Specially constructed metal holders to support the sieves and collect the sample that passed through,1.0,1.0,0.0,CW,20-212 um
+612,LabWW,LabWW_CW_1,1,3 inches,Ag Membrane,1,25,Metal,0.0,not applicable,"on filters, dry",15.0,Actual size fraction is 26-212 um. Specially constructed metal holders to support the sieves and collect the sample that passed through,1.0,1.0,0.0,CW,1-20 um
+613,LabWW,LabWW_CW_2,1,3 inches,Ag Membrane,1,25,Metal,0.0,not applicable,"on filters, dry",16.0,Specially constructed metal holders to support the sieves and collect the sample that passed through,1.0,1.0,0.0,CW,1-20 um
+614,LabWW,LabWW_CW_3,1,3 inches,Ag Membrane,1,25,Metal,0.0,not applicable,"on filters, dry",17.0,Specially constructed metal holders to support the sieves and collect the sample that passed through,1.0,1.0,0.0,CW,1-20 um
+615,LabWW,LabWW_CW_4,1,3 inches,Ag Membrane,1,25,Metal,0.0,not applicable,"on filters, dry",18.0,Specially constructed metal holders to support the sieves and collect the sample that passed through,1.0,1.0,0.0,CW,1-20 um
+734,LabQ,LabQ_SD_1,212,3 inches,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",138.08333333,Multiple days of vacuum filtration required,4.0,24.0,-88.0,SD,20-212 um
+735,LabQ,LabQ_SD_1,212,3 inches,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",66.08333333,,4.0,24.0,-88.0,SD,212-500 um
+736,LabQ,LabQ_SD_1,500,3 inches,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",66.08333333,,4.0,24.0,-88.0,SD,>500 um
+737,LabQ,LabQ_SD_2,212,3 inches,PCTE,1,47,Glass,-88.0,-88,"on filters, dry",65.83333333,"Separated, but not filtered",4.0,24.0,-88.0,SD,1-20 um
+738,LabQ,LabQ_SD_2,212,3 inches,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",66.08333333,,4.0,24.0,-88.0,SD,20-212 um
+739,LabQ,LabQ_SD_2,212,3 inches,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",66.08333333,,4.0,24.0,-88.0,SD,212-500 um
+740,LabQ,LabQ_SD_2,500,3 inches,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",66.08333333,,4.0,24.0,-88.0,SD,>500 um
+741,LabQ,LabQ_SD_3,212,3 inches,PCTE,1,47,Glass,-88.0,-88,"on filters, dry",65.83333333,"Separated, but not filtered",4.0,24.0,-88.0,SD,1-20 um
+616,LabV,LabV_SD_1,20,3 inches,glass fiber,1,47,Stainless-steel,-88.0,-88,Glass jar; Wet,-88.0,Microscopy only; all particles collected into aluminum DSC pans for Pyr-GC-MS; B2 seperation overnight,2.0,-88.0,-88.0,SD,20-212 um
+617,LabV,LabV_SD_1,212,3 inches,glass fiber,1,47,Stainless-steel,-88.0,-88,Glass jar; Wet,-88.0,Microscopy only; all particles collected into aluminum DSC pans for Pyr-GC-MS; B2 seperation overnight,2.0,-88.0,-88.0,SD,212-500 um
+618,LabV,LabV_SD_1,500,3 inches,glass fiber,1,47,Stainless-steel,-88.0,-88,Glass jar; Wet,-88.0,Microscopy only; all particles collected into aluminum DSC pans for Pyr-GC-MS; B2 seperation overnight,2.0,-88.0,-88.0,SD,>500 um
+619,LabV,LabV_SD_1,-88,3 inches,glass fiber,1,47,Stainless-steel,-88.0,-88,Glass jar; Wet,-88.0,Microscopy only; all particles collected into aluminum DSC pans for Pyr-GC-MS; B2 seperation overnight,2.0,-88.0,-88.0,SD,1-20 um
+620,LabV,LabV_SD_2,20,3 inches,glass fiber,1,47,Stainless-steel,-88.0,-88,Glass jar; Wet,-88.0,Microscopy only; all particles collected into aluminum DSC pans for Pyr-GC-MS; B2 seperation overnight,2.0,-88.0,-88.0,SD,20-212 um
+621,LabV,LabV_SD_2,212,3 inches,glass fiber,1,47,Stainless-steel,-88.0,-88,Glass jar; Wet,-88.0,Microscopy only; all particles collected into aluminum DSC pans for Pyr-GC-MS; B2 seperation overnight,2.0,-88.0,-88.0,SD,212-500 um
+622,LabV,LabV_SD_2,500,3 inches,glass fiber,1,47,Stainless-steel,-88.0,-88,Glass jar; Wet,-88.0,Microscopy only; all particles collected into aluminum DSC pans for Pyr-GC-MS; B2 seperation overnight,2.0,-88.0,-88.0,SD,>500 um
+623,LabV,LabV_SD_2,-88,3 inches,glass fiber,1,47,Stainless-steel,-88.0,-88,Glass jar; Wet,-88.0,Microscopy only; all particles collected into aluminum DSC pans for Pyr-GC-MS; B2 seperation overnight,2.0,-88.0,-88.0,SD,1-20 um
+624,LabV,LabV_SD_3,20,3 inches,glass fiber,1,47,Stainless-steel,-88.0,-88,Glass jar; Wet,-88.0,Microscopy only; all particles collected into aluminum DSC pans for Pyr-GC-MS; B2 seperation overnight,2.0,-88.0,-88.0,SD,20-212 um
+625,LabV,LabV_SD_3,212,3 inches,glass fiber,1,47,Stainless-steel,-88.0,-88,Glass jar; Wet,-88.0,Microscopy only; all particles collected into aluminum DSC pans for Pyr-GC-MS; B2 seperation overnight,2.0,-88.0,-88.0,SD,212-500 um
+626,LabV,LabV_SD_3,500,3 inches,glass fiber,1,47,Stainless-steel,-88.0,-88,Glass jar; Wet,-88.0,Microscopy only; all particles collected into aluminum DSC pans for Pyr-GC-MS; B2 seperation overnight,2.0,-88.0,-88.0,SD,>500 um
+627,LabV,LabV_SD_3,-88,3 inches,glass fiber,1,47,Stainless-steel,-88.0,-88,Glass jar; Wet,-88.0,Microscopy only; all particles collected into aluminum DSC pans for Pyr-GC-MS; B2 seperation overnight,2.0,-88.0,-88.0,SD,1-20 um
+628,LabV,LabV_SD_4,20,3 inches,glass fiber,1,47,Stainless-steel,-88.0,-88,Glass jar; Wet,-88.0,Microscopy only; all particles collected into aluminum DSC pans for Pyr-GC-MS; B2 seperation overnight,2.0,-88.0,-88.0,SD,20-212 um
+629,LabV,LabV_SD_4,212,3 inches,glass fiber,1,47,Stainless-steel,-88.0,-88,Glass jar; Wet,-88.0,Microscopy only; all particles collected into aluminum DSC pans for Pyr-GC-MS; B2 seperation overnight,2.0,-88.0,-88.0,SD,212-500 um
+630,LabV,LabV_SD_4,500,3 inches,glass fiber,1,47,Stainless-steel,-88.0,-88,Glass jar; Wet,-88.0,Microscopy only; all particles collected into aluminum DSC pans for Pyr-GC-MS; B2 seperation overnight,2.0,-88.0,-88.0,SD,>500 um
+631,LabV,LabV_SD_4,-88,3 inches,glass fiber,1,47,Stainless-steel,-88.0,-88,Glass jar; Wet,-88.0,Microscopy only; all particles collected into aluminum DSC pans for Pyr-GC-MS; B2 seperation overnight,2.0,-88.0,-88.0,SD,1-20 um
+711,LabB,LabB_DW_1,212,8,MCE,45,47,Glass,50.0,2,"on filters, dry",28.0,,0.0,0.0,26.5,DW,212-500 um
+712,LabB,LabB_DW_1,500,8,MCE,45,47,Glass,50.0,2,"on filters, dry",28.0,,0.0,0.0,26.5,DW,>500 um
+713,LabB,LabB_DW_2,212,8,MCE,45,47,Glass,50.0,1,"on filters, dry",23.0,,0.0,0.0,21.0,DW,212-500 um
+632,LabN,LabN_CW_5,212,3,PCTE,20,47,Glass,-88.0,-88,"dry, on filters, in glass petri dish",0.08,"Increased hot plate temperature improved filtration; used 3 filters for the 1 um filtration, which could have resulted in sample loss; all times are estimates",-88.0,-88.0,-88.0,CW,212-500 um
+633,LabN,LabN_CW_6,212,3,PCTE,20,47,Glass,-88.0,-88,"dry, on filters, in glass petri dish",0.08,"Increased hot plate temperature improved filtration; used 2 filters for the 1 um filtration, which could have resulted in sample loss",-88.0,-88.0,-88.0,CW,212-500 um
+634,LabN,LabN_CW_7,212,3,PCTE,20,47,Glass,-88.0,-88,"dry, on filters, in glass petri dish",0.08,"Increased hot plate temperature improved filtration; used 3 filters for the 1 um filtration, which could have resulted in sample loss",-88.0,-88.0,-88.0,CW,212-500 um
+635,LabN,LabN_CW_8,212,3,PCTE,20,47,Glass,-88.0,-88,"dry, on filters, in glass petri dish",0.08,Increased hot plate temperature improved filtration,-88.0,-88.0,-88.0,CW,212-500 um
+636,LabN,LabN_CW_5,500,3,PCTE,20,47,Glass,-88.0,-88,"dry, on filters, in glass petri dish",0.08,"Increased hot plate temperature improved filtration; used 3 filters for the 1 um filtration, which could have resulted in sample loss",-88.0,-88.0,-88.0,CW,>500 um
+637,LabN,LabN_CW_6,500,3,PCTE,20,47,Glass,-88.0,-88,"dry, on filters, in glass petri dish",0.08,"Increased hot plate temperature improved filtration; used 2 filters for the 1 um filtration, which could have resulted in sample loss",-88.0,-88.0,-88.0,CW,>500 um
+638,LabN,LabN_CW_7,500,3,PCTE,20,47,Glass,-88.0,-88,"dry, on filters, in glass petri dish",0.08,"Increased hot plate temperature improved filtration; used 3 filters for the 1 um filtration, which could have resulted in sample loss",-88.0,-88.0,-88.0,CW,>500 um
+639,LabN,LabN_CW_8,500,3,PCTE,20,47,Glass,-88.0,-88,"dry, on filters, in glass petri dish",0.08,Increased hot plate temperature improved filtration,-88.0,-88.0,-88.0,CW,>500 um
+640,LabN,LabN_CW_5,212,3,PCTE,1,47,Glass,-88.0,-88,"dry, on filters, in glass petri dish",3.7,"Increased hot plate temperature improved filtration; used 3 filters for the 1 um filtration, which could have resulted in sample loss",-88.0,-88.0,-88.0,CW,1-20 um
+641,LabN,LabN_CW_6,212,3,PCTE,1,47,Glass,-88.0,-88,"dry, on filters, in glass petri dish",2.75,"Increased hot plate temperature improved filtration; used 2 filters for the 1 um filtration, which could have resulted in sample loss",-88.0,-88.0,-88.0,CW,1-20 um
+642,LabN,LabN_CW_7,212,3,PCTE,1,47,Glass,-88.0,-88,"dry, on filters, in glass petri dish",4.0,"Increased hot plate temperature improved filtration; used 3 filters for the 1 um filtration, which could have resulted in sample loss",-88.0,-88.0,-88.0,CW,1-20 um
+643,LabN,LabN_CW_8,212,3,PCTE,1,47,Glass,-88.0,-88,"dry, on filters, in glass petri dish",2.0,Increased hot plate temperature improved filtration,-88.0,-88.0,-88.0,CW,1-20 um
+644,LabN,LabN_CW_5,500,3,PCTE,20,47,Glass,-88.0,-88,"dry, on filters, in glass petri dish",0.17,"Increased hot plate temperature improved filtration; used 3 filters for the 1 um filtration, which could have resulted in sample loss",-88.0,-88.0,-88.0,CW,20-212 um
+429,LabCC,LabCC_CW_1,250,8 inches,polycarbonate,1,47,Plastic,0.0,0,Dry,0.16,,0.0,0.0,0.0,CW,250-500 um
+430,LabCC,LabCC_CW_1,20,8 inches,polycarbonate,1,47,Plastic,0.0,0,Dry,0.16,,0.0,0.0,0.0,CW,20-250 um
+431,LabCC,LabCC_CW_2,500,8 inches,polycarbonate,1,47,Plastic,0.0,0,Dry,0.16,,0.0,0.0,0.0,CW,>500 um
+432,LabCC,LabCC_CW_2,250,8 inches,polycarbonate,1,47,Plastic,0.0,0,Dry,0.16,,0.0,0.0,0.0,CW,250-500 um
+433,LabCC,LabCC_CW_2,20,8 inches,polycarbonate,1,47,Plastic,0.0,0,Dry,0.16,,0.0,0.0,0.0,CW,20-250 um
+434,LabCC,LabCC_CW_3,500,8 inches,polycarbonate,1,47,Plastic,0.0,0,Dry,0.16,,0.0,0.0,0.0,CW,>500 um
+437,LabCC,LabCC_CW_4,500,8 inches,polycarbonate,1,47,Plastic,0.0,0,Dry,0.16,,0.0,0.0,0.0,CW,>500 um
+645,LabN,LabN_CW_6,500,3,PCTE,20,47,Glass,-88.0,-88,"dry, on filters, in glass petri dish",0.17,"Increased hot plate temperature improved filtration; used 2 filters for the 1 um filtration, which could have resulted in sample loss",-88.0,-88.0,-88.0,CW,20-212 um
+646,LabN,LabN_CW_7,500,3,PCTE,20,47,Glass,-88.0,-88,"dry, on filters, in glass petri dish",0.17,"Increased hot plate temperature improved filtration; used 3 filters for the 1 um filtration, which could have resulted in sample loss",-88.0,-88.0,-88.0,CW,20-212 um
+647,LabN,LabN_CW_8,500,3,PCTE,20,47,Glass,-88.0,-88,"dry, on filters, in glass petri dish",0.17,Increased hot plate temperature improved filtration,-88.0,-88.0,-88.0,CW,20-212 um
+714,LabB,LabB_DW_2,500,8,MCE,45,47,Glass,50.0,1,"on filters, dry",23.0,,0.0,0.0,21.0,DW,>500 um
+715,LabB,LabB_DW_3,212,8,MCE,45,47,Glass,50.0,1,"on filters, dry",26.0,,0.0,0.0,24.0,DW,212-500 um
+716,LabB,LabB_DW_3,500,8,MCE,45,47,Glass,50.0,1,"on filters, dry",26.0,,0.0,0.0,24.0,DW,>500 um
+717,LabB,LabB_DW_4,212,8,MCE,45,47,Glass,50.0,1,"on filters, dry",27.0,,0.0,0.0,25.0,DW,212-500 um
+718,LabB,LabB_DW_4,500,8,MCE,45,47,Glass,50.0,1,"on filters, dry",27.0,,0.0,0.0,25.0,DW,>500 um
+742,LabQ,LabQ_SD_3,212,3 inches,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",81.08333333,Multiple days of vacuum filtration required,4.0,24.0,-88.0,SD,20-212 um
+743,LabQ,LabQ_SD_3,212,3 inches,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",66.08333333,,4.0,24.0,-88.0,SD,212-500 um
+744,LabQ,LabQ_SD_3,500,3 inches,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",66.08333333,,4.0,24.0,-88.0,SD,>500 um
+745,LabQ,LabQ_SD_4,212,3 inches,PCTE,1,47,Glass,-88.0,-88,"on filters, dry",65.83333333,"Separated, but not filtered",4.0,24.0,-88.0,SD,1-20 um
+746,LabQ,LabQ_SD_4,212,3 inches,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",66.08333333,,4.0,24.0,-88.0,SD,20-212 um
+747,LabQ,LabQ_SD_4,212,3 inches,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",66.08333333,,4.0,24.0,-88.0,SD,212-500 um
+748,LabQ,LabQ_SD_4,500,3 inches,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",66.08333333,,4.0,24.0,-88.0,SD,>500 um
+757,LabAA,LabAA_FT_1,212,8 inches,polycarbonate,20,47,Glass,45.0,-88,"on filters, dry",4.0,,-88.0,-88.0,48.0,FT,20-212 um
+758,LabAA,LabAA_FT_1,212,8 inches,polycarbonate,20,47,Glass,45.0,-88,"on filters, dry",5.0,,-88.0,-88.0,48.0,FT,212-500 um
+759,LabAA,LabAA_FT_1,500,8 inches,polycarbonate,20,47,Glass,45.0,-88,"on filters, dry",8.0,,-88.0,-88.0,48.0,FT,>500 um
+760,LabAA,LabAA_FT_1,212,8 inches,polycarbonate,10,47,Glass,45.0,-88,"on filters, dry",1.0,,-88.0,-88.0,48.0,FT,10-20 um
+761,LabAA,LabAA_FT_1,212,8 inches,polycarbonate,1,47,Glass,45.0,-88,"on filters, dry",5.0,,-88.0,-88.0,48.0,FT,1-20 um
+762,LabAA,LabAA_FT_2,212,8 inches,polycarbonate,20,47,Glass,45.0,-88,"on filters, dry",3.0,,-88.0,-88.0,48.0,FT,20-212 um
+763,LabAA,LabAA_FT_2,212,8 inches,polycarbonate,20,47,Glass,45.0,-88,"on filters, dry",9.0,,-88.0,-88.0,48.0,FT,212-500 um
+764,LabAA,LabAA_FT_2,500,8 inches,polycarbonate,20,47,Glass,45.0,-88,"on filters, dry",8.0,,-88.0,-88.0,48.0,FT,>500 um
+765,LabAA,LabAA_FT_2,212,8 inches,polycarbonate,10,47,Glass,45.0,-88,"on filters, dry",2.0,,-88.0,-88.0,48.0,FT,10-20 um
+766,LabAA,LabAA_FT_2,212,8 inches,polycarbonate,1,47,Glass,45.0,-88,"on filters, dry",2.0,,-88.0,-88.0,48.0,FT,1-20 um
+767,LabAA,LabAA_FT_3,212,8 inches,polycarbonate,20,47,Glass,45.0,-88,"on filters, dry",4.0,,-88.0,-88.0,48.0,FT,20-212 um
+768,LabAA,LabAA_FT_3,212,8 inches,polycarbonate,20,47,Glass,45.0,-88,"on filters, dry",9.0,,-88.0,-88.0,48.0,FT,212-500 um
+769,LabAA,LabAA_FT_3,500,8 inches,polycarbonate,20,47,Glass,45.0,-88,"on filters, dry",7.0,,-88.0,-88.0,48.0,FT,>500 um
+770,LabAA,LabAA_FT_3,212,8 inches,polycarbonate,10,47,Glass,45.0,-88,"on filters, dry",2.0,,-88.0,-88.0,48.0,FT,10-20 um
+771,LabAA,LabAA_FT_3,212,8 inches,polycarbonate,1,47,Glass,45.0,-88,"on filters, dry",1.0,,-88.0,-88.0,48.0,FT,1-20 um
+772,LabAA,LabAA_FT_4,212,8 inches,polycarbonate,20,47,Glass,45.0,-88,"on filters, dry",1.0,,-88.0,-88.0,48.0,FT,20-212 um
+773,LabAA,LabAA_FT_4,212,8 inches,polycarbonate,20,47,Glass,45.0,-88,"on filters, dry",1.0,,-88.0,-88.0,48.0,FT,212-500 um
+774,LabAA,LabAA_FT_4,500,8 inches,polycarbonate,20,47,Glass,45.0,-88,"on filters, dry",1.0,,-88.0,-88.0,48.0,FT,>500 um
+775,LabAA,LabAA_FT_4,212,8 inches,polycarbonate,10,47,Glass,45.0,-88,"on filters, dry",1.0,,-88.0,-88.0,48.0,FT,10-20 um
+776,LabAA,LabAA_FT_4,212,8 inches,polycarbonate,1,47,Glass,45.0,-88,"on filters, dry",1.0,,-88.0,-88.0,48.0,FT,1-20 um
+777,LabAA,LabAA_SD_1,500,8 inches,polycarbonate,20,47,Glass,-88.0,Digested 1 time with Fenton's reagent,"on filters, dry",3.0,,-88.0,-88.0,-88.0,SD,20-212 um
+778,LabAA,LabAA_SD_1,212,8 inches,polycarbonate,20,47,Glass,-88.0,Digested 1 time with Fenton's reagent,"on filters, dry",4.0,,-88.0,-88.0,-88.0,SD,212-500 um
+779,LabAA,LabAA_SD_1,212,8 inches,polycarbonate,20,47,Glass,-88.0,Digested 1 time with Fenton's reagent,"on filters, dry",4.0,,-88.0,-88.0,-88.0,SD,>500 um
+780,LabAA,LabAA_SD_1,212,8 inches,polycarbonate,1,47,Glass,-88.0,Digested 1 time with Fenton's reagent,"on filters, dry",3.0,,-88.0,-88.0,-88.0,SD,1-20 um
+781,LabAA,LabAA_SD_2,500,8 inches,polycarbonate,20,47,Glass,-88.0,Digested 1 time with Fenton's reagent,"on filters, dry",3.0,,-88.0,-88.0,-88.0,SD,20-212 um
+782,LabAA,LabAA_SD_2,212,8 inches,polycarbonate,20,47,Glass,-88.0,Digested 1 time with Fenton's reagent,"on filters, dry",4.0,,-88.0,-88.0,-88.0,SD,212-500 um
+783,LabAA,LabAA_SD_2,212,8 inches,polycarbonate,20,47,Glass,-88.0,Digested 1 time with Fenton's reagent,"on filters, dry",4.0,,-88.0,-88.0,-88.0,SD,>500 um
+784,LabAA,LabAA_SD_2,212,8 inches,polycarbonate,1,47,Glass,-88.0,Digested 1 time with Fenton's reagent,"on filters, dry",3.0,,-88.0,-88.0,-88.0,SD,1-20 um
+785,LabAA,LabAA_SD_3,500,8 inches,polycarbonate,20,47,Glass,-88.0,Digested 1 time with Fenton's reagent,"on filters, dry",3.0,,-88.0,-88.0,-88.0,SD,20-212 um
+786,LabAA,LabAA_SD_3,212,8 inches,polycarbonate,20,47,Glass,-88.0,Digested 1 time with Fenton's reagent,"on filters, dry",4.0,,-88.0,-88.0,-88.0,SD,212-500 um
+787,LabAA,LabAA_SD_3,212,8 inches,polycarbonate,20,47,Glass,-88.0,Digested 1 time with Fenton's reagent,"on filters, dry",4.0,,-88.0,-88.0,-88.0,SD,>500 um
+788,LabAA,LabAA_SD_3,212,8 inches,polycarbonate,1,47,Glass,-88.0,Digested 1 time with Fenton's reagent,"on filters, dry",3.0,,-88.0,-88.0,-88.0,SD,1-20 um
+789,LabAA,LabAA_SD_4,500,8 inches,polycarbonate,20,47,Glass,-88.0,Digested 1 time with Fenton's reagent,"on filters, dry",3.0,,-88.0,-88.0,-88.0,SD,20-212 um
+790,LabAA,LabAA_SD_4,212,8 inches,polycarbonate,20,47,Glass,-88.0,Digested 1 time with Fenton's reagent,"on filters, dry",4.0,,-88.0,-88.0,-88.0,SD,212-500 um
+791,LabAA,LabAA_SD_4,212,8 inches,polycarbonate,20,47,Glass,-88.0,Digested 1 time with Fenton's reagent,"on filters, dry",4.0,,-88.0,-88.0,-88.0,SD,>500 um
+792,LabAA,LabAA_SD_4,212,8 inches,polycarbonate,1,47,Glass,-88.0,Digested 1 time with Fenton's reagent,"on filters, dry",3.0,,-88.0,-88.0,-88.0,SD,1-20 um
+793,LabN,LabN_DW_1,212,3,PCTE,20,47,Glass,-88.0,1,"dry, on filters, in glass petri dish",25.1,Digested 1 time with Fenton's reagent (5 x H202 according SOP) for 73 min. Took 5.75 hours to process and digest. Total time includes the time for samples to soak in alcojet solution over night. All samples processed concurrently.,-88.0,-88.0,-88.0,DW,212-500 um
+794,LabN,LabN_DW_2,212,3,PCTE,20,47,Glass,-88.0,1,"dry, on filters, in glass petri dish",25.1,,-88.0,-88.0,-88.0,DW,212-500 um
+795,LabN,LabN_DW_3,212,3,PCTE,20,47,Glass,-88.0,1,"dry, on filters, in glass petri dish",25.1,,-88.0,-88.0,-88.0,DW,212-500 um
+796,LabN,LabN_DW_4,212,3,PCTE,20,47,Glass,-88.0,1,"dry, on filters, in glass petri dish",25.1,,-88.0,-88.0,-88.0,DW,212-500 um
+797,LabN,LabN_DW_1,500,3,PCTE,20,47,Glass,-88.0,1,"dry, on filters, in glass petri dish",25.1,,-88.0,-88.0,-88.0,DW,>500 um
+798,LabN,LabN_DW_2,500,3,PCTE,20,47,Glass,-88.0,1,"dry, on filters, in glass petri dish",25.1,,-88.0,-88.0,-88.0,DW,>500 um
+799,LabN,LabN_DW_3,500,3,PCTE,20,47,Glass,-88.0,1,"dry, on filters, in glass petri dish",25.1,,-88.0,-88.0,-88.0,DW,>500 um
+800,LabN,LabN_DW_4,500,3,PCTE,20,47,Glass,-88.0,1,"dry, on filters, in glass petri dish",25.1,,-88.0,-88.0,-88.0,DW,>500 um
+801,LabN,LabN_SD_1,500,3,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",27.0,"Total time includes 2 x 2 hour separations for B1, and an overnight separation for B2, and all sieving. All samples processed concurrently.",4.0,18.4,-88.0,SD,>500 um
+802,LabN,LabN_SD_2,500,3,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",27.0,,4.0,18.4,-88.0,SD,>500 um
+803,LabN,LabN_SD_3,500,3,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",27.0,,4.0,18.4,-88.0,SD,>500 um
+804,LabN,LabN_SD_4,500,3,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",27.0,,4.0,18.4,-88.0,SD,>500 um
+805,LabN,LabN_SD_1,212,3,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",27.0,,4.0,18.4,-88.0,SD,212-500 um
+806,LabN,LabN_SD_2,212,3,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",27.0,,4.0,18.4,-88.0,SD,212-500 um
+807,LabN,LabN_SD_3,212,3,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",27.0,,4.0,18.4,-88.0,SD,212-500 um
+808,LabN,LabN_SD_4,212,3,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",27.0,,4.0,18.4,-88.0,SD,212-500 um
+809,LabN,LabN_SD_1,-88,-88,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",27.0,,4.0,18.4,-88.0,SD,20-212 um
+810,LabN,LabN_SD_2,-88,-88,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",27.0,,4.0,18.4,-88.0,SD,20-212 um
+811,LabN,LabN_SD_3,-88,-88,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",27.0,,4.0,18.4,-88.0,SD,20-212 um
+812,LabN,LabN_SD_4,-88,-88,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",27.0,,4.0,18.4,-88.0,SD,20-212 um
+813,LabN,LabN_SD_1,-88,-88,PCTE,1,47,Glass,-88.0,-88,"on filters, dry",27.0,,4.0,18.4,-88.0,SD,1-20 um
+814,LabN,LabN_SD_2,-88,-88,PCTE,1,47,Glass,-88.0,-88,"on filters, dry",27.0,,4.0,18.4,-88.0,SD,1-20 um
+815,LabN,LabN_SD_3,-88,-88,PCTE,1,47,Glass,-88.0,-88,"on filters, dry",27.0,,4.0,18.4,-88.0,SD,1-20 um
+816,LabN,LabN_SD_4,-88,-88,PCTE,1,47,Glass,-88.0,-88,"on filters, dry",27.0,,4.0,18.4,-88.0,SD,1-20 um
+817,LabG,LabG_DW_1,500,8 inches,-88,-88,-88,-88,-88.0,6,"on tape, dry",0.25,"Eventhough each sample took 6 hours to digest, only 6 hours were taken altogether for the >500 um digestion as DW1,2,3,4 were all digested together",-88.0,-88.0,-88.0,DW,>500 um
+818,LabG,LabG_DW_1,212,8 inches,-88,-88,-88,-88,-88.0,11,"on tape, dry",0.25,"Eventhough 11 hours is reflected per sample it is comprised of digestion round 1 for 6 hours and digestion round 2 for 5 hours. DW1,2,3,4 for this size class was done together",-88.0,-88.0,-88.0,DW,212-500 um
+819,LabG,LabG_DW_2,500,8 inches,-88,-88,-88,-88,-88.0,6,"on tape, dry",0.25,"Eventhough each sample took 6 hours to digest, only 6 hours were taken altogether for the >500 um digestion as DW1,2,3,4 were all digested together",-88.0,-88.0,-88.0,DW,>500 um
+820,LabG,LabG_DW_2,212,8 inches,-88,-88,-88,-88,-88.0,11,"on tape, dry",0.25,"Eventhough 11 hours is reflected per sample it is comprised of digestion round 1 for 6 hours and digestion round 2 for 5 hours. DW1,2,3,4 for this size class was done together",-88.0,-88.0,-88.0,DW,212-500 um
+821,LabG,LabG_DW_3,500,8 inches,-88,-88,-88,-88,-88.0,6,"on tape, dry",0.25,"Eventhough each sample took 6 hours to digest, only 6 hours were taken altogether for the >500 um digestion as DW1,2,3,4 were all digested together",-88.0,-88.0,-88.0,DW,>500 um
+822,LabG,LabG_DW_3,212,8 inches,-88,-88,-88,-88,-88.0,11,"on tape, dry",0.25,"Eventhough 11 hours is reflected per sample it is comprised of digestion round 1 for 6 hours and digestion round 2 for 5 hours. DW1,2,3,4 for this size class was done together",-88.0,-88.0,-88.0,DW,212-500 um
+823,LabG,LabG_DW_4,500,8 inches,-88,-88,-88,-88,-88.0,6,"on tape, dry",0.25,"Eventhough each sample took 6 hours to digest, only 6 hours were taken altogether for the >500 um digestion as DW1,2,3,4 were all digested together",-88.0,-88.0,-88.0,DW,>500 um
+824,LabG,LabG_DW_4,212,8 inches,-88,-88,-88,-88,-88.0,11,"on tape, dry",0.25,"Eventhough 11 hours is reflected per sample it is comprised of digestion round 1 for 6 hours and digestion round 2 for 5 hours. DW1,2,3,4 for this size class was done together",-88.0,-88.0,-88.0,DW,212-500 um
+825,LabQ,LabQ_FT_1,212,3 inches,PCTE,20,47,Glass,45.0,-88,"on filters, dry",54.3,,-88.0,-88.0,48.0,SD,20-212 um
+826,LabQ,LabQ_FT_1,212,3 inches,PCTE,20,47,Glass,45.0,-88,"on filters, dry",54.3,,-88.0,-88.0,48.0,SD,212-500 um
+827,LabQ,LabQ_FT_1,500,3 inches,PCTE,20,47,Glass,45.0,-88,"on filters, dry",54.3,,-88.0,-88.0,48.0,SD,>500 um
+828,LabQ,LabQ_FT_2,212,3 inches,PCTE,20,47,Glass,45.0,-88,"on filters, dry",54.3,,-88.0,-88.0,48.0,SD,20-212 um
+829,LabQ,LabQ_FT_2,212,3 inches,PCTE,20,47,Glass,45.0,-88,"on filters, dry",54.3,,-88.0,-88.0,48.0,SD,212-500 um
+830,LabQ,LabQ_FT_2,500,3 inches,PCTE,20,47,Glass,45.0,-88,"on filters, dry",54.3,,-88.0,-88.0,48.0,SD,>500 um
+831,LabQ,LabQ_FT_3,212,3 inches,PCTE,20,47,Glass,45.0,-88,"on filters, dry",54.3,,-88.0,-88.0,48.0,SD,20-212 um
+832,LabQ,LabQ_FT_3,212,3 inches,PCTE,20,47,Glass,45.0,-88,"on filters, dry",54.3,,-88.0,-88.0,48.0,SD,212-500 um
+833,LabQ,LabQ_FT_3,500,3 inches,PCTE,20,47,Glass,45.0,-88,"on filters, dry",54.3,,-88.0,-88.0,48.0,SD,>500 um
+834,LabQ,LabQ_FT_4,212,3 inches,PCTE,20,47,Glass,45.0,-88,"on filters, dry",54.3,,-88.0,-88.0,48.0,SD,20-212 um
+835,LabQ,LabQ_FT_4,212,3 inches,PCTE,20,47,Glass,45.0,-88,"on filters, dry",54.3,,-88.0,-88.0,48.0,SD,212-500 um
+836,LabQ,LabQ_FT_4,500,3 inches,PCTE,20,47,Glass,45.0,-88,"on filters, dry",54.3,,-88.0,-88.0,48.0,SD,>500 um
+837,LabG,LabG_SD_1,500,8 inches,Cellulose Acetate,-88,-88,Glass,-88.0,-88,"on tape, dry",28.0,Time includes overnight settling for all size classes within the sample as settling was done before size class fractioning. The 28 hours could be divided by 4 for each size class,2.0,24.0,-88.0,SD,>500 um
+838,LabG,LabG_SD_1,212,8 inches,Cellulose Acetate,-88,-88,Glass,-88.0,-88,"on tape, dry",28.0,Time includes overnight settling for all size classes within the sample as settling was done before size class fractioning. The 28 hours could be divided by 4 for each size class,2.0,24.0,-88.0,SD,212-500 um
+839,LabG,LabG_SD_1,-88,-88,polycarbonate,20,25,Plastic- 6 well plates,-88.0,-88,"on filters, dry",28.0,Time includes overnight settling for all size classes within the sample as settling was done before size class fractioning. The 28 hours could be divided by 4 for each size class,2.0,24.0,-88.0,SD,20-212 um
+840,LabG,LabG_SD_1,-88,-88,polycarbonate,1,25,Plastic- 6 well plates,-88.0,-88,"on filters, dry",28.0,Time includes overnight settling for all size classes within the sample as settling was done before size class fractioning. The 28 hours could be divided by 4 for each size class,2.0,24.0,-88.0,SD,1-20 um
+841,LabG,LabG_SD_2,500,8 inches,Cellulose Acetate,-88,-88,Glass,-88.0,-88,"on tape, dry",28.0,Time includes overnight settling for all size classes within the sample as settling was done before size class fractioning. The 28 hours could be divided by 4 for each size class,2.0,24.0,-88.0,SD,>500 um
+842,LabG,LabG_SD_2,212,8 inches,Cellulose Acetate,-88,-88,Glass,-88.0,-88,"on tape, dry",28.0,Time includes overnight settling for all size classes within the sample as settling was done before size class fractioning. The 28 hours could be divided by 4 for each size class,2.0,24.0,-88.0,SD,212-500 um
+843,LabG,LabG_SD_2,-88,-88,polycarbonate,20,25,Plastic- 6 well plates,-88.0,-88,"on filters, dry",28.0,Time includes overnight settling for all size classes within the sample as settling was done before size class fractioning. The 28 hours could be divided by 4 for each size class,2.0,24.0,-88.0,SD,20-212 um
+844,LabG,LabG_SD_2,-88,-88,polycarbonate,1,25,Plastic- 6 well plates,-88.0,-88,"on filters, dry",28.0,Time includes overnight settling for all size classes within the sample as settling was done before size class fractioning. The 28 hours could be divided by 4 for each size class,2.0,24.0,-88.0,SD,1-20 um
+845,LabG,LabG_SD_3,500,8 inches,Cellulose Acetate,-88,-88,Glass,-88.0,-88,"on tape, dry",28.0,Time includes overnight settling for all size classes within the sample as settling was done before size class fractioning. The 28 hours could be divided by 4 for each size class,2.0,24.0,-88.0,SD,>500 um
+846,LabG,LabG_SD_3,212,8 inches,Cellulose Acetate,-88,-88,Glass,-88.0,-88,"on tape, dry",28.0,Time includes overnight settling for all size classes within the sample as settling was done before size class fractioning. The 28 hours could be divided by 4 for each size class,2.0,24.0,-88.0,SD,212-500 um
+847,LabG,LabG_SD_3,-88,-88,polycarbonate,20,25,Plastic- 6 well plates,-88.0,-88,"on filters, dry",28.0,Time includes overnight settling for all size classes within the sample as settling was done before size class fractioning. The 28 hours could be divided by 4 for each size class,2.0,24.0,-88.0,SD,20-212 um
+848,LabG,LabG_SD_3,-88,-88,polycarbonate,1,25,Plastic- 6 well plates,-88.0,-88,"on filters, dry",28.0,Time includes overnight settling for all size classes within the sample as settling was done before size class fractioning. The 28 hours could be divided by 4 for each size class,2.0,24.0,-88.0,SD,1-20 um
+849,LabG,LabG_SD_4,500,8 inches,Cellulose Acetate,-88,-88,Glass,-88.0,-88,"on tape, dry",28.0,Time includes overnight settling for all size classes within the sample as settling was done before size class fractioning. The 28 hours could be divided by 4 for each size class,2.0,24.0,-88.0,SD,>500 um
+850,LabG,LabG_SD_4,212,8 inches,Cellulose Acetate,-88,-88,Glass,-88.0,-88,"on tape, dry",28.0,Time includes overnight settling for all size classes within the sample as settling was done before size class fractioning. The 28 hours could be divided by 4 for each size class,2.0,24.0,-88.0,SD,212-500 um
+851,LabG,LabG_SD_4,-88,-88,polycarbonate,20,25,Plastic- 6 well plates,-88.0,-88,"on filters, dry",28.0,Time includes overnight settling for all size classes within the sample as settling was done before size class fractioning. The 28 hours could be divided by 4 for each size class,2.0,24.0,-88.0,SD,20-212 um
+852,LabG,LabG_SD_4,-88,-88,polycarbonate,1,25,Plastic- 6 well plates,-88.0,-88,"on filters, dry",28.0,Time includes overnight settling for all size classes within the sample as settling was done before size class fractioning. The 28 hours could be divided by 4 for each size class,2.0,24.0,-88.0,SD,1-20 um
+853,LabM,LabM_DW_1,500,3 inches,NA,-88,-88,NA,-88.0,1,"on glass petri, dry",30.0,cumulative across steps; originally sieved with 212; split into 500 and 212 after final WPO; 6 hours labwork; 2 overnights (12 hours each),-88.0,-88.0,-88.0,DW,>500 um
+854,LabM,LabM_DW_1,212,8 inches,NA,-88,-88,NA,-88.0,1,"on glass petri, dry",30.0,cumulative across steps; originally sieved with 212; split into 500 and 212 after final WPO; 6 hours labwork; 2 overnights (12 hours each),-88.0,-88.0,-88.0,DW,212-500 um
+855,LabM,LabM_DW_2,500,3 inches,NA,-88,-88,NA,-88.0,1,"on glass petri, dry",45.0,cumulative across steps; originally sieved with 212; split into 500 and 212 after final WPO; 9 hours labwork; 3 overnights (12 hours each),-88.0,-88.0,-88.0,DW,>500 um
+856,LabM,LabM_DW_2,212,8 inches,NA,-88,-88,NA,-88.0,1,"on glass petri, dry",45.0,cumulative across steps; originally sieved with 212; split into 500 and 212 after final WPO; 9 hours labwork; 3 overnights (12 hours each),-88.0,-88.0,-88.0,DW,212-500 um
+857,LabM,LabM_DW_3,500,3 inches,NA,-88,-88,NA,-88.0,1,"on glass petri, dry",45.0,cumulative across steps; originally sieved with 212; split into 500 and 212 after final WPO; 9 hours labwork; 3 overnights (12 hours each),-88.0,-88.0,-88.0,DW,>500 um
+858,LabM,LabM_DW_3,212,8 inches,NA,-88,-88,NA,-88.0,1,"on glass petri, dry",45.0,cumulative across steps; originally sieved with 212; split into 500 and 212 after final WPO; 9 hours labwork; 3 overnights (12 hours each),-88.0,-88.0,-88.0,DW,212-500 um
+859,LabM,LabM_DW_4,500,3 inches,NA,-88,-88,NA,-88.0,1,"on glass petri, dry",45.0,cumulative across steps; originally sieved with 212; split into 500 and 212 after final WPO; 9 hours labwork; 3 overnights (12 hours each),-88.0,-88.0,-88.0,DW,>500 um
+860,LabM,LabM_DW_4,212,8 inches,NA,-88,-88,NA,-88.0,1,"on glass petri, dry",45.0,cumulative across steps; originally sieved with 212; split into 500 and 212 after final WPO; 9 hours labwork; 3 overnights (12 hours each),-88.0,-88.0,-88.0,DW,212-500 um
+861,LabM,LabM_FT_1,500,3 inches,NA,-88,-88,NA,-88.0,NA,Dry; each fraction on glass petri,-88.0,,-88.0,-88.0,-88.0,FT,>500 um
+862,LabM,LabM_FT_1,212,8 inches,NA,-88,-88,NA,-88.0,NA,Dry; each fraction on glass petri,-88.0,,-88.0,-88.0,-88.0,FT,212-500 um
+863,LabM,LabM_FT_1,20,3 inches,NA,-88,-88,NA,50.0,NA,Dry; each fraction on glass petri,18.0,"cumulative digestion & sieving across 3 sieves, drying; includes 6 hours lab (all FT samples together) and overnight dry (12 hours)",-88.0,-88.0,12.0,FT,20-212 um
+864,LabM,LabM_FT_1,-88,Not applicable,Nylon membrane,1,47,glass,-88.0,NA,Dry,1.5,1.2 um filtration only; filtered but not analyzed,-88.0,-88.0,-88.0,FT,1-20 um
+865,LabM,LabM_FT_2,500,3 inches,NA,-88,-88,NA,-88.0,NA,Dry; each fraction on glass petri,-88.0,,-88.0,-88.0,-88.0,FT,>500 um
+866,LabM,LabM_FT_2,212,8 inches,NA,-88,-88,NA,-88.0,NA,Dry; each fraction on glass petri,-88.0,,-88.0,-88.0,-88.0,FT,212-500 um
+867,LabM,LabM_FT_2,20,3 inches,NA,-88,-88,NA,50.0,NA,Dry; each fraction on glass petri,18.0,"cumulative digestion & sieving across 3 sieves, drying; includes 6 hours lab (all FT samples together) and overnight dry (12 hours)",-88.0,-88.0,12.0,FT,20-212 um
+868,LabM,LabM_FT_2,-88,Not applicable,Nylon membrane,1,47,glass,-88.0,NA,Dry,1.5,1.2 um filtration only; filtered but not analyzed,-88.0,-88.0,-88.0,FT,1-20 um
+869,LabM,LabM_FT_3,500,3 inches,NA,-88,-88,NA,-88.0,NA,Dry; each fraction on glass petri,-88.0,,-88.0,-88.0,-88.0,FT,>500 um
+870,LabM,LabM_FT_3,212,8 inches,NA,-88,-88,NA,-88.0,NA,Dry; each fraction on glass petri,-88.0,,-88.0,-88.0,-88.0,FT,212-500 um
+871,LabM,LabM_FT_3,20,3 inches,NA,-88,-88,NA,50.0,NA,Dry; each fraction on glass petri,18.0,"cumulative digestion & sieving across 3 sieves, drying; includes 6 hours lab (all FT samples together) and overnight dry (12 hours)",-88.0,-88.0,12.0,FT,20-212 um
+872,LabM,LabM_FT_3,-88,Not applicable,Nylon membrane,1,47,glass,-88.0,NA,Dry,1.5,1.2 um filtration only; filtered but not analyzed,-88.0,-88.0,-88.0,FT,1-20 um
+873,LabM,LabM_FT_4,500,3 inches,NA,-88,-88,NA,-88.0,NA,Dry; each fraction on glass petri,-88.0,,-88.0,-88.0,-88.0,FT,>500 um
+874,LabM,LabM_FT_4,212,8 inches,NA,-88,-88,NA,-88.0,NA,Dry; each fraction on glass petri,-88.0,,-88.0,-88.0,-88.0,FT,212-500 um
+875,LabM,LabM_FT_4,20,3 inches,NA,-88,-88,NA,50.0,NA,Dry; each fraction on glass petri,18.0,"cumulative digestion & sieving across 3 sieves, drying; includes 6 hours lab (all FT samples together) and overnight dry (12 hours)",-88.0,-88.0,12.0,FT,20-212 um
+876,LabM,LabM_FT_4,-88,Not applicable,Nylon membrane,1,47,glass,-88.0,NA,Dry,1.5,1.2 um filtration only; filtered but not analyzed,-88.0,-88.0,-88.0,FT,1-20 um
+877,LabM,LabM_SD_1,500,3 inches,NA,-88,-88,NA,-88.0,NA,Dry; each fraction on glass petri,-88.0,,-88.0,-88.0,-88.0,SD,>500 um
+878,LabM,LabM_SD_1,212,8 inches,NA,-88,-88,NA,-88.0,NA,Dry; each fraction on glass petri,-88.0,,-88.0,-88.0,-88.0,SD,212-500 um
+879,LabM,LabM_SD_1,20,3 inches,NA,-88,-88,NA,50.0,NA,Dry; each fraction on glass petri,18.0,"cumulative digestion & sieving across 3 sieves, drying; includes 6 hours lab (all FT samples together) and overnight dry (12 hours)",-88.0,-88.0,12.0,SD,20-212 um
+880,LabM,LabM_SD_1,-88,Not applicable,Nylon membrane,1,47,glass,-88.0,NA,Dry,1.5,1.2 um filtration only; filtered but not analyzed,-88.0,-88.0,-88.0,SD,1-20 um
+881,LabM,LabM_SD_2,500,3 inches,NA,-88,-88,NA,-88.0,NA,Dry; each fraction on glass petri,-88.0,,-88.0,-88.0,-88.0,SD,>500 um
+882,LabM,LabM_SD_2,212,8 inches,NA,-88,-88,NA,-88.0,NA,Dry; each fraction on glass petri,-88.0,,-88.0,-88.0,-88.0,SD,212-500 um
+883,LabM,LabM_SD_2,20,3 inches,NA,-88,-88,NA,50.0,NA,Dry; each fraction on glass petri,18.0,"cumulative digestion & sieving across 3 sieves, drying; includes 6 hours lab (all FT samples together) and overnight dry (12 hours)",-88.0,-88.0,12.0,SD,20-212 um
+884,LabM,LabM_SD_2,-88,Not applicable,Nylon membrane,1,47,glass,-88.0,NA,Dry,1.5,1.2 um filtration only; filtered but not analyzed,-88.0,-88.0,-88.0,SD,1-20 um
+885,LabM,LabM_SD_3,500,3 inches,NA,-88,-88,NA,-88.0,NA,Dry; each fraction on glass petri,-88.0,,-88.0,-88.0,-88.0,SD,>500 um
+886,LabM,LabM_SD_3,212,8 inches,NA,-88,-88,NA,-88.0,NA,Dry; each fraction on glass petri,-88.0,,-88.0,-88.0,-88.0,SD,212-500 um
+911,LabBB,LabBB_FT_5,212,8 inches,polycarbonate,20,44,Glass,45.0,No,"on filters, dry",80.0,,-88.0,-88.0,72.0,FT,1-20 um
+887,LabM,LabM_SD_3,20,3 inches,NA,-88,-88,NA,50.0,NA,Dry; each fraction on glass petri,18.0,"cumulative digestion & sieving across 3 sieves, drying; includes 6 hours lab (all FT samples together) and overnight dry (12 hours)",-88.0,-88.0,12.0,SD,20-212 um
+888,LabM,LabM_SD_3,-88,Not applicable,Nylon membrane,1,47,glass,-88.0,NA,Dry,1.5,1.2 um filtration only; filtered but not analyzed,-88.0,-88.0,-88.0,SD,1-20 um
+889,LabM,LabM_SD_4,500,3 inches,NA,-88,-88,NA,-88.0,NA,Dry; each fraction on glass petri,-88.0,,-88.0,-88.0,-88.0,SD,>500 um
+890,LabM,LabM_SD_4,212,8 inches,NA,-88,-88,NA,-88.0,NA,Dry; each fraction on glass petri,-88.0,,-88.0,-88.0,-88.0,SD,212-500 um
+891,LabM,LabM_SD_4,20,3 inches,NA,-88,-88,NA,50.0,NA,Dry; each fraction on glass petri,18.0,"cumulative digestion & sieving across 3 sieves, drying; includes 6 hours lab (all FT samples together) and overnight dry (12 hours)",-88.0,-88.0,12.0,SD,20-212 um
+892,LabM,LabM_SD_4,-88,Not applicable,Nylon membrane,1,47,glass,-88.0,NA,Dry,1.5,1.2 um filtration only; filtered but not analyzed,-88.0,-88.0,-88.0,SD,1-20 um
+893,LabCC,LabCC_DW_1,500,8 inches,polycarbonate,1,47,Plastic,0.0,2,Dry,4.75,,0.0,0.0,0.0,SD,>500 um
+894,LabCC,LabCC_DW_1,250,8 inches,polycarbonate,1,47,Plastic,0.0,2,Dry,4.75,,0.0,0.0,0.0,SD,250-500 um
+895,LabCC,LabCC_DW_2,500,8 inches,polycarbonate,1,47,Plastic,0.0,2,Dry,4.75,,0.0,0.0,0.0,SD,>500 um
+896,LabCC,LabCC_DW_2,250,8 inches,polycarbonate,1,47,Plastic,0.0,2,Dry,4.75,,0.0,0.0,0.0,SD,250-500 um
+897,LabCC,LabCC_DW_3,500,8 inches,polycarbonate,1,47,Plastic,0.0,2,Dry,4.75,Temperature spiked to 60 C during digestion,0.0,0.0,0.0,SD,>500 um
+898,LabCC,LabCC_DW_3,250,8 inches,polycarbonate,1,47,Plastic,0.0,2,Dry,4.75,,0.0,0.0,0.0,SD,250-500 um
+899,LabCC,LabCC_DW_4,500,8 inches,polycarbonate,1,47,Plastic,0.0,2,Dry,4.75,Some waterbath contamination while cooling beaker during digestion,0.0,0.0,0.0,SD,>500 um
+900,LabCC,LabCC_DW_4,250,8 inches,polycarbonate,1,47,Plastic,0.0,2,Dry,4.75,,0.0,0.0,0.0,SD,250-500 um
+901,LabBB,LabBB_DW_1,500,8 inches,polycarbonate,20,44,Glass,-88.0,Digested 3 time with Fenton's reagent,"in glass container, wet",24.0,,-88.0,-88.0,-88.0,DW,>500 um
+902,LabBB,LabBB_DW_1,212,8 inches,polycarbonate,20,44,Glass,-88.0,Digested 3 times with Fenton's reagent,"in glass container, wet",24.0,,-88.0,-88.0,-88.0,DW,212-500 um
+903,LabBB,LabBB_DW_2,500,8 inches,polycarbonate,20,44,Glass,-88.0,Digested 3 time with Fenton's reagent,"in glass container, wet",24.0,,-88.0,-88.0,-88.0,DW,>500 um
+904,LabBB,LabBB_DW_2,212,8 inches,polycarbonate,20,44,Glass,-88.0,Digested 3 times with Fenton's reagent,"in glass container, wet",24.0,,-88.0,-88.0,-88.0,DW,212-500 um
+905,LabBB,LabBB_DW_3,500,8 inches,polycarbonate,20,44,Glass,-88.0,Digested 3 time with Fenton's reagent,"in glass container, wet",24.0,,-88.0,-88.0,-88.0,DW,>500 um
+906,LabBB,LabBB_DW_3,212,8 inches,polycarbonate,20,44,Glass,-88.0,Digested 3 times with Fenton's reagent,"in glass container, wet",24.0,,-88.0,-88.0,-88.0,DW,212-500 um
+907,LabBB,LabBB_DW_4,500,8 inches,polycarbonate,20,44,Glass,-88.0,Digested 3 time with Fenton's reagent,"in glass container, wet",24.0,,-88.0,-88.0,-88.0,DW,>500 um
+908,LabBB,LabBB_DW_4,212,8 inches,polycarbonate,20,44,Glass,-88.0,Digested 3 times with Fenton's reagent,"in glass container, wet",24.0,,-88.0,-88.0,-88.0,DW,212-500 um
+909,LabBB,LabBB_FT_5,212,8 inches,polycarbonate,1,44,Glass,45.0,No,"on filters, dry",80.0,,-88.0,-88.0,72.0,FT,1-20 um
+910,LabBB,LabBB_FT_5,212,8 inches,polycarbonate,10,44,Glass,45.0,No,"on filters, dry",80.0,,-88.0,-88.0,72.0,FT,1-20 um
+912,LabBB,LabBB_FT_5,212,8 inches,polycarbonate,20,44,Glass,45.0,No,"in glass container, wet",80.0,,-88.0,-88.0,72.0,FT,212-500 um
+913,LabBB,LabBB_FT_5,500,8 inches,polycarbonate,20,44,Glass,45.0,No,"in glass container, wet",80.0,,-88.0,-88.0,72.0,FT,>500 um
+914,LabBB,LabBB_FT_6,212,8 inches,polycarbonate,1,44,Glass,45.0,No,"on filters, dry",80.0,,-88.0,-88.0,72.0,FT,1-20 um
+915,LabBB,LabBB_FT_6,212,8 inches,polycarbonate,10,44,Glass,45.0,No,"on filters, dry",80.0,,-88.0,-88.0,72.0,FT,1-20 um
+916,LabBB,LabBB_FT_6,212,8 inches,polycarbonate,20,44,Glass,45.0,No,"on filters, dry",80.0,,-88.0,-88.0,72.0,FT,1-20 um
+917,LabBB,LabBB_FT_6,212,8 inches,polycarbonate,20,44,Glass,45.0,No,"in glass container, wet",80.0,,-88.0,-88.0,72.0,FT,212-500 um
+918,LabBB,LabBB_FT_6,500,8 inches,polycarbonate,20,44,Glass,45.0,No,"in glass container, wet",80.0,,-88.0,-88.0,72.0,FT,>500 um
+919,LabBB,LabBB_FT_7,212,8 inches,polycarbonate,1,44,Glass,45.0,No,"on filters, dry",80.0,,-88.0,-88.0,72.0,FT,1-20 um
+920,LabBB,LabBB_FT_7,212,8 inches,polycarbonate,10,44,Glass,45.0,No,"on filters, dry",80.0,,-88.0,-88.0,72.0,FT,1-20 um
+921,LabBB,LabBB_FT_7,212,8 inches,polycarbonate,20,44,Glass,45.0,No,"on filters, dry",80.0,,-88.0,-88.0,72.0,FT,1-20 um
+922,LabBB,LabBB_FT_7,212,8 inches,polycarbonate,20,44,Glass,45.0,No,"in glass container, wet",80.0,,-88.0,-88.0,72.0,FT,212-500 um
+923,LabBB,LabBB_FT_7,500,8 inches,polycarbonate,20,44,Glass,45.0,No,"in glass container, wet",80.0,,-88.0,-88.0,72.0,FT,>500 um
+924,LabBB,LabBB_FT_8,212,8 inches,polycarbonate,1,44,Glass,45.0,No,"on filters, dry",80.0,,-88.0,-88.0,72.0,FT,1-20 um
+925,LabBB,LabBB_FT_8,212,8 inches,polycarbonate,10,44,Glass,45.0,No,"on filters, dry",80.0,,-88.0,-88.0,72.0,FT,1-20 um
+926,LabBB,LabBB_FT_8,212,8 inches,polycarbonate,20,44,Glass,45.0,No,"on filters, dry",80.0,,-88.0,-88.0,72.0,FT,1-20 um
+927,LabBB,LabBB_FT_8,212,8 inches,polycarbonate,20,44,Glass,45.0,No,"in glass container, wet",80.0,,-88.0,-88.0,72.0,FT,212-500 um
+928,LabBB,LabBB_FT_8,500,8 inches,polycarbonate,20,44,Glass,45.0,No,"in glass container, wet",80.0,,-88.0,-88.0,72.0,FT,>500 um
+929,LabCC,LabCC_SD_1,500,8 inches,polycarbonate,1,47,Plastic,0.0,0,Dry,28.5,B1 two density separationes each for 2 hours; B2 desnity separation occurred overnight,4.0,24.0,0.0,SD,>500 um
+930,LabCC,LabCC_SD_1,250,8 inches,polycarbonate,1,47,Plastic,0.0,0,Dry,28.5,B1 two density separationes each for 2 hours; B2 desnity separation occurred overnight,4.0,24.0,0.0,SD,250-500 um
+931,LabCC,LabCC_SD_1,20,8 inches,polycarbonate,1,47,Plastic,0.0,0,Dry,28.5,B1 two density separationes each for 2 hours; B2 desnity separation occurred overnight,4.0,24.0,0.0,SD,20-250 um
+932,LabCC,LabCC_SD_2,500,8 inches,polycarbonate,1,47,Plastic,0.0,0,Dry,28.5,B1 two density separationes each for 2 hours; B2 desnity separation occurred overnight,4.0,24.0,0.0,SD,>500 um
+933,LabCC,LabCC_SD_2,250,8 inches,polycarbonate,1,47,Plastic,0.0,0,Dry,28.5,B1 two density separationes each for 2 hours; B2 desnity separation occurred overnight,4.0,24.0,0.0,SD,250-500 um
+934,LabCC,LabCC_SD_2,20,8 inches,polycarbonate,1,47,Plastic,0.0,0,Dry,28.5,B1 two density separationes each for 2 hours; B2 desnity separation occurred overnight,4.0,24.0,0.0,SD,20-250 um
+935,LabCC,LabCC_SD_3,500,8 inches,polycarbonate,1,47,Plastic,0.0,0,Dry,28.5,B1 two density separationes each for 2 hours; B2 desnity separation occurred overnight,4.0,24.0,0.0,SD,>500 um
+936,LabCC,LabCC_SD_3,250,8 inches,polycarbonate,1,47,Plastic,0.0,0,Dry,28.5,B1 two density separationes each for 2 hours; B2 desnity separation occurred overnight,4.0,24.0,0.0,SD,250-500 um
+937,LabCC,LabCC_SD_3,20,8 inches,polycarbonate,1,47,Plastic,0.0,0,Dry,28.5,B1 two density separationes each for 2 hours; B2 desnity separation occurred overnight,4.0,24.0,0.0,SD,20-250 um
+938,LabCC,LabCC_SD_4,500,8 inches,polycarbonate,1,47,Plastic,0.0,0,Dry,28.5,B1 two density separationes each for 2 hours; B2 desnity separation occurred overnight,4.0,24.0,0.0,SD,>500 um
+939,LabCC,LabCC_SD_4,250,8 inches,polycarbonate,1,47,Plastic,0.0,0,Dry,28.5,B1 two density separationes each for 2 hours; B2 desnity separation occurred overnight,4.0,24.0,0.0,SD,250-500 um
+940,LabCC,LabCC_SD_4,20,8 inches,polycarbonate,1,47,Plastic,0.0,0,Dry,28.5,B1 two density separationes each for 2 hours; B2 desnity separation occurred overnight,4.0,24.0,0.0,SD,20-250 um
+941,LabCC,LabCC_FT_1,500,8 inches,polycarbonate,1,47,Plastic,45.0,0,Dry,4.4,Did one round of KOH digestion and one round of detergent soak,0.0,0.0,48.0,FT,>500 um
+942,LabCC,LabCC_FT_1,250,8 inches,polycarbonate,1,47,Plastic,45.0,0,Dry,4.4,Did one round of KOH digestion and one round of detergent soak,0.0,0.0,48.0,FT,250-500 um
+943,LabCC,LabCC_FT_2,500,8 inches,polycarbonate,1,47,Plastic,45.0,0,Dry,4.4,Did one round of KOH digestion and one round of detergent soak,0.0,0.0,48.0,FT,>500 um
+944,LabCC,LabCC_FT_2,250,8 inches,polycarbonate,1,47,Plastic,45.0,0,Dry,4.4,Did one round of KOH digestion and one round of detergent soak,0.0,0.0,48.0,FT,250-500 um
+945,LabCC,LabCC_FT_3,500,8 inches,polycarbonate,1,47,Plastic,45.0,0,Dry,4.4,Did one round of KOH digestion and one round of detergent soak,0.0,0.0,48.0,FT,>500 um
+946,LabCC,LabCC_FT_3,250,8 inches,polycarbonate,1,47,Plastic,45.0,0,Dry,4.4,Did one round of KOH digestion and one round of detergent soak,0.0,0.0,48.0,FT,250-500 um
+947,LabCC,LabCC_FT_4,500,8 inches,polycarbonate,1,47,Plastic,45.0,0,Dry,4.4,Did one round of KOH digestion and one round of detergent soak,0.0,0.0,48.0,FT,>500 um
+948,LabCC,LabCC_FT_4,250,8 inches,polycarbonate,1,47,Plastic,45.0,0,Dry,4.4,Did one round of KOH digestion and one round of detergent soak,0.0,0.0,48.0,FT,250-500 um
+949,LabCC,LabCC_FT_1,20,9 inches,polycarbonate,1,47,Plastic,45.0,0,Dry,4.4,Did one round of KOH digestion and one round of detergent soak,0.0,0.0,48.0,FT,20-250 um
+950,LabCC,LabCC_FT_1,20,10 inches,polycarbonate,10,47,Plastic,45.0,0,Dry,4.4,Did one round of KOH digestion and one round of detergent soak,0.0,0.0,48.0,FT,10-20 um
+951,LabCC,LabCC_FT_1,20,11 inches,polycarbonate,1,47,Plastic,45.0,0,Dry,4.4,Did one round of KOH digestion and one round of detergent soak,0.0,0.0,48.0,FT,1-10 um
+952,LabCC,LabCC_FT_2,20,9 inches,polycarbonate,1,47,Plastic,45.0,0,Dry,4.4,Did one round of KOH digestion and one round of detergent soak,0.0,0.0,48.0,FT,20-250 um
+953,LabCC,LabCC_FT_2,20,10 inches,polycarbonate,10,47,Plastic,45.0,0,Dry,4.4,Did one round of KOH digestion and one round of detergent soak;Some sample spilled during filtering,0.0,0.0,48.0,FT,10-20 um
+954,LabCC,LabCC_FT_2,20,11 inches,polycarbonate,1,47,Plastic,45.0,0,Dry,4.4,Did one round of KOH digestion and one round of detergent soak,0.0,0.0,48.0,FT,1-10 um
+955,LabCC,LabCC_FT_3,20,9 inches,polycarbonate,1,47,Plastic,45.0,0,Dry,4.4,Did one round of KOH digestion and one round of detergent soak,0.0,0.0,48.0,FT,20-250 um
+1038,LabL,LabL_SD_6,500,3,glassfiber,500,47,Petri dish (polystyrene),45.0,"Density separation, NaI","on filters, dry",624.0,The samples were stored 624 h before visual analysis,0.25,0.25,-88.0,SD,>500 um
+956,LabCC,LabCC_FT_3,20,10 inches,polycarbonate,10,47,Plastic,45.0,0,Dry,4.4,Did one round of KOH digestion and one round of detergent soak,0.0,0.0,48.0,FT,10-20 um
+957,LabCC,LabCC_FT_3,20,11 inches,polycarbonate,1,47,Plastic,45.0,0,Dry,4.4,Did one round of KOH digestion and one round of detergent soak,0.0,0.0,48.0,FT,1-10 um
+958,LabCC,LabCC_FT_4,20,9 inches,polycarbonate,1,47,Plastic,45.0,0,Dry,4.4,Did one round of KOH digestion and one round of detergent soak,0.0,0.0,48.0,FT,20-250 um
+959,LabCC,LabCC_FT_4,20,10 inches,polycarbonate,10,47,Plastic,45.0,0,Dry,4.4,Did one round of KOH digestion and one round of detergent soak,0.0,0.0,48.0,FT,10-20 um
+960,LabCC,LabCC_FT_4,20,11 inches,polycarbonate,1,47,Plastic,45.0,0,Dry,4.4,Did one round of KOH digestion and one round of detergent soak,0.0,0.0,48.0,FT,1-10 um
+961,LabR,LabR_SD_5,250,3.5 inches,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",24.0,"24 hours per sample, not per size fraction",2.0,18.0,-88.0,SD,250-1000 um-1p3
+962,LabR,LabR_SD_5,250,3.5 inches,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",24.0,"24 hours per sample, not per size fraction",2.0,18.0,-88.0,SD,250-1000 um-1p5
+963,LabR,LabR_SD_5,45,3.5 inches,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",24.0,"24 hours per sample, not per size fraction",2.0,18.0,-88.0,SD,45-250 um-1p3
+964,LabR,LabR_SD_5,45,3.5 inches,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",24.0,"24 hours per sample, not per size fraction",2.0,18.0,-88.0,SD,45-250 um-1p5
+965,LabR,LabR_SD_6,250,3.5 inches,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",24.0,"24 hours per sample, not per size fraction",2.0,18.0,-88.0,SD,250-1000 um-1p3
+966,LabR,LabR_SD_6,250,3.5 inches,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",24.0,"24 hours per sample, not per size fraction",2.0,18.0,-88.0,SD,250-1000 um-1p5
+967,LabR,LabR_SD_6,45,3.5 inches,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",24.0,"24 hours per sample, not per size fraction",2.0,18.0,-88.0,SD,45-250 um-1p3
+968,LabR,LabR_SD_6,45,3.5 inches,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",24.0,"24 hours per sample, not per size fraction",2.0,18.0,-88.0,SD,45-250 um-1p5
+969,LabR,LabR_SD_7,250,3.5 inches,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",24.0,"24 hours per sample, not per size fraction",2.0,18.0,-88.0,SD,250-1000 um-1p3
+970,LabR,LabR_SD_7,250,3.5 inches,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",24.0,"24 hours per sample, not per size fraction",2.0,18.0,-88.0,SD,250-1000 um-1p5
+971,LabR,LabR_SD_7,45,3.5 inches,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",24.0,"24 hours per sample, not per size fraction",2.0,18.0,-88.0,SD,45-250 um-1p3
+972,LabR,LabR_SD_7,45,3.5 inches,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",24.0,"24 hours per sample, not per size fraction",2.0,18.0,-88.0,SD,45-250 um-1p5
+973,LabR,LabR_SD_8,250,3.5 inches,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",24.0,"24 hours per sample, not per size fraction",2.0,18.0,-88.0,SD,250-1000 um-1p3
+974,LabR,LabR_SD_8,250,3.5 inches,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",24.0,"24 hours per sample, not per size fraction",2.0,18.0,-88.0,SD,250-1000 um-1p5
+975,LabR,LabR_SD_8,45,3.5 inches,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",24.0,"24 hours per sample, not per size fraction",2.0,18.0,-88.0,SD,45-250 um-1p3
+976,LabR,LabR_SD_8,45,3.5 inches,PCTE,20,47,Glass,-88.0,-88,"on filters, dry",24.0,"24 hours per sample, not per size fraction",2.0,18.0,-88.0,SD,45-250 um-1p5
+977,LabD,LabD_SD_5,"250, 1000",8 inches,polycarbonate,20,47,Stainless steel,-88.0,-88,"on filters, dry",5.0,Oxidized at 60C for 2 hours with 30% H2O2,2.0,2.0,-88.0,SD,250-1000 um-1p3
+978,LabD,LabD_SD_5,"250, 1000",8 inches,polycarbonate,20,47,Stainless steel,-88.0,-88,"on filters, dry",5.0,Oxidized at 60C for 2 hours with 30% H2O2,2.0,2.0,-88.0,SD,250-1000 um-1p5
+979,LabD,LabD_SD_5,"45, 250",8 inches,polycarbonate,20,47,Stainless steel,-88.0,-88,"on filters, dry",5.0,Oxidized at 60C for 2 hours with 30% H2O2,2.0,2.0,-88.0,SD,45-250 um-1p3
+980,LabD,LabD_SD_5,"45, 250",8 inches,polycarbonate,20,47,Stainless steel,-88.0,-88,"on filters, dry",5.0,Oxidized at 60C for 2 hours with 30% H2O2,2.0,2.0,-88.0,SD,45-250 um-1p5
+981,LabD,LabD_SD_6,"250, 1000",8 inches,polycarbonate,20,47,Stainless steel,-88.0,-88,"on filters, dry",5.0,Oxidized at 60C for 2 hours with 30% H2O2,2.0,2.0,-88.0,SD,250-1000 um-1p3
+982,LabD,LabD_SD_6,"250, 1000",8 inches,polycarbonate,20,47,Stainless steel,-88.0,-88,"on filters, dry",5.0,Oxidized at 60C for 2 hours with 30% H2O2,2.0,2.0,-88.0,SD,250-1000 um-1p5
+983,LabD,LabD_SD_6,"45, 250",8 inches,polycarbonate,20,47,Stainless steel,-88.0,-88,"on filters, dry",5.0,Oxidized at 60C for 2 hours with 30% H2O2,2.0,2.0,-88.0,SD,45-250 um-1p3
+984,LabD,LabD_SD_6,"45, 250",8 inches,polycarbonate,20,47,Stainless steel,-88.0,-88,"on filters, dry",5.0,Oxidized at 60C for 2 hours with 30% H2O2,2.0,2.0,-88.0,SD,45-250 um-1p5
+985,LabD,LabD_SD_7,"250, 1000",8 inches,polycarbonate,20,47,Stainless steel,-88.0,-88,"on filters, dry",5.0,Oxidized at 60C for 2 hours with 30% H2O2,2.0,2.0,-88.0,SD,250-1000 um-1p3
+986,LabD,LabD_SD_7,"250, 1000",8 inches,polycarbonate,20,47,Stainless steel,-88.0,-88,"on filters, dry",5.0,Oxidized at 60C for 2 hours with 30% H2O2,2.0,2.0,-88.0,SD,250-1000 um-1p5
+987,LabD,LabD_SD_7,"45, 250",8 inches,polycarbonate,20,47,Stainless steel,-88.0,-88,"on filters, dry",5.0,Oxidized at 60C for 2 hours with 30% H2O2,2.0,2.0,-88.0,SD,45-250 um-1p3
+988,LabD,LabD_SD_7,"45, 250",8 inches,polycarbonate,20,47,Stainless steel,-88.0,-88,"on filters, dry",5.0,Oxidized at 60C for 2 hours with 30% H2O2,2.0,2.0,-88.0,SD,45-250 um-1p5
+989,LabD,LabD_SD_8,"250, 1000",8 inches,polycarbonate,20,47,Stainless steel,-88.0,-88,"on filters, dry",5.0,Oxidized at 60C for 2 hours with 30% H2O2,2.0,2.0,-88.0,SD,250-1000 um-1p3
+990,LabD,LabD_SD_8,"250, 1000",8 inches,polycarbonate,20,47,Stainless steel,-88.0,-88,"on filters, dry",5.0,Oxidized at 60C for 2 hours with 30% H2O2,2.0,2.0,-88.0,SD,250-1000 um-1p5
+991,LabD,LabD_SD_8,"45, 250",8 inches,polycarbonate,20,47,Stainless steel,-88.0,-88,"on filters, dry",5.0,Oxidized at 60C for 2 hours with 30% H2O2,2.0,2.0,-88.0,SD,45-250 um-1p3
+992,LabD,LabD_SD_8,"45, 250",8 inches,polycarbonate,20,47,Stainless steel,-88.0,-88,"on filters, dry",5.0,Oxidized at 60C for 2 hours with 30% H2O2,2.0,2.0,-88.0,SD,45-250 um-1p5
+993,LabL,LabL_DW_1,500,3,glassfiber,1,47,Petri dish (polystyrene),-88.0,-88,-88,72.0,,-88.0,-88.0,-88.0,DW,>500 um
+994,LabL,LabL_DW_1,250,3,glassfiber,1,47,Petri dish (polystyrene),-88.0,-88,-88,72.0,,-88.0,-88.0,-88.0,DW,250-500 um
+995,LabL,LabL_DW_1,125,3,glassfiber,1,47,Petri dish (polystyrene),-88.0,-88,-88,72.0,,-88.0,-88.0,-88.0,DW,125-250 um
+996,LabL,LabL_DW_2,500,3,glassfiber,1,47,Petri dish (polystyrene),-88.0,-88,-88,72.0,,-88.0,-88.0,-88.0,DW,>500 um
+997,LabL,LabL_DW_2,250,3,glassfiber,1,47,Petri dish (polystyrene),-88.0,-88,-88,72.0,,-88.0,-88.0,-88.0,DW,250-500 um
+998,LabL,LabL_DW_2,125,3,glassfiber,1,47,Petri dish (polystyrene),-88.0,-88,-88,72.0,,-88.0,-88.0,-88.0,DW,125-250 um
+999,LabL,LabL_DW_3,500,3,glassfiber,1,47,Petri dish (polystyrene),-88.0,-88,-88,72.0,,-88.0,-88.0,-88.0,DW,>500 um
+1000,LabL,LabL_DW_3,250,3,glassfiber,1,47,Petri dish (polystyrene),-88.0,-88,-88,72.0,,-88.0,-88.0,-88.0,DW,250-500 um
+1001,LabL,LabL_DW_3,125,3,glassfiber,1,47,Petri dish (polystyrene),-88.0,-88,-88,72.0,,-88.0,-88.0,-88.0,DW,125-250 um
+1002,LabL,LabL_DW_4,500,3,glassfiber,1,47,Petri dish (polystyrene),-88.0,-88,-88,72.0,,-88.0,-88.0,-88.0,DW,>500 um
+1003,LabL,LabL_SD_1,500,3,glassfiber,1,47,Petri dish (polystyrene),-88.0,-88,-88,-88.0,,24.0,24.0,-88.0,SD,>500 um
+1004,LabL,LabL_SD_1,250,3,glassfiber,1,47,Petri dish (polystyrene),-88.0,-88,-88,-88.0,,24.0,24.0,-88.0,SD,250-500 um
+1005,LabL,LabL_SD_1,125,3,glassfiber,1,47,Petri dish (polystyrene),-88.0,-88,-88,-88.0,,24.0,24.0,-88.0,SD,125-250 um
+1006,LabL,LabL_SD_2,500,3,glassfiber,1,47,Petri dish (polystyrene),-88.0,-88,-88,-88.0,,24.0,24.0,-88.0,SD,>500 um
+1007,LabL,LabL_SD_2,250,3,glassfiber,1,47,Petri dish (polystyrene),-88.0,-88,-88,-88.0,,24.0,24.0,-88.0,SD,250-500 um
+1008,LabL,LabL_SD_2,125,3,glassfiber,1,47,Petri dish (polystyrene),-88.0,-88,-88,-88.0,,24.0,24.0,-88.0,SD,125-250 um
+1009,LabL,LabL_SD_3,500,3,glassfiber,1,47,Petri dish (polystyrene),-88.0,-88,-88,-88.0,,24.0,24.0,-88.0,SD,>500 um
+1010,LabL,LabL_SD_3,250,3,glassfiber,1,47,Petri dish (polystyrene),-88.0,-88,-88,-88.0,,24.0,24.0,-88.0,SD,250-500 um
+1011,LabL,LabL_SD_3,125,3,glassfiber,1,47,Petri dish (polystyrene),-88.0,-88,-88,-88.0,,24.0,24.0,-88.0,SD,125-250 um
+1012,LabL,LabL_SD_8,500,3,glassfiber,1,47,Petri dish (polystyrene),-88.0,-88,-88,-88.0,,24.0,24.0,-88.0,SD,>500 um
+1013,LabL,LabL_SD_8,250,3,glassfiber,1,47,Petri dish (polystyrene),-88.0,-88,-88,-88.0,,24.0,24.0,-88.0,SD,250-500 um
+1014,LabL,LabL_SD_8,125,3,glassfiber,1,47,Petri dish (polystyrene),-88.0,-88,-88,-88.0,,24.0,24.0,-88.0,SD,125-250 um
+1015,LabL,LabL_FT_1,250,3,glassfiber,1,47,Petri dish (polystyrene),45.0,-88,72h,-88.0,,-88.0,-88.0,48.0,FT,212-500 um
+1016,LabL,LabL_FT_1,20,3,glassfiber,1,47,Petri dish (polystyrene),45.0,-88,72h,-88.0,,-88.0,-88.0,48.0,FT,20-212 um
+1017,LabL,LabL_FT_2,250,3,glassfiber,1,47,Petri dish (polystyrene),45.0,-88,72h,-88.0,,-88.0,-88.0,48.0,FT,212-500 um
+1018,LabL,LabL_FT_2,20,3,glassfiber,1,47,Petri dish (polystyrene),45.0,-88,72h,-88.0,,-88.0,-88.0,48.0,FT,20-212 um
+1019,LabL,LabL_FT_3,250,3,glassfiber,1,47,Petri dish (polystyrene),45.0,-88,72h,-88.0,,-88.0,-88.0,48.0,FT,212-500 um
+1020,LabL,LabL_FT_3,20,3,glassfiber,1,47,Petri dish (polystyrene),45.0,-88,72h,-88.0,,-88.0,-88.0,48.0,FT,20-212 um
+1021,LabL,LabL_FT_4,250,3,glassfiber,1,47,Petri dish (polystyrene),45.0,-88,72h,-88.0,,-88.0,-88.0,48.0,FT,212-500 um
+1022,LabL,LabL_FT_4,20,3,glassfiber,1,47,Petri dish (polystyrene),45.0,-88,72h,-88.0,,-88.0,-88.0,48.0,FT,20-212 um
+1023,LabJJ,LabJJ_FT_1,500,8,polycarbonate,20,47,Glass,45.0,-88,"on filters, dry",3.0,,-88.0,-88.0,48.0,FT,>500 um
+1024,LabJJ,LabJJ_FT_1,212,8,polycarbonate,20,47,Glass,45.0,-88,"on filters, dry",4.0,,-88.0,-88.0,48.0,FT,212-500 um
+1025,LabJJ,LabJJ_FT_1,-88,8,polycarbonate,20,47,Glass,45.0,-88,"on filters, dry",4.0,,-88.0,-88.0,48.0,FT,20-212 um
+1026,LabJJ,LabJJ_FT_2,500,8,polycarbonate,20,47,Glass,45.0,-88,"on filters, dry",3.0,,-88.0,-88.0,48.0,FT,>500 um
+1027,LabJJ,LabJJ_FT_2,212,8,polycarbonate,20,47,Glass,45.0,-88,"on filters, dry",3.0,,-88.0,-88.0,48.0,FT,212-500 um
+1028,LabJJ,LabJJ_FT_2,-88,8,polycarbonate,20,47,Glass,45.0,-88,"on filters, dry",4.0,,-88.0,-88.0,48.0,FT,20-212 um
+1029,LabJJ,LabJJ_FT_3,500,8,polycarbonate,20,47,Glass,45.0,-88,"on filters, dry",4.0,,-88.0,-88.0,48.0,FT,>500 um
+1030,LabJJ,LabJJ_FT_3,212,8,polycarbonate,20,47,Glass,45.0,-88,"on filters, dry",3.0,,-88.0,-88.0,48.0,FT,212-500 um
+1031,LabJJ,LabJJ_FT_3,-88,8,polycarbonate,20,47,Glass,45.0,-88,"on filters, dry",3.0,,-88.0,-88.0,48.0,FT,20-212 um
+1032,LabJJ,LabJJ_FT_4,500,8,polycarbonate,20,47,Glass,45.0,-88,"on filters, dry",4.0,,-88.0,-88.0,48.0,FT,>500 um
+1033,LabJJ,LabJJ_FT_4,212,8,polycarbonate,20,47,Glass,45.0,-88,"on filters, dry",4.0,,-88.0,-88.0,48.0,FT,212-500 um
+1034,LabJJ,LabJJ_FT_4,-88,8,polycarbonate,20,47,Glass,45.0,-88,"on filters, dry",3.0,,-88.0,-88.0,48.0,FT,20-212 um
+1035,LabL,LabL_SD_5,500,3,glassfiber,500,47,Petri dish (polystyrene),45.0,"Density separation, NaI","on filters, dry",624.0,The samples were stored 624 h before visual analysis,0.25,0.25,-88.0,SD,>500 um
+1036,LabL,LabL_SD_5,250,3,glassfiber,250,47,Petri dish (polystyrene),45.0,"Density separation, NaI","on filters, dry",624.0,The samples were stored 624 h before visual analysis,0.25,0.25,-88.0,SD,250-500 um
+1037,LabL,LabL_SD_5,125,3,glassfiber,125,47,Petri dish (polystyrene),45.0,"Density separation, NaI","on filters, dry",624.0,The samples were stored 624 h before visual analysis,0.25,0.25,-88.0,SD,125-250 um
+1039,LabL,LabL_SD_6,250,3,glassfiber,250,47,Petri dish (polystyrene),45.0,"Density separation, NaI","on filters, dry",624.0,The samples were stored 624 h before visual analysis,0.25,0.25,-88.0,SD,250-500 um
+1040,LabL,LabL_SD_6,125,3,glassfiber,125,47,Petri dish (polystyrene),45.0,"Density separation, NaI","on filters, dry",624.0,The samples were stored 624 h before visual analysis,0.25,0.25,-88.0,SD,125-250 um
+1041,LabL,LabL_SD_7,500,3,glassfiber,500,47,Petri dish (polystyrene),45.0,"Density separation, NaI","on filters, dry",624.0,The samples were stored 624 h before visual analysis,0.25,0.25,-88.0,SD,>500 um
+1042,LabL,LabL_SD_7,250,3,glassfiber,250,47,Petri dish (polystyrene),45.0,"Density separation, NaI","on filters, dry",624.0,The samples were stored 624 h before visual analysis,0.25,0.25,-88.0,SD,250-500 um
+1043,LabL,LabL_SD_7,125,3,glassfiber,125,47,Petri dish (polystyrene),45.0,"Density separation, NaI","on filters, dry",624.0,The samples were stored 624 h before visual analysis,0.25,0.25,-88.0,SD,125-250 um
+1044,LabL,LabL_FT_5,500,3,glassfiber,500,47,Petri dish (polystyrene),45.0,Digested 1 time with 5% KOH and 10% Alcojet,"on filters, dry",72.0,The samples were stored 72 h before visual analysis,-88.0,-88.0,48.0,FT,>500 um
+1045,LabL,LabL_FT_5,250,3,glassfiber,250,47,Petri dish (polystyrene),45.0,Digested 1 time with 5% KOH and 10% Alcojet,"on filters, dry",72.0,The samples were stored 72 h before visual analysis,-88.0,-88.0,48.0,FT,250-500 um
+1046,LabL,LabL_FT_5,53,3,glassfiber,53,47,Petri dish (polystyrene),45.0,Digested 1 time with 5% KOH and 10% Alcojet,"on filters, dry",72.0,The samples were stored 72 h before visual analysis,-88.0,-88.0,48.0,FT,20-250 um
+1047,LabL,LabL_FT_6,500,3,glassfiber,500,47,Petri dish (polystyrene),45.0,Digested 1 time with 10% KOH and 10% Alcojet,"on filters, dry",72.0,The samples were stored 72 h before visual analysis,-88.0,-88.0,48.0,FT,>500 um
+1048,LabL,LabL_FT_6,250,3,glassfiber,250,47,Petri dish (polystyrene),45.0,Digested 1 time with 10% KOH and 10% Alcojet,"on filters, dry",72.0,The samples were stored 72 h before visual analysis,-88.0,-88.0,48.0,FT,250-500 um
+1049,LabL,LabL_FT_6,53,3,glassfiber,53,47,Petri dish (polystyrene),45.0,Digested 1 time with 10% KOH and 10% Alcojet,"on filters, dry",72.0,The samples were stored 72 h before visual analysis,-88.0,-88.0,48.0,FT,20-250 um
+1050,LabL,LabL_FT_7,500,3,glassfiber,500,47,Petri dish (polystyrene),45.0,Digested 1 time with 20% KOH and 10% Alcojet,"on filters, dry",72.0,The samples were stored 72 h before visual analysis,-88.0,-88.0,48.0,FT,>500 um
+1051,LabL,LabL_FT_7,250,3,glassfiber,250,47,Petri dish (polystyrene),45.0,Digested 1 time with 20% KOH and 10% Alcojet,"on filters, dry",72.0,The samples were stored 72 h before visual analysis,-88.0,-88.0,48.0,FT,250-500 um
+1052,LabL,LabL_FT_7,53,3,glassfiber,53,47,Petri dish (polystyrene),45.0,Digested 1 time with 20% KOH and 10% Alcojet,"on filters, dry",72.0,The samples were stored 72 h before visual analysis,-88.0,-88.0,48.0,FT,20-250 um
+1053,LabL,LabL_FT_8,500,3,glassfiber,500,47,Petri dish (polystyrene),45.0,Digested 1 time with 30% KOH and 10% Alcojet,"on filters, dry",72.0,The samples were stored 72 h before visual analysis,-88.0,-88.0,48.0,FT,>500 um
+1054,LabL,LabL_FT_8,250,3,glassfiber,250,47,Petri dish (polystyrene),45.0,Digested 1 time with 30% KOH and 10% Alcojet,"on filters, dry",72.0,The samples were stored 72 h before visual analysis,-88.0,-88.0,48.0,FT,250-500 um
+1055,LabL,LabL_FT_8,53,3,glassfiber,53,47,Petri dish (polystyrene),45.0,Digested 1 time with 30% KOH and 10% Alcojet,"on filters, dry",72.0,The samples were stored 72 h before visual analysis,-88.0,-88.0,48.0,FT,20-250 um
+1056,LabL,LabL_FT_9,500,3,glassfiber,500,47,Petri dish (polystyrene),45.0,Digested 1 time with 5% KOH and 10% Alcojet,"on filters, dry",72.0,The samples were stored 72 h before visual analysis,-88.0,-88.0,48.0,FT,>500 um
+1057,LabL,LabL_FT_9,250,3,glassfiber,250,47,Petri dish (polystyrene),45.0,Digested 1 time with 5% KOH and 10% Alcojet,"on filters, dry",72.0,The samples were stored 72 h before visual analysis,-88.0,-88.0,48.0,FT,250-500 um
+1058,LabL,LabL_FT_9,53,3,glassfiber,53,47,Petri dish (polystyrene),45.0,Digested 1 time with 5% KOH and 10% Alcojet,"on filters, dry",72.0,The samples were stored 72 h before visual analysis,-88.0,-88.0,48.0,FT,20-250 um
+1059,LabL,LabL_FT_10,500,3,glassfiber,500,47,Petri dish (polystyrene),45.0,Digested 1 time with 10% KOH and 10% Alcojet,"on filters, dry",72.0,The samples were stored 72 h before visual analysis,-88.0,-88.0,48.0,FT,>500 um
+1060,LabL,LabL_FT_10,250,3,glassfiber,250,47,Petri dish (polystyrene),45.0,Digested 1 time with 10% KOH and 10% Alcojet,"on filters, dry",72.0,The samples were stored 72 h before visual analysis,-88.0,-88.0,48.0,FT,250-500 um
+1061,LabL,LabL_FT_10,53,3,glassfiber,53,47,Petri dish (polystyrene),45.0,Digested 1 time with 10% KOH and 10% Alcojet,"on filters, dry",72.0,The samples were stored 72 h before visual analysis,-88.0,-88.0,48.0,FT,20-250 um
+1062,LabL,LabL_FT_11,500,3,glassfiber,500,47,Petri dish (polystyrene),45.0,Digested 1 time with 20% KOH and 10% Alcojet,"on filters, dry",72.0,The samples were stored 72 h before visual analysis,-88.0,-88.0,48.0,FT,>500 um
+1063,LabL,LabL_FT_11,250,3,glassfiber,250,47,Petri dish (polystyrene),45.0,Digested 1 time with 20% KOH and 10% Alcojet,"on filters, dry",72.0,The samples were stored 72 h before visual analysis,-88.0,-88.0,48.0,FT,250-500 um
+1064,LabL,LabL_FT_11,53,3,glassfiber,53,47,Petri dish (polystyrene),45.0,Digested 1 time with 20% KOH and 10% Alcojet,"on filters, dry",72.0,The samples were stored 72 h before visual analysis,-88.0,-88.0,48.0,FT,20-250 um
+1065,LabL,LabL_FT_12,500,3,glassfiber,500,47,Petri dish (polystyrene),45.0,Digested 1 time with 30% KOH and 10% Alcojet,"on filters, dry",72.0,The samples were stored 72 h before visual analysis,-88.0,-88.0,48.0,FT,>500 um
+1066,LabL,LabL_FT_12,250,3,glassfiber,250,47,Petri dish (polystyrene),45.0,Digested 1 time with 30% KOH and 10% Alcojet,"on filters, dry",72.0,The samples were stored 72 h before visual analysis,-88.0,-88.0,48.0,FT,250-500 um
+1067,LabL,LabL_FT_12,53,3,glassfiber,53,47,Petri dish (polystyrene),45.0,Digested 1 time with 30% KOH and 10% Alcojet,"on filters, dry",72.0,The samples were stored 72 h before visual analysis,-88.0,-88.0,48.0,FT,20-250 um
+1068,LabNN,LabNN_CW_1,1,3.5 inches,polycarbonate,1,47,Glass,-88.0,none,"on filters, dry in a glass desiccator",2.0,20 micron filters were backordered,-88.0,-88.0,-88.0,CW,1-250 um
+1069,LabNN,LabNN_CW_1,250,3.5 inches,polycarbonate,-88,47,Glass,-88.0,none,"on filters, dry in a glass desiccator",2.0,20 micron filters were backordered,-88.0,-88.0,-88.0,CW,250-710 um
+1070,LabNN,LabNN_CW_1,710,3.5 inches,polycarbonate,-88,47,Glass,-88.0,none,"on filters, dry in a glass desiccator",2.0,20 micron filters were backordered,-88.0,-88.0,-88.0,CW,>710 um
+1071,LabNN,LabNN_CW_2,1,3.5 inches,polycarbonate,1,47,Glass,-88.0,none,"on filters, dry in a glass desiccator",2.0,20 micron filters were backordered,-88.0,-88.0,-88.0,CW,1-250 um
+1072,LabNN,LabNN_CW_2,250,3.5 inches,polycarbonate,-88,47,Glass,-88.0,none,"on filters, dry in a glass desiccator",2.0,20 micron filters were backordered,-88.0,-88.0,-88.0,CW,250-710 um
+1073,LabNN,LabNN_CW_2,710,3.5 inches,polycarbonate,-88,47,Glass,-88.0,none,"on filters, dry in a glass desiccator",2.0,20 micron filters were backordered,-88.0,-88.0,-88.0,CW,>710 um
+1074,LabNN,LabNN_CW_3,1,3.5 inches,polycarbonate,1,47,Glass,-88.0,none,"on filters, dry in a glass desiccator",2.0,20 micron filters were backordered,-88.0,-88.0,-88.0,CW,1-250 um
+1075,LabNN,LabNN_CW_3,250,3.5 inches,polycarbonate,-88,47,Glass,-88.0,none,"on filters, dry in a glass desiccator",2.0,20 micron filters were backordered,-88.0,-88.0,-88.0,CW,250-710 um
+1076,LabNN,LabNN_CW_3,710,3.5 inches,polycarbonate,-88,47,Glass,-88.0,none,"on filters, dry in a glass desiccator",2.0,20 micron filters were backordered,-88.0,-88.0,-88.0,CW,>710 um
+1077,LabNN,LabNN_CW_4,1,3.5 inches,polycarbonate,1,47,Glass,-88.0,none,"on filters, dry in a glass desiccator",2.0,20 micron filters were backordered,-88.0,-88.0,-88.0,CW,1-250 um
+1078,LabNN,LabNN_CW_4,250,3.5 inches,polycarbonate,-88,47,Glass,-88.0,none,"on filters, dry in a glass desiccator",2.0,20 micron filters were backordered.,-88.0,-88.0,-88.0,CW,250-710 um
+1079,LabNN,LabNN_CW_4,710,3.5 inches,polycarbonate,-88,47,Glass,-88.0,none,"on filters, dry in a glass desiccator",2.0,20 micron filters were backordered,-88.0,-88.0,-88.0,CW,>710 um
+1080,LabNN,LabNN_SD_1,1,3.5 inches,polycarbonate,1,47,Glass,-88.0,none,"on filters, dry in a glass desiccator",2.0,20 micron filters were backordered,2.0,24.0,-88.0,SD,1-250 um
+1081,LabNN,LabNN_SD_1,250,3.5 inches,polycarbonate,-88,47,Glass,-88.0,none,"on filters, dry in a glass desiccator",2.0,20 micron filters were backordered,2.0,24.0,-88.0,SD,250-710 um
+1082,LabNN,LabNN_SD_1,710,3.5 inches,polycarbonate,-88,47,Glass,-88.0,none,"on filters, dry in a glass desiccator",2.0,20 micron filters were backordered,2.0,24.0,-88.0,SD,>710 um
+1083,LabNN,LabNN_SD_2,1,3.5 inches,polycarbonate,1,47,Glass,-88.0,none,"on filters, dry in a glass desiccator",2.0,20 micron filters were backordered,2.0,24.0,-88.0,SD,1-250 um
+1084,LabNN,LabNN_SD_2,250,3.5 inches,polycarbonate,-88,47,Glass,-88.0,none,"on filters, dry in a glass desiccator",2.0,20 micron filters were backordered,2.0,24.0,-88.0,SD,250-710 um
+1085,LabNN,LabNN_SD_2,710,3.5 inches,polycarbonate,-88,47,Glass,-88.0,none,"on filters, dry in a glass desiccator",2.0,20 micron filters were backordered,2.0,24.0,-88.0,SD,>710 um
+1086,LabNN,LabNN_SD_3,1,3.5 inches,polycarbonate,1,47,Glass,-88.0,none,"on filters, dry in a glass desiccator",2.0,20 micron filters were backordered,2.0,24.0,-88.0,SD,1-250 um
+1087,LabNN,LabNN_SD_3,250,3.5 inches,polycarbonate,-88,47,Glass,-88.0,none,"on filters, dry in a glass desiccator",2.0,20 micron filters were backordered,2.0,24.0,-88.0,SD,250-710 um
+1088,LabNN,LabNN_SD_3,710,3.5 inches,polycarbonate,-88,47,Glass,-88.0,none,"on filters, dry in a glass desiccator",2.0,20 micron filters were backordered,2.0,24.0,-88.0,SD,>710 um
+1089,LabNN,LabNN_SD_4,1,3.5 inches,polycarbonate,1,47,Glass,-88.0,none,"on filters, dry in a glass desiccator",2.0,20 micron filters were backordered,2.0,24.0,-88.0,SD,1-250 um
+1090,LabNN,LabNN_SD_4,250,3.5 inches,polycarbonate,-88,47,Glass,-88.0,none,"on filters, dry in a glass desiccator",2.0,20 micron filters were backordered,2.0,24.0,-88.0,SD,250-710 um
+1091,LabNN,LabNN_SD_4,710,3.5 inches,polycarbonate,-88,47,Glass,-88.0,none,"on filters, dry in a glass desiccator",2.0,20 micron filters were backordered,2.0,24.0,-88.0,SD,>710 um

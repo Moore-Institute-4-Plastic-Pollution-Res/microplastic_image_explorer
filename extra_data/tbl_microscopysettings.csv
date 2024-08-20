@@ -1,0 +1,726 @@
+objectid,labid,sampleid,sizefraction,pickingprep,comments,time,magnification
+55,LabC,LabC_DW_1,212-500 um,Dry,,3.0,40.0
+56,LabC,LabC_DW_1,>500 um,Dry,,3.0,40.0
+188,LabB,LabB_CW_1,>500 um,Dry,,1.5,200.0
+189,LabB,LabB_CW_1,212-500 um,Dry,,2.0,200.0
+190,LabB,LabB_CW_1,20-212 um,Dry,,2.5,200.0
+191,LabB,LabB_CW_2,>500 um,Dry,,1.0,200.0
+192,LabB,LabB_CW_2,212-500 um,Dry,,2.5,200.0
+193,LabB,LabB_CW_2,20-212 um,Dry,,2.5,200.0
+194,LabB,LabB_CW_3,>500 um,Dry,,3.5,200.0
+195,LabB,LabB_CW_3,212-500 um,Dry,,1.5,200.0
+196,LabB,LabB_CW_3,20-212 um,Dry,,2.5,200.0
+197,LabB,LabB_CW_4,>500 um,Dry,,0.5,200.0
+198,LabB,LabB_CW_4,212-500 um,Dry,,0.5,200.0
+199,LabB,LabB_CW_4,20-212 um,Dry,,1.5,200.0
+200,LabZ,LabZ_CW_1,212-500 um,Dry,,2.0,50.0
+201,LabZ,LabZ_CW_1,20-212 um,Dry,,2.0,50.0
+202,LabZ,LabZ_CW_1,1-20 um,Dry,,3.0,100.0
+203,LabZ,LabZ_CW_2,212-500 um,Dry,,2.0,50.0
+204,LabZ,LabZ_CW_2,20-212 um,Dry,,2.0,50.0
+205,LabZ,LabZ_CW_2,1-20 um,Dry,,3.0,100.0
+206,LabZ,LabZ_CW_3,212-500 um,Dry,,2.0,50.0
+207,LabZ,LabZ_CW_3,20-212 um,Dry,,2.0,50.0
+208,LabZ,LabZ_CW_3,1-20 um,Dry,,3.0,100.0
+224,LabC,LabC_CW_1,20-212 um,Dry,,5.0,40.0
+148,LabN,LabN_CW_1,>500 um,Dry,Range of magnifications used: 0.73-2x,0.41666667,2.0
+149,LabN,LabN_CW_2,>500 um,Dry,Range of magnifications used: 0.73-2x,0.25,2.0
+150,LabN,LabN_CW_3,>500 um,Dry,Range of magnifications used: 0.73-2x,0.5,2.0
+151,LabN,LabN_CW_4,>500 um,Dry,Range of magnifications used: 0.73-2x,0.16666667,2.0
+152,LabN,LabN_CW_1,212-500 um,Dry,Range of magnifications used: 0.73-3.2x,0.25,3.2
+153,LabN,LabN_CW_2,212-500 um,Dry,Range of magnifications used: 0.73-3.2x,0.33333333,3.2
+154,LabN,LabN_CW_3,212-500 um,Dry,Range of magnifications used: 0.73-3.2x,0.33333333,3.2
+155,LabN,LabN_CW_4,212-500 um,Dry,Range of magnifications used: 0.73-3.2x,0.08333333,3.2
+156,LabN,LabN_CW_1,20-212 um,Dry,Range of magnifications used:1-4x,0.75,4.0
+157,LabN,LabN_CW_2,20-212 um,Dry,Range of magnifications used:1-4x,0.58333333,4.0
+158,LabN,LabN_CW_3,20-212 um,Dry,Range of magnifications used:1-4x,0.83333333,4.0
+159,LabN,LabN_CW_4,20-212 um,Dry,Range of magnifications used:1-4x,0.16666667,4.0
+160,LabN,LabN_CW_1,1-20 um,Dry,Range of magnifications used: 1.25-8x,0.58333333,8.0
+161,LabN,LabN_CW_2,1-20 um,Dry,Range of magnifications used: 1.25-8x,1.0,8.0
+162,LabN,LabN_CW_3,1-20 um,Dry,Range of magnifications used: 1.25-8x,1.16666667,8.0
+163,LabN,LabN_CW_4,1-20 um,Dry,Range of magnifications used: 1.25-8x,0.41666667,8.0
+209,LabZ,LabZ_CW_4,212-500 um,Dry,No particles of interest on blank sample,1.0,50.0
+210,LabZ,LabZ_CW_4,20-212 um,Dry,No particles of interest on blank sample,1.0,50.0
+211,LabZ,LabZ_CW_4,1-20 um,Dry,No particles of interest on blank sample,1.0,100.0
+212,LabJ,LabJ_CW_3,>500 um,Dry,Not be able to get a reticle due to the age of microscope,5.0,4.2
+213,LabJ,LabJ_CW_3,212-500 um,Dry,Not be able to get a reticle due to the age of microscope,5.0,4.2
+214,LabJ,LabJ_CW_3,20-212 um,Dry,Not be able to get a reticle due to the age of microscope,3.0,4.2
+215,LabJ,LabJ_CW_4,>500 um,Dry,Not be able to get a reticle due to the age of microscope,0.5,4.2
+216,LabJ,LabJ_CW_4,212-500 um,Dry,Not be able to get a reticle due to the age of microscope,0.5,4.2
+217,LabJ,LabJ_CW_4,20-212 um,Dry,Not be able to get a reticle due to the age of microscope,0.5,4.2
+218,LabJ,LabJ_CW_1,>500 um,Dry,Not be able to get a reticle due to the age of microscope,5.0,4.2
+219,LabJ,LabJ_CW_1,212-500 um,Dry,Not be able to get a reticle due to the age of microscope,2.0,4.2
+220,LabJ,LabJ_CW_1,20-212 um,Dry,Not be able to get a reticle due to the age of microscope,3.0,4.2
+221,LabJ,LabJ_CW_2,>500 um,Dry,Not be able to get a reticle due to the age of microscope,7.0,4.2
+222,LabJ,LabJ_CW_2,212-500 um,Dry,Not be able to get a reticle due to the age of microscope,8.0,4.2
+223,LabJ,LabJ_CW_2,20-212 um,Dry,Not be able to get a reticle due to the age of microscope,4.0,4.2
+225,LabC,LabC_CW_1,212-500 um,Dry,,6.0,40.0
+226,LabC,LabC_CW_1,>500 um,Dry,,5.0,40.0
+227,LabC,LabC_CW_2,20-212 um,Dry,,3.0,40.0
+228,LabC,LabC_CW_2,212-500 um,Dry,,3.0,40.0
+229,LabC,LabC_CW_2,>500 um,Dry,,4.0,40.0
+230,LabC,LabC_CW_3,20-212 um,Dry,,3.0,40.0
+231,LabC,LabC_CW_3,212-500 um,Dry,,3.0,40.0
+232,LabC,LabC_CW_3,>500 um,Dry,,4.0,40.0
+233,LabC,LabC_CW_4,20-212 um,Dry,,3.0,40.0
+234,LabC,LabC_CW_4,212-500 um,Dry,,0.5,40.0
+235,LabC,LabC_CW_4,>500 um,Dry,,0.1,40.0
+236,LabV,LabV_CW_1,20-212 um,Dry,2 hours imaging per fraction,2.0,100.0
+237,LabV,LabV_CW_1,212-500 um,Dry,2 hours imaging per fraction,2.0,100.0
+238,LabV,LabV_CW_1,>500 um,Dry,2 hours imaging per fraction,2.0,100.0
+239,LabV,LabV_CW_2,20-212 um,Dry,2 hours imaging per fraction,2.0,100.0
+240,LabV,LabV_CW_2,212-500 um,Dry,2 hours imaging per fraction,2.0,100.0
+241,LabV,LabV_CW_2,>500 um,Dry,2 hours imaging per fraction,2.0,100.0
+242,LabV,LabV_CW_3,20-212 um,Dry,2 hours imaging per fraction,2.0,100.0
+243,LabV,LabV_CW_3,212-500 um,Dry,2 hours imaging per fraction,2.0,100.0
+244,LabV,LabV_CW_3,>500 um,Dry,2 hours imaging per fraction,2.0,100.0
+245,LabV,LabV_CW_4,20-212 um,Dry,2 hours imaging per fraction,2.0,100.0
+246,LabV,LabV_CW_4,212-500 um,Dry,2 hours imaging per fraction,2.0,100.0
+247,LabV,LabV_CW_4,>500 um,Dry,2 hours imaging per fraction,2.0,100.0
+248,LabM,LabM_CW_1,20-212 um,Dry,counting & picking combined; time for pictures/size measures 0.75,1.75,50.0
+249,LabM,LabM_CW_1,212-500 um,Dry,counting & picking combined; time for pictures/size measures 1.5,1.0,35.0
+250,LabM,LabM_CW_1,>500 um,Dry,counting & picking combined; time for pictures/size measures 1.5,0.5,25.0
+251,LabM,LabM_CW_2,20-212 um,Dry,counting & picking combined; time for pictures/size measures 0.75,1.75,50.0
+252,LabM,LabM_CW_2,212-500 um,Dry,counting & picking combined; time for pictures/size measures 1.5,1.0,35.0
+253,LabM,LabM_CW_2,>500 um,Dry,counting & picking combined; time for pictures/size measures 1.5,0.5,25.0
+254,LabM,LabM_CW_3,20-212 um,Dry,counting & picking combined; time for pictures/size measures 0.75,1.75,50.0
+255,LabM,LabM_CW_3,212-500 um,Dry,counting & picking combined; time for pictures/size measures 1.5,1.0,35.0
+256,LabM,LabM_CW_3,>500 um,Dry,counting & picking combined; time for pictures/size measures 1.5,0.5,25.0
+257,LabM,LabM_CW_4,20-212 um,Dry,counting & picking combined,0.75,50.0
+258,LabM,LabM_CW_4,212-500 um,Dry,counting & picking combined,0.5,35.0
+259,LabM,LabM_CW_4,>500 um,Dry,counting & picking combined,0.25,25.0
+260,LabD,LabD_CW_2,>500 um,Dry,,3.5,2.0
+261,LabD,LabD_CW_2,212-500 um,Dry,,4.75,2.0
+262,LabRR,LabRR_CW_1,>500 um,Dry,,1.0,60.0
+263,LabRR,LabRR_CW_1,212-500 um,Dry,,1.0,60.0
+264,LabS,LabS_CW_1,>500 um,Wet,"I change the Pickingprep because of the white substance, It was better to pick and count particles when the whiet substance was dry",50.5,40.0
+265,LabS,LabS_CW_1,212-500 um,Wet,"I change the Pickingprep because of the white substance, It was better to pick and count particles when the whiet substance was dry",40.2,40.0
+266,LabS,LabS_CW_1,20-212 um,Dry,,60.8,40.0
+267,LabS,LabS_CW_2,>500 um,Dry,,20.5,40.0
+268,LabS,LabS_CW_2,212-500 um,Dry,,50.8,40.0
+269,LabS,LabS_CW_2,20-212 um,Dry,,62.2,40.0
+270,LabS,LabS_CW_3,>500 um,Dry,,15.9,40.0
+271,LabS,LabS_CW_3,212-500 um,Dry,,26.2,40.0
+272,LabS,LabS_CW_3,20-212 um,Dry,,30.8,40.0
+273,LabS,LabS_CW_4,>500 um,Dry,,4.2,40.0
+274,LabS,LabS_CW_4,212-500 um,Dry,,4.6,40.0
+275,LabG,LabG_CW_1,>500 um,Wet,,1.0,8.0
+276,LabG,LabG_CW_1,212-500 um,Wet,,1.0,8.0
+277,LabG,LabG_CW_1,20-212 um,Dry,,1.5,16.0
+278,LabG,LabG_CW_1,1-20 um,Dry,,1.5,16.0
+279,LabG,LabG_CW_2,>500 um,Wet,,1.0,8.0
+280,LabG,LabG_CW_2,212-500 um,Wet,,1.0,8.0
+281,LabG,LabG_CW_2,20-212 um,Dry,,1.5,16.0
+282,LabG,LabG_CW_2,1-20 um,Dry,,1.5,16.0
+283,LabG,LabG_CW_3,>500 um,Wet,,1.0,8.0
+284,LabG,LabG_CW_3,212-500 um,Wet,,1.0,8.0
+285,LabG,LabG_CW_3,20-212 um,Dry,,1.5,16.0
+286,LabG,LabG_CW_3,1-20 um,Dry,,1.5,16.0
+287,LabG,LabG_CW_4,>500 um,Wet,,1.0,8.0
+288,LabG,LabG_CW_4,212-500 um,Wet,,1.0,8.0
+289,LabG,LabG_CW_4,20-212 um,Dry,,1.5,16.0
+290,LabG,LabG_CW_4,1-20 um,Dry,,1.5,16.0
+307,LabAA,LabAA_CW_1,1-20 um,Dry,,1.0,80.0
+308,LabAA,LabAA_CW_1,20-212 um,Dry,,55.0,80.0
+309,LabAA,LabAA_CW_1,212-500 um,Wet,,11.0,60.0
+310,LabAA,LabAA_CW_1,>500 um,Wet,,5.0,60.0
+311,LabAA,LabAA_CW_2,1-20 um,Dry,,4.0,80.0
+312,LabAA,LabAA_CW_2,20-212 um,Dry,,25.0,80.0
+313,LabAA,LabAA_CW_2,212-500 um,Wet,,5.0,60.0
+314,LabAA,LabAA_CW_2,>500 um,Wet,,3.0,60.0
+315,LabAA,LabAA_CW_3,1-20 um,Dry,,11.0,80.0
+316,LabAA,LabAA_CW_3,20-212 um,Dry,,35.0,80.0
+317,LabAA,LabAA_CW_3,212-500 um,Wet,,10.0,60.0
+318,LabAA,LabAA_CW_3,>500 um,Wet,,9.0,60.0
+319,LabX,LabX_CW_1,>500 um,Dry,,1.0,1.0
+320,LabX,LabX_CW_1,212-500 um,Wet,,1.25,1.0
+321,LabX,LabX_CW_1,20-212 um,Wet,,3.5,5.0
+322,LabX,LabX_CW_1,1-20 um,Wet,,7.0,20.0
+323,LabX,LabX_CW_2,>500 um,Dry,,0.75,1.0
+324,LabX,LabX_CW_2,212-500 um,Wet,,2.0,5.0
+325,LabX,LabX_CW_2,20-212 um,Wet,,1.5,5.0
+326,LabX,LabX_CW_2,1-20 um,Wet,,3.75,20.0
+327,LabX,LabX_CW_3,>500 um,Dry,,2.25,1.0
+328,LabX,LabX_CW_3,212-500 um,Wet,,2.75,1.0
+329,LabX,LabX_CW_3,20-212 um,Wet,,4.5,5.0
+330,LabX,LabX_CW_3,1-20 um,Wet,,0.0,20.0
+333,LabL,LabL_CW_1,>500 um,Wet,"7 h total for CW 1-4, the picking up and sorting for photos of particles were performed wet as the particles are easily moved by static but chemical analysis is perfomed when the particles are dry. This includes measurments of particles",7.0,20.0
+334,LabL,LabL_CW_1,212-500 um,Wet,"7 h total for CW 1-4, the picking up and sorting for photos of particles were performed wet as the particles are easily moved by static but chemical analysis is perfomed when the particles are dry. This includes measurments of particles",7.0,20.0
+335,LabL,LabL_CW_1,20-212 um,Wet,"7 h total for CW 1-4, the picking up and sorting for photos of particles were performed wet as the particles are easily moved by static but chemical analysis is perfomed when the particles are dry. This includes measurments of particles",7.0,20.0
+336,LabL,LabL_CW_2,>500 um,Wet,"7 h total for CW 1-4, the picking up and sorting for photos of particles were performed wet as the particles are easily moved by static but chemical analysis is perfomed when the particles are dry. This includes measurments of particles",7.0,20.0
+382,LabDD,LabDD_CW_3,20-212 um,Dry,magnifiaction varied 6.7-45x,5.0,45.0
+304,LabU,LabU_CW_4,212-500 um,Dry,2 hours imaging per fraction,2.0,100.0
+305,LabU,LabU_CW_4,20-212 um,Dry,2 hours imaging per fraction,2.0,100.0
+337,LabL,LabL_CW_2,212-500 um,Wet,"7 h total for CW 1-4, the picking up and sorting for photos of particles were performed wet as the particles are easily moved by static but chemical analysis is perfomed when the particles are dry. This includes measurments of particles",7.0,20.0
+338,LabL,LabL_CW_2,20-212 um,Wet,"7 h total for CW 1-4, the picking up and sorting for photos of particles were performed wet as the particles are easily moved by static but chemical analysis is perfomed when the particles are dry",7.0,20.0
+339,LabL,LabL_CW_3,>500 um,Wet,"7 h total for CW 1-4, the picking up and sorting for photos of particles were performed wet as the particles are easily moved by static but chemical analysis is perfomed when the particles are dry",7.0,20.0
+340,LabL,LabL_CW_3,212-500 um,Wet,"7 h total for CW 1-4, the picking up and sorting for photos of particles were performed wet as the particles are easily moved by static but chemical analysis is perfomed when the particles are dry",7.0,20.0
+341,LabL,LabL_CW_3,20-212 um,Wet,"7 h total for CW 1-4, the picking up and sorting for photos of particles were performed wet as the particles are easily moved by static but chemical analysis is perfomed when the particles are dry",7.0,20.0
+342,LabL,LabL_CW_4,>500 um,Wet,"7 h total for CW 1-4, the picking up and sorting for photos of particles were performed wet as the particles are easily moved by static but chemical analysis is perfomed when the particles are dry",7.0,20.0
+343,LabL,LabL_CW_4,212-500 um,Wet,"7 h total for CW 1-4, the picking up and sorting for photos of particles were performed wet as the particles are easily moved by static but chemical analysis is perfomed when the particles are dry",7.0,20.0
+344,LabL,LabL_CW_4,20-212 um,Wet,"7 h total for CW 1-4, the picking up and sorting for photos of particles were performed wet as the particles are easily moved by static but chemical analysis is perfomed when the particles are dry",7.0,20.0
+345,LabQ,LabQ_CW_5,20-212 um,Dry,This time value includes characterizing and imaging particles on this filter.,8.0,45.0
+346,LabQ,LabQ_CW_6,20-212 um,Dry,This time value includes characterizing and imaging particles on this filter.,6.0,45.0
+347,LabQ,LabQ_CW_7,20-212 um,Dry,This time value includes characterizing and imaging particles on this filter.,7.0,45.0
+348,LabQ,LabQ_CW_8,20-212 um,Dry,This time value includes characterizing and imaging particles on this filter.,2.0,45.0
+349,LabQ,LabQ_CW_5,212-500 um,Dry,This time value includes characterizing and imaging particles on this filter.,4.0,45.0
+350,LabQ,LabQ_CW_6,212-500 um,Dry,This time value includes characterizing and imaging particles on this filter.,5.0,45.0
+351,LabQ,LabQ_CW_7,212-500 um,Dry,This time value includes characterizing and imaging particles on this filter.,3.0,45.0
+352,LabQ,LabQ_CW_8,212-500 um,Dry,This time value includes characterizing and imaging particles on this filter.,3.0,45.0
+353,LabQ,LabQ_CW_5,>500 um,Dry,This time value includes characterizing and imaging particles on this filter.,2.0,45.0
+354,LabQ,LabQ_CW_6,>500 um,Dry,This time value includes characterizing and imaging particles on this filter.,2.0,45.0
+355,LabQ,LabQ_CW_7,>500 um,Dry,This time value includes characterizing and imaging particles on this filter.,1.0,45.0
+356,LabQ,LabQ_CW_8,>500 um,Dry,This time value includes characterizing and imaging particles on this filter.,1.0,45.0
+357,LabR,LabR_CW_1,>500 um,Wet,"For all samples: analyzed by visual microscopy (stereoscope) first, without picking, then went back a second time to pick for ~30/type characterization, hence why there are less particles analyzed by FTIR than were characterized, very difficult to go back the second time and subsample for smaller size fractions",0.5,1.5
+358,LabR,LabR_CW_1,212-500 um,Dry,"For all samples: analyzed by visual microscopy (stereoscope) first, without picking, then went back a second time to pick for ~30/type characterization, hence why there are less particles analyzed by FTIR than were characterized, very difficult to go back the second time and subsample for smaller size fractions",1.0,1.5
+359,LabR,LabR_CW_1,20-212 um,Dry,"For all samples: analyzed by visual microscopy (stereoscope) first, without picking, then went back a second time to pick for ~30/type characterization, hence why there are less particles analyzed by FTIR than were characterized, very difficult to go back the second time and subsample for smaller size fractions",1.0,1.5
+383,LabDD,LabDD_CW_3,1-20 um,Dry,magnifiaction varied 6.7-45x,4.0,45.0
+360,LabR,LabR_CW_1,1-20 um,Dry,"For all samples: analyzed by visual microscopy (stereoscope) first, without picking, then went back a second time to pick for ~30/type characterization, hence why there are less particles analyzed by FTIR than were characterized, very difficult to go back the second time and subsample for smaller size fractions",1.0,2.5
+361,LabR,LabR_CW_2,>500 um,Wet,"For all samples: analyzed by visual microscopy (stereoscope) first, without picking, then went back a second time to pick for ~30/type characterization, hence why there are less particles analyzed by FTIR than were characterized, very difficult to go back the second time and subsample for smaller size fractions",0.5,1.5
+362,LabR,LabR_CW_2,212-500 um,Dry,"For all samples: analyzed by visual microscopy (stereoscope) first, without picking, then went back a second time to pick for ~30/type characterization, hence why there are less particles analyzed by FTIR than were characterized, very difficult to go back the second time and subsample for smaller size fractions",1.0,1.5
+363,LabR,LabR_CW_2,20-212 um,Dry,"For all samples: analyzed by visual microscopy (stereoscope) first, without picking, then went back a second time to pick for ~30/type characterization, hence why there are less particles analyzed by FTIR than were characterized, very difficult to go back the second time and subsample for smaller size fractions",1.0,2.5
+364,LabR,LabR_CW_2,1-20 um,Dry,"For all samples: analyzed by visual microscopy (stereoscope) first, without picking, then went back a second time to pick for ~30/type characterization, hence why there are less particles analyzed by FTIR than were characterized, very difficult to go back the second time and subsample for smaller size fractions",1.0,2.5
+365,LabR,LabR_CW_3,>500 um,Wet,"For all samples: analyzed by visual microscopy (stereoscope) first, without picking, then went back a second time to pick for ~30/type characterization, hence why there are less particles analyzed by FTIR than were characterized, very difficult to go back the second time and subsample for smaller size fractions",0.5,1.5
+366,LabR,LabR_CW_3,212-500 um,Dry,"For all samples: analyzed by visual microscopy (stereoscope) first, without picking, then went back a second time to pick for ~30/type characterization, hence why there are less particles analyzed by FTIR than were characterized, very difficult to go back the second time and subsample for smaller size fractions",1.0,1.5
+367,LabR,LabR_CW_3,20-212 um,Dry,"For all samples: analyzed by visual microscopy (stereoscope) first, without picking, then went back a second time to pick for ~30/type characterization, hence why there are less particles analyzed by FTIR than were characterized, very difficult to go back the second time and subsample for smaller size fractions",1.0,2.5
+368,LabR,LabR_CW_3,1-20 um,Dry,"For all samples: analyzed by visual microscopy (stereoscope) first, without picking, then went back a second time to pick for ~30/type characterization, hence why there are less particles analyzed by FTIR than were characterized, very difficult to go back the second time and subsample for smaller size fractions",1.0,2.5
+369,LabR,LabR_CW_4,212-500 um,Dry,"For all samples: analyzed by visual microscopy (stereoscope) first, without picking, then went back a second time to pick for ~30/type characterization, hence why there are less particles analyzed by FTIR than were characterized, very difficult to go back the second time and subsample for smaller size fractions",0.5,1.5
+370,LabR,LabR_CW_4,20-212 um,Dry,"For all samples: analyzed by visual microscopy (stereoscope) first, without picking, then went back a second time to pick for ~30/type characterization, hence why there are less particles analyzed by FTIR than were characterized, very difficult to go back the second time and subsample for smaller size fractions",0.5,1.5
+371,LabR,LabR_CW_4,1-20 um,Dry,"For all samples: analyzed by visual microscopy (stereoscope) first, without picking, then went back a second time to pick for ~30/type characterization, hence why there are less particles analyzed by FTIR than were characterized, very difficult to go back the second time and subsample for smaller size fractions",0.5,2.5
+372,LabDD,LabDD_CW_1,>500 um,Dry,magnifiaction varied 6.7-45x,7.0,45.0
+373,LabDD,LabDD_CW_1,212-500 um,Dry,magnifiaction varied 6.7-45x,7.0,45.0
+374,LabDD,LabDD_CW_1,20-212 um,Dry,magnifiaction varied 6.7-45x,6.0,45.0
+375,LabDD,LabDD_CW_1,1-20 um,Dry,magnifiaction varied 6.7-45x,4.0,45.0
+376,LabDD,LabDD_CW_2,>500 um,Dry,magnifiaction varied 6.7-45x,7.25,45.0
+377,LabDD,LabDD_CW_2,212-500 um,Dry,magnifiaction varied 6.7-45x,4.5,45.0
+378,LabDD,LabDD_CW_2,20-212 um,Dry,magnifiaction varied 6.7-45x,5.0,45.0
+379,LabDD,LabDD_CW_2,1-20 um,Dry,magnifiaction varied 6.7-45x,4.0,45.0
+380,LabDD,LabDD_CW_3,>500 um,Dry,magnifiaction varied 6.7-45x,5.5,45.0
+381,LabDD,LabDD_CW_3,212-500 um,Dry,magnifiaction varied 6.7-45x,4.5,45.0
+384,LabDD,LabDD_CW_4,>500 um,Dry,magnifiaction varied 6.7-45x,2.0,45.0
+385,LabDD,LabDD_CW_4,212-500 um,Dry,magnifiaction varied 6.7-45x,2.5,45.0
+386,LabDD,LabDD_CW_4,20-212 um,Dry,magnifiaction varied 6.7-45x,3.0,45.0
+387,LabDD,LabDD_CW_4,1-20 um,Dry,magnifiaction varied 6.7-45x,4.0,45.0
+388,LabJJ,LabJJ_CW_1,>500 um,Dry,Photos taken at varying magnifications ranging from 8X to 35X.,5.0,20.0
+389,LabJJ,LabJJ_CW_1,212-500 um,Dry,Photos taken at varying magnifications.,5.0,20.0
+390,LabJJ,LabJJ_CW_1,20-212 um,Dry,Photos taken at varying magnifications.,8.0,20.0
+391,LabJJ,LabJJ_CW_2,>500 um,Dry,Photos taken at 20X.  Some photos and measurements were taken during picking.,5.0,20.0
+392,LabJJ,LabJJ_CW_2,212-500 um,Dry,Photos taken at varying magnifications.,10.0,20.0
+393,LabJJ,LabJJ_CW_2,20-212 um,Dry,Photos taken at varying magnifications.  Some photos and measurements were taken during picking.,8.0,20.0
+394,LabJJ,LabJJ_CW_3,>500 um,Dry,Photos taken at 20X.  Some photos and measurements were taken during picking.,5.0,20.0
+395,LabJJ,LabJJ_CW_3,212-500 um,Dry,Photos taken at 20X.  Some photos and measurements were taken during picking.,8.0,20.0
+396,LabJJ,LabJJ_CW_3,20-212 um,Dry,Photos taken at 20X.  Some photos and measurements were taken during picking.,8.0,20.0
+397,LabJJ,LabJJ_CW_4,>500 um,Dry,Photos taken at 20X.  Some photos and measurements were taken during picking.,4.0,20.0
+398,LabJJ,LabJJ_CW_4,212-500 um,Dry,Photos taken at 20X.  Some photos and measurements were taken during picking.,6.0,20.0
+399,LabJJ,LabJJ_CW_4,20-212 um,Dry,Photos taken at 20X.  Some photos and measurements were taken during picking.,6.0,20.0
+400,LabH,LabH_CW_1,1-20 um,Dry,"Microplastics were not picked out, becasuse no more than 30 items of each kind of microplastics were found.",0.7,3.2
+401,LabH,LabH_CW_1,20-212 um,Dry,"Microplastics were not picked out, becasuse no more than 31 items of each kind of microplastics were found.",0.4,1.2
+402,LabH,LabH_CW_1,212-500 um,Dry,"Microplastics were not picked out, becasuse no more than 32 items of each kind of microplastics were found.",0.4,1.2
+403,LabH,LabH_CW_1,>500 um,Dry,"Microplastics were not picked out, becasuse no more than 33 items of each kind of microplastics were found.",0.4,1.2
+404,LabH,LabH_CW_2,1-20 um,Dry,"Microplastics were not picked out, becasuse no more than 34 items of each kind of microplastics were found.",0.7,3.2
+405,LabH,LabH_CW_2,20-212 um,Dry,"Microplastics were not picked out, becasuse no more than 35 items of each kind of microplastics were found.",0.4,1.2
+406,LabH,LabH_CW_2,212-500 um,Dry,"Microplastics were not picked out, becasuse no more than 36 items of each kind of microplastics were found.",0.4,1.2
+407,LabH,LabH_CW_2,>500 um,Dry,"Microplastics were not picked out, becasuse no more than 37 items of each kind of microplastics were found.",0.4,1.2
+408,LabH,LabH_CW_3,1-20 um,Dry,"Microplastics were not picked out, becasuse no more than 38 items of each kind of microplastics were found.",0.7,3.2
+409,LabH,LabH_CW_3,20-212 um,Dry,"Microplastics were not picked out, becasuse no more than 39 items of each kind of microplastics were found.",0.4,1.2
+410,LabH,LabH_CW_3,212-500 um,Dry,"Microplastics were not picked out, becasuse no more than 40 items of each kind of microplastics were found.",0.4,1.2
+411,LabH,LabH_CW_3,>500 um,Dry,"Microplastics were not picked out, becasuse no more than 41 items of each kind of microplastics were found.",0.4,1.2
+412,LabH,LabH_CW_4,1-20 um,Dry,"Microplastics were not picked out, becasuse no more than 42 items of each kind of microplastics were found.",0.7,3.2
+413,LabH,LabH_CW_4,20-212 um,Dry,"Microplastics were not picked out, becasuse no more than 43 items of each kind of microplastics were found.",0.4,1.2
+414,LabH,LabH_CW_4,212-500 um,Dry,"Microplastics were not picked out, becasuse no more than 44 items of each kind of microplastics were found.",0.4,1.2
+415,LabH,LabH_CW_4,>500 um,Dry,"Microplastics were not picked out, becasuse no more than 45 items of each kind of microplastics were found.",0.4,1.2
+416,LabQQ,LabQQ_CW_1,20-212 um,Dry,,2.0,10.0
+417,LabQQ,LabQQ_CW_1,212-500 um,Dry,,2.0,10.0
+418,LabQQ,LabQQ_CW_1,>500 um,Dry,,2.0,10.0
+419,LabQQ,LabQQ_CW_1,1-20 um,Dry,,2.0,10.0
+420,LabQQ,LabQQ_CW_2,20-212 um,Dry,,2.0,10.0
+421,LabQQ,LabQQ_CW_2,212-500 um,Dry,,2.0,10.0
+422,LabQQ,LabQQ_CW_2,>500 um,Dry,,2.0,10.0
+423,LabQQ,LabQQ_CW_2,1-20 um,Dry,,2.0,10.0
+424,LabQQ,LabQQ_CW_3,20-212 um,Dry,,2.0,10.0
+425,LabQQ,LabQQ_CW_3,212-500 um,Dry,,2.0,10.0
+426,LabQQ,LabQQ_CW_3,>500 um,Dry,,2.0,10.0
+427,LabQQ,LabQQ_CW_3,1-20 um,Dry,,2.0,10.0
+428,LabQQ,LabQQ_CW_4,20-212 um,Dry,,2.0,10.0
+429,LabQQ,LabQQ_CW_4,212-500 um,Dry,,2.0,10.0
+430,LabQQ,LabQQ_CW_4,>500 um,Dry,,2.0,10.0
+431,LabQQ,LabQQ_CW_4,1-20 um,Dry,,2.0,10.0
+432,LabA,LabA_CW_1,>500 um,Dry,Magnification is variable,2.0,-88.0
+433,LabA,LabA_CW_2,>500 um,Dry,Magnification is variable,2.0,-88.0
+434,LabA,LabA_CW_3,>500 um,Dry,Magnification is variable,2.0,-88.0
+435,LabA,LabA_CW_4,>500 um,Dry,Magnification is variable,2.0,-88.0
+436,LabCC,LabCC_CW_1,20-250 um,Dry,Magnification ranged from 40X - 100x,1.0,40.0
+437,LabCC,LabCC_CW_1,250-500 um,Dry,Please note that we used a 250 sieve instead of a 212 sieve; Magnification ranged from 40X - 100x,0.5,40.0
+438,LabCC,LabCC_CW_1,>500 um,Dry,Magnification ranged from 40X - 100x,0.5,40.0
+439,LabCC,LabCC_CW_1,1-20 um,Dry,Magnification ranged from 40X - 100x,0.5,40.0
+440,LabCC,LabCC_CW_2,20-250 um,Dry,Please note that we used a 250 sieve instead of a 212 sieve; Magnification ranged from 40X - 100x,1.0,40.0
+441,LabCC,LabCC_CW_2,250-500 um,Dry,Please note that we used a 250 sieve instead of a 212 sieve; Magnification ranged from 40X - 100x,0.5,40.0
+442,LabCC,LabCC_CW_2,>500 um,Dry,Magnification ranged from 40X - 100x,0.5,40.0
+443,LabCC,LabCC_CW_2,1-20 um,Dry,Magnification ranged from 40X - 100x,0.5,40.0
+444,LabCC,LabCC_CW_3,20-250 um,Dry,Please note that we used a 250 sieve instead of a 212 sieve; Magnification ranged from 40X - 100x,1.0,40.0
+445,LabCC,LabCC_CW_3,250-500 um,Dry,Please note that we used a 250 sieve instead of a 212 sieve; Magnification ranged from 40X - 100x,0.5,40.0
+446,LabCC,LabCC_CW_3,>500 um,Dry,Magnification ranged from 40X - 100x,0.5,40.0
+447,LabCC,LabCC_CW_3,1-20 um,Dry,Magnification ranged from 40X - 100x,0.5,40.0
+448,LabCC,LabCC_CW_4,20-250 um,Dry,Please note that we used a 250 sieve instead of a 212 sieve; Magnification ranged from 40X - 100x,1.0,40.0
+449,LabCC,LabCC_CW_4,250-500 um,Dry,Please note that we used a 250 sieve instead of a 212 sieve; Magnification ranged from 40X - 100x,0.5,40.0
+450,LabCC,LabCC_CW_4,>500 um,Dry,Magnification ranged from 40X - 100x,0.5,40.0
+451,LabCC,LabCC_CW_4,1-20 um,Dry,Magnification ranged from 40X - 100x,0.5,40.0
+291,LabU,LabU_CW_1,>500 um,Dry,2 hours imaging per fraction,2.0,100.0
+556,LabZ,LabZ_SD_03,1-20 um,Dry,,1.0,100.0
+557,LabZ,LabZ_SD_04,>500 um,Dry,,1.0,50.0
+558,LabZ,LabZ_SD_04,212-500 um,Dry,,1.0,100.0
+559,LabZ,LabZ_SD_04,20-212 um,Dry,,2.0,100.0
+560,LabZ,LabZ_SD_04,1-20 um,Dry,,1.0,100.0
+563,LabRR,LabRR_DW_4,>500 um,Wet,,3.0,100.0
+564,LabRR,LabRR_DW_4,212-500 um,Dry,,3.0,100.0
+572,LabR,LabR_SD_2,1-20 um,Dry,,2.0,2.5
+573,LabR,LabR_SD_3,>500 um,Dry,,1.0,1.5
+574,LabR,LabR_SD_3,212-500 um,Dry,,2.0,1.5
+575,LabR,LabR_SD_3,20-212 um,Dry,,2.0,2.0
+576,LabR,LabR_SD_3,1-20 um,Dry,,2.0,2.5
+577,LabR,LabR_SD_4,>500 um,Dry,,1.0,1.5
+578,LabR,LabR_SD_4,212-500 um,Dry,,1.0,1.5
+579,LabR,LabR_SD_4,20-212 um,Dry,,1.0,2.0
+580,LabR,LabR_SD_4,1-20 um,Dry,,1.0,2.5
+581,LabR,LabR_FT_1,>500 um,Dry,,1.0,1.0
+582,LabR,LabR_FT_1,212-500 um,Dry,,1.5,1.5
+583,LabR,LabR_FT_1,20-212 um,Dry,,2.0,2.0
+584,LabR,LabR_FT_1,10-20 um,Dry,,1.0,2.5
+585,LabR,LabR_FT_1,1-20 um,Dry,,1.0,2.5
+586,LabR,LabR_FT_2,>500 um,Dry,,1.0,1.0
+587,LabR,LabR_FT_2,212-500 um,Dry,,1.5,1.5
+588,LabR,LabR_FT_2,20-212 um,Dry,,2.0,2.0
+589,LabR,LabR_FT_2,10-20 um,Dry,,1.0,2.5
+590,LabR,LabR_FT_2,1-20 um,Dry,,1.0,2.5
+591,LabR,LabR_FT_3,>500 um,Dry,,1.0,1.0
+292,LabU,LabU_CW_1,212-500 um,Dry,2 hours imaging per fraction,2.0,100.0
+293,LabU,LabU_CW_1,20-212 um,Dry,2 hours imaging per fraction,2.0,100.0
+295,LabU,LabU_CW_2,>500 um,Dry,2 hours imaging per fraction,2.0,100.0
+296,LabU,LabU_CW_2,212-500 um,Dry,2 hours imaging per fraction,2.0,100.0
+297,LabU,LabU_CW_2,20-212 um,Dry,2 hours imaging per fraction,2.0,100.0
+299,LabU,LabU_CW_3,>500 um,Dry,2 hours imaging per fraction,2.0,100.0
+300,LabU,LabU_CW_3,212-500 um,Dry,2 hours imaging per fraction,2.0,100.0
+301,LabU,LabU_CW_3,20-212 um,Dry,2 hours imaging per fraction,2.0,100.0
+303,LabU,LabU_CW_4,>500 um,Dry,2 hours imaging per fraction,2.0,100.0
+500,LabD,LabD_SD_1,>500 um,Dry,,3.0,2.0
+501,LabD,LabD_SD_1,212-500 um,Dry,,3.0,2.0
+502,LabD,LabD_SD_2,>500 um,Dry,,3.0,2.0
+503,LabD,LabD_SD_2,212-500 um,Dry,,3.0,2.0
+504,LabD,LabD_SD_3,>500 um,Dry,,3.0,2.0
+505,LabD,LabD_SD_3,212-500 um,Dry,,3.0,2.0
+506,LabD,LabD_SD_4,>500 um,Dry,,2.0,2.0
+507,LabD,LabD_SD_4,212-500 um,Dry,,2.0,2.0
+508,LabR,LabR_DW_1,>500 um,Dry,,1.0,1.5
+509,LabR,LabR_DW_1,212-500 um,Dry,,2.0,1.5
+510,LabR,LabR_DW_2,>500 um,Dry,,1.0,1.5
+511,LabR,LabR_DW_2,212-500 um,Dry,,2.0,1.5
+512,LabR,LabR_DW_3,>500 um,Dry,,1.0,1.5
+513,LabR,LabR_DW_3,212-500 um,Dry,,2.0,1.5
+514,LabR,LabR_DW_4,212-500 um,Dry,,0.5,1.5
+515,LabRR,LabRR_DW_1,>500 um,Dry,,3.0,50.0
+516,LabRR,LabRR_DW_1,212-500 um,Dry,,3.0,50.0
+517,LabV,LabV_SD_1,20-212 um,Wet,1 day sorting/measuring per sample,2.0,50.0
+518,LabV,LabV_SD_1,212-500 um,Wet,1 day sorting/measuring per sample,2.0,10.0
+519,LabV,LabV_SD_1,>500 um,Wet,1 day sorting/measuring per sample,2.0,10.0
+520,LabV,LabV_SD_1,1-20 um,Wet,1 day sorting/measuring per sample,2.0,100.0
+561,LabRR,LabRR_DW_2,>500 um,Wet,,3.0,50.0
+562,LabRR,LabRR_DW_2,212-500 um,Wet,,3.0,50.0
+566,LabR,LabR_SD_1,212-500 um,Dry,,2.0,1.5
+567,LabR,LabR_SD_1,20-212 um,Dry,,2.0,2.0
+568,LabR,LabR_SD_1,1-20 um,Dry,,2.0,2.5
+569,LabR,LabR_SD_2,>500 um,Dry,,1.0,1.5
+570,LabR,LabR_SD_2,212-500 um,Dry,,2.0,1.5
+571,LabR,LabR_SD_2,20-212 um,Dry,,2.0,2.0
+521,LabV,LabV_SD_2,20-212 um,Wet,1 day sorting/measuring per sample,2.0,50.0
+522,LabV,LabV_SD_2,212-500 um,Wet,1 day sorting/measuring per sample,2.0,10.0
+523,LabV,LabV_SD_2,>500 um,Wet,1 day sorting/measuring per sample,2.0,10.0
+524,LabV,LabV_SD_2,1-20 um,Wet,1 day sorting/measuring per sample,2.0,100.0
+525,LabV,LabV_SD_3,20-212 um,Wet,1 day sorting/measuring per sample,2.0,50.0
+526,LabV,LabV_SD_3,212-500 um,Wet,1 day sorting/measuring per sample,2.0,10.0
+527,LabV,LabV_SD_3,>500 um,Wet,1 day sorting/measuring per sample,2.0,10.0
+528,LabV,LabV_SD_3,1-20 um,Wet,1 day sorting/measuring per sample,2.0,100.0
+529,LabV,LabV_SD_4,20-212 um,Wet,1 day sorting/measuring per sample,1.0,50.0
+530,LabV,LabV_SD_4,212-500 um,Wet,1 day sorting/measuring per sample,1.0,10.0
+531,LabV,LabV_SD_4,>500 um,Wet,1 day sorting/measuring per sample,1.0,10.0
+532,LabV,LabV_SD_4,1-20 um,Wet,1 day sorting/measuring per sample,2.0,100.0
+533,LabN,LabN_CW_5,>500 um,Dry,Includes time for sub-sampling; Range of magnifications used: 0.73-2.5x,0.27,2.0
+534,LabN,LabN_CW_6,>500 um,Dry,Includes time for sub-sampling; Range of magnifications used: 0.73-2.5x,0.27,2.0
+535,LabN,LabN_CW_7,>500 um,Dry,Includes time for sub-sampling; Range of magnifications used: 0.73-2.5x,0.53,2.0
+536,LabN,LabN_CW_8,>500 um,Dry,Includes time for sub-sampling; Range of magnifications used: 0.73-2.5x,0.12,2.0
+537,LabN,LabN_CW_5,212-500 um,Dry,Includes time for sub-sampling; Range of magnifications used: 0.73-4.0x,0.43,3.2
+538,LabN,LabN_CW_6,212-500 um,Dry,Includes time for sub-sampling; Range of magnifications used: 0.73-4.0x,0.62,3.2
+539,LabN,LabN_CW_7,212-500 um,Dry,Includes time for sub-sampling; Range of magnifications used: 0.73-4.0x,0.78,3.2
+540,LabN,LabN_CW_8,212-500 um,Dry,Includes time for sub-sampling; Range of magnifications used: 0.73-4.0x,0.08,3.2
+541,LabN,LabN_CW_5,20-212 um,Dry,No sub-sampling; Range of magnifications used:0.73-5.0x,0.32,4.0
+542,LabN,LabN_CW_6,20-212 um,Dry,No sub-sampling; Range of magnifications used:0.73-5.0x,0.6,4.0
+543,LabN,LabN_CW_7,20-212 um,Dry,No sub-sampling; Range of magnifications used:0.73-5.0x,0.52,4.0
+544,LabN,LabN_CW_8,20-212 um,Dry,No sub-sampling; Range of magnifications used:0.73-5.0x,0.08,4.0
+545,LabZ,LabZ_SD_01,>500 um,Dry,,1.0,50.0
+546,LabZ,LabZ_SD_01,212-500 um,Dry,,1.0,100.0
+547,LabZ,LabZ_SD_01,20-212 um,Dry,,2.0,100.0
+548,LabZ,LabZ_SD_01,1-20 um,Dry,,1.0,100.0
+549,LabZ,LabZ_SD_02,>500 um,Dry,,1.0,50.0
+550,LabZ,LabZ_SD_02,212-500 um,Dry,,1.0,100.0
+551,LabZ,LabZ_SD_02,20-212 um,Dry,,2.0,100.0
+552,LabZ,LabZ_SD_02,1-20 um,Dry,,1.0,100.0
+553,LabZ,LabZ_SD_03,>500 um,Dry,,1.0,50.0
+554,LabZ,LabZ_SD_03,212-500 um,Dry,,1.0,100.0
+555,LabZ,LabZ_SD_03,20-212 um,Dry,,2.0,100.0
+565,LabR,LabR_SD_1,>500 um,Dry,,1.0,1.5
+592,LabR,LabR_FT_3,212-500 um,Dry,,1.5,1.5
+593,LabR,LabR_FT_3,20-212 um,Dry,,2.0,2.0
+594,LabR,LabR_FT_3,10-20 um,Dry,,1.0,2.5
+595,LabR,LabR_FT_3,1-20 um,Dry,,1.0,2.5
+596,LabR,LabR_FT_4,212-500 um,Dry,,0.5,1.5
+597,LabR,LabR_FT_4,20-212 um,Dry,,0.5,2.0
+598,LabR,LabR_FT_4,10-20 um,Dry,,0.5,2.5
+599,LabR,LabR_FT_4,1-20 um,Dry,,0.5,2.5
+600,LabB,LabB_DW_1,>500 um,Dry,,5.0,200.0
+601,LabB,LabB_DW_1,212-500 um,Dry,,2.5,200.0
+602,LabB,LabB_DW_2,>500 um,Dry,,2.0,200.0
+603,LabB,LabB_DW_2,212-500 um,Dry,,1.0,200.0
+604,LabB,LabB_DW_3,>500 um,Dry,,3.0,200.0
+605,LabB,LabB_DW_3,212-500 um,Dry,,2.0,200.0
+606,LabB,LabB_DW_4,>500 um,Dry,,1.5,200.0
+607,LabB,LabB_DW_4,212-500 um,Dry,,1.5,200.0
+608,LabC,LabC_DW_2,212-500 um,Dry,,3.0,40.0
+609,LabC,LabC_DW_2,>500 um,Dry,,3.0,40.0
+610,LabC,LabC_DW_3,212-500 um,Dry,,3.0,40.0
+611,LabC,LabC_DW_3,>500 um,Dry,,3.0,40.0
+612,LabC,LabC_DW_4,212-500 um,Dry,,0.5,40.0
+613,LabC,LabC_DW_4,>500 um,Dry,,0.5,40.0
+614,LabQ,LabQ_DW_5,212-500 um,Dry,,5.83333333,40.0
+615,LabQ,LabQ_DW_5,>500 um,Dry,,4.58333333,40.0
+616,LabQ,LabQ_DW_6,212-500 um,Dry,,5.83333333,40.0
+617,LabQ,LabQ_DW_6,>500 um,Dry,,4.58333333,40.0
+618,LabQ,LabQ_DW_7,212-500 um,Dry,,5.83333333,40.0
+619,LabQ,LabQ_DW_7,>500 um,Dry,,4.58333333,40.0
+620,LabQ,LabQ_DW_8,212-500 um,Dry,,5.83333333,40.0
+621,LabQ,LabQ_DW_8,>500 um,Dry,,4.58333333,40.0
+622,LabQ,LabQ_SD_1,212-500 um,Dry,,5.08333333,40.0
+623,LabQ,LabQ_SD_1,>500 um,Dry,,4.58333333,40.0
+624,LabQ,LabQ_SD_2,212-500 um,Dry,,5.08333333,40.0
+625,LabQ,LabQ_SD_2,>500 um,Dry,,4.58333333,40.0
+626,LabQ,LabQ_SD_3,212-500 um,Dry,,5.08333333,40.0
+627,LabQ,LabQ_SD_3,>500 um,Dry,,4.58333333,40.0
+628,LabQ,LabQ_SD_4,212-500 um,Dry,,5.08333333,40.0
+629,LabQ,LabQ_SD_4,>500 um,Dry,,4.58333333,40.0
+630,LabAA,LabAA_DW_1,212-500 um,Dry,Magnification ranged from 8.5-160 depending on size of particle and background to take photo.,8.0,10.0
+631,LabAA,LabAA_DW_1,>500 um,Dry,Magnification ranged from 8.5-160 depending on size of particle and background to take photo.,16.0,10.0
+632,LabAA,LabAA_DW_2,212-500 um,Dry,Magnification ranged from 8.5-160 depending on size of particle and background to take photo.,13.0,10.0
+633,LabAA,LabAA_DW_2,>500 um,Dry,Magnification ranged from 8.5-160 depending on size of particle and background to take photo.,12.0,10.0
+634,LabAA,LabAA_DW_3,212-500 um,Dry,Magnification ranged from 8.5-160 depending on size of particle and background to take photo.,16.0,10.0
+635,LabAA,LabAA_DW_3,>500 um,Dry,Magnification ranged from 8.5-160 depending on size of particle and background to take photo.,7.0,10.0
+636,LabAA,LabAA_DW_4,212-500 um,Dry,"We did not find any plastic in any of the size class for DW_4, but we did look and it took time.",1.0,10.0
+637,LabAA,LabAA_DW_4,>500 um,Dry,"We did not find any plastic in any of the size class for DW_4, but we did look and it took time.",1.0,10.0
+638,LabAA,LabAA_FT_1,20-212 um,Dry,Magnification ranged from 8.5-160 depending on size of particle and background to take photo.,4.0,10.0
+639,LabAA,LabAA_FT_1,212-500 um,Dry,Magnification ranged from 8.5-160 depending on size of particle and background to take photo.,5.0,10.0
+640,LabAA,LabAA_FT_1,>500 um,Dry,Magnification ranged from 8.5-160 depending on size of particle and background to take photo.,8.0,10.0
+641,LabAA,LabAA_FT_1,1-20 um,Dry,Magnification ranged from 8.5-160 depending on size of particle and background to take photo.,5.0,10.0
+642,LabAA,LabAA_FT_1,10-20 um,Dry,"Did not find any, but took time to look.",2.0,10.0
+643,LabAA,LabAA_FT_2,20-212 um,Dry,Magnification ranged from 8.5-160 depending on size of particle and background to take photo.,3.0,10.0
+644,LabAA,LabAA_FT_2,212-500 um,Dry,Magnification ranged from 8.5-160 depending on size of particle and background to take photo.,9.0,10.0
+645,LabAA,LabAA_FT_2,>500 um,Dry,Magnification ranged from 8.5-160 depending on size of particle and background to take photo.,8.0,10.0
+646,LabAA,LabAA_FT_2,1-20 um,Dry,There were a lot of small spheres (over 300) we finally determined they were air pockets that the matrix had coated and dried.,10.0,10.0
+647,LabAA,LabAA_FT_2,10-20 um,Dry,"There were a lot of small spheres, we finally determined they were air pockets that the matrix had coated and dried.",8.0,10.0
+648,LabAA,LabAA_FT_3,20-212 um,Dry,Magnification ranged from 8.5-160 depending on size of particle and background to take photo.,4.0,10.0
+649,LabAA,LabAA_FT_3,212-500 um,Dry,Magnification ranged from 8.5-160 depending on size of particle and background to take photo.,9.0,10.0
+650,LabAA,LabAA_FT_3,>500 um,Dry,Magnification ranged from 8.5-160 depending on size of particle and background to take photo.,7.0,10.0
+651,LabAA,LabAA_FT_3,1-20 um,Dry,"Did not find any, but took time to look.",2.0,10.0
+652,LabAA,LabAA_FT_3,10-20 um,Dry,Magnification ranged from 8.5-160 depending on size of particle and background to take photo.,2.0,10.0
+653,LabAA,LabAA_FT_4,20-212 um,Dry,"Did not find any, but took time to look.",2.0,10.0
+654,LabAA,LabAA_FT_4,212-500 um,Dry,"Did not find any, but took time to look.",2.0,10.0
+655,LabAA,LabAA_FT_4,>500 um,Dry,"Did not find any, but took time to look.",2.0,10.0
+656,LabAA,LabAA_FT_4,1-20 um,Dry,"Did not find any, but took time to look.",2.0,10.0
+657,LabAA,LabAA_FT_4,10-20 um,Dry,"Did not find any, but took time to look.",2.0,10.0
+658,LabAA,LabAA_SD_1,20-212 um,Dry,Magnification ranged from 8.5-160 depending on size of particle and background to take photo.,4.0,10.0
+659,LabAA,LabAA_SD_1,212-500 um,Dry,Magnification ranged from 8.5-160 depending on size of particle and background to take photo.,11.0,10.0
+660,LabAA,LabAA_SD_1,>500 um,Dry,Magnification ranged from 8.5-160 depending on size of particle and background to take photo.,5.0,10.0
+661,LabAA,LabAA_SD_1,1-20 um,Dry,Magnification ranged from 8.5-160 depending on size of particle and background to take photo.,2.0,10.0
+662,LabAA,LabAA_SD_2,20-212 um,Dry,Magnification ranged from 8.5-160 depending on size of particle and background to take photo.,6.0,10.0
+663,LabAA,LabAA_SD_2,212-500 um,Dry,Magnification ranged from 8.5-160 depending on size of particle and background to take photo.,9.0,10.0
+664,LabAA,LabAA_SD_2,>500 um,Dry,Magnification ranged from 8.5-160 depending on size of particle and background to take photo.,5.0,10.0
+665,LabAA,LabAA_SD_2,1-20 um,Dry,Magnification ranged from 8.5-160 depending on size of particle and background to take photo.,2.0,10.0
+666,LabAA,LabAA_SD_3,20-212 um,Dry,Magnification ranged from 8.5-160 depending on size of particle and background to take photo.,4.0,10.0
+667,LabAA,LabAA_SD_3,212-500 um,Dry,Magnification ranged from 8.5-160 depending on size of particle and background to take photo.,10.0,10.0
+668,LabAA,LabAA_SD_3,>500 um,Dry,Magnification ranged from 8.5-160 depending on size of particle and background to take photo.,5.0,10.0
+669,LabAA,LabAA_SD_3,1-20 um,Dry,Magnification ranged from 8.5-160 depending on size of particle and background to take photo.,2.0,10.0
+670,LabAA,LabAA_SD_4,20-212 um,Dry,"Did not find any, but took time to look.",2.0,10.0
+671,LabAA,LabAA_SD_4,212-500 um,Dry,"Did not find any, but took time to look.",2.0,10.0
+672,LabAA,LabAA_SD_4,>500 um,Dry,"Did not find any, but took time to look.",2.0,10.0
+673,LabAA,LabAA_SD_4,1-20 um,Dry,"Did not find any, but took time to look.",2.0,10.0
+674,LabN,LabN_DW_1,>500 um,Dry,Magnification not recorded. Estimated range of magnifications used: 2.0-5.0x,0.17,-88.0
+675,LabN,LabN_DW_2,>500 um,Dry,Magnification not recorded. Estimated range of magnifications used: 2.0-5.0x,0.17,-88.0
+676,LabN,LabN_DW_3,>500 um,Dry,Magnification not recorded. Estimated range of magnifications used: 2.0-5.0x,0.17,-88.0
+677,LabN,LabN_DW_4,>500 um,Dry,Magnification not recorded. Estimated range of magnifications used: 2.0-5.0x,0.17,-88.0
+678,LabN,LabN_DW_1,212-500 um,Dry,Magnification not recorded. Estimated range of magnifications used: 2.0-5.0x,0.25,-88.0
+679,LabN,LabN_DW_2,212-500 um,Dry,Magnification not recorded. Estimated range of magnifications used: 2.0-5.0x,0.33,-88.0
+680,LabN,LabN_DW_3,212-500 um,Dry,Magnification not recorded. Estimated range of magnifications used: 2.0-5.0x,0.25,-88.0
+681,LabN,LabN_DW_4,212-500 um,Dry,Magnification not recorded. Estimated range of magnifications used: 2.0-5.0x,0.08,-88.0
+682,LabN,LabN_SD_1,>500 um,Dry,Includes time for counting and picking. Range of magnifications used: 1.25-4.0x,0.43333333,1.25
+683,LabN,LabN_SD_2,>500 um,Dry,Includes time for counting and picking. Range of magnifications used: 1.25-4.0x,0.61666667,1.25
+684,LabN,LabN_SD_3,>500 um,Dry,Includes time for counting and picking. Range of magnifications used: 1.25-4.0x,0.5,1.25
+685,LabN,LabN_SD_4,>500 um,Dry,Includes time for counting and picking. Range of magnifications used: 1.25-4.0x,0.33333333,1.25
+686,LabN,LabN_SD_1,212-500 um,Dry,Includes time for counting and picking. Range of magnifications used: 1.25-5.0x,1.5,1.25
+687,LabN,LabN_SD_2,212-500 um,Dry,Includes time for counting and picking. Range of magnifications used: 1.25-5.0x,1.48333333,1.25
+688,LabN,LabN_SD_3,212-500 um,Dry,Includes time for counting and picking. Range of magnifications used: 2.0-2.5x,1.48333333,2.0
+689,LabN,LabN_SD_4,212-500 um,Dry,Includes time for counting and picking. Range of magnifications used: 1.25-5.0x,0.18333333,1.25
+690,LabN,LabN_SD_1,20-212 um,Dry,Includes time for counting ONLY (no sub-sampling). Range of magnifications used: 1.25-5.0x,0.6,1.25
+691,LabN,LabN_SD_2,20-212 um,Dry,Includes time for counting ONLY (no sub-sampling). Range of magnifications used: 1.25-5.0x,0.78333333,1.25
+692,LabN,LabN_SD_3,20-212 um,Dry,Includes time for counting ONLY (no sub-sampling). Range of magnifications used: 1.25-5.0x,0.53333333,1.25
+693,LabN,LabN_SD_4,20-212 um,Dry,Includes time for counting ONLY (no sub-sampling). Range of magnifications used: 1.25-5.0x,0.33333333,1.25
+694,LabN,LabN_SD_1,1-20 um,Dry,"1-20um fraction samples clogged with sediment, counting not attempted.",-88.0,-88.0
+695,LabN,LabN_SD_2,1-20 um,Dry,"1-20um fraction samples clogged with sediment, counting not attempted.",-88.0,-88.0
+696,LabN,LabN_SD_3,1-20 um,Dry,"1-20um fraction samples clogged with sediment, counting not attempted.",-88.0,-88.0
+697,LabN,LabN_SD_4,1-20 um,Dry,"1-20um fraction samples clogged with sediment, counting not attempted.",-88.0,-88.0
+698,LabG,LabG_DW_1,>500 um,Wet,,1.0,8.0
+699,LabG,LabG_DW_1,212-500 um,Wet,,1.0,8.0
+700,LabG,LabG_DW_2,>500 um,Wet,,1.0,8.0
+701,LabG,LabG_DW_2,212-500 um,Wet,,1.0,8.0
+702,LabG,LabG_DW_3,>500 um,Wet,,1.0,8.0
+703,LabG,LabG_DW_3,212-500 um,Wet,,1.0,8.0
+704,LabG,LabG_DW_4,>500 um,Wet,,1.0,8.0
+705,LabG,LabG_DW_4,212-500 um,Wet,,1.0,8.0
+706,LabQ,LabQ_FT_1,20-212 um,Dry,,9.2,40.0
+707,LabQ,LabQ_FT_1,212-500 um,Dry,,5.08333333,40.0
+708,LabQ,LabQ_FT_1,>500 um,Dry,,4.58333333,40.0
+709,LabQ,LabQ_FT_2,20-212 um,Dry,,9.2,40.0
+710,LabQ,LabQ_FT_2,212-500 um,Dry,,5.08333333,40.0
+711,LabQ,LabQ_FT_2,>500 um,Dry,,4.58333333,40.0
+712,LabQ,LabQ_FT_3,20-212 um,Dry,,9.2,40.0
+713,LabQ,LabQ_FT_3,212-500 um,Dry,,5.08333333,40.0
+714,LabQ,LabQ_FT_3,>500 um,Dry,,4.58333333,40.0
+715,LabQ,LabQ_FT_4,20-212 um,Dry,,9.2,40.0
+716,LabQ,LabQ_FT_4,212-500 um,Dry,,5.08333333,40.0
+717,LabQ,LabQ_FT_4,>500 um,Dry,,4.58333333,40.0
+718,LabG,LabG_SD_1,>500 um,Wet,,1.0,8.0
+719,LabG,LabG_SD_1,212-500 um,Wet,,1.0,8.0
+720,LabG,LabG_SD_1,20-212 um,Dry,,1.0,16.0
+721,LabG,LabG_SD_1,1-20 um,Dry,,1.0,16.0
+722,LabG,LabG_SD_2,>500 um,Wet,,1.0,8.0
+723,LabG,LabG_SD_2,212-500 um,Wet,,1.0,8.0
+724,LabG,LabG_SD_2,20-212 um,Dry,,1.0,16.0
+725,LabG,LabG_SD_2,1-20 um,Dry,,1.0,16.0
+726,LabG,LabG_SD_3,>500 um,Wet,,1.0,8.0
+727,LabG,LabG_SD_3,212-500 um,Wet,,1.0,8.0
+728,LabG,LabG_SD_3,20-212 um,Dry,,1.0,16.0
+729,LabG,LabG_SD_3,1-20 um,Dry,,1.0,16.0
+730,LabG,LabG_SD_4,>500 um,Wet,,1.0,8.0
+731,LabG,LabG_SD_4,212-500 um,Wet,,1.0,8.0
+732,LabG,LabG_SD_4,20-212 um,Dry,,1.0,16.0
+733,LabG,LabG_SD_4,1-20 um,Dry,,1.0,16.0
+734,LabM,LabM_DW_1,212-500 um,Dry,,0.67,25.0
+735,LabM,LabM_DW_1,>500 um,Dry,,0.25,15.0
+736,LabM,LabM_DW_2,212-500 um,Dry,,0.5,25.0
+737,LabM,LabM_DW_2,>500 um,Dry,,0.25,15.0
+738,LabM,LabM_DW_3,212-500 um,Dry,,0.5,25.0
+739,LabM,LabM_DW_3,>500 um,Dry,,0.33,15.0
+740,LabM,LabM_DW_4,212-500 um,Dry,,0.25,25.0
+741,LabM,LabM_DW_4,>500 um,Dry,,0.17,15.0
+742,LabM,LabM_FT_1,20-212 um,Dry,,1.25,45.0
+743,LabM,LabM_FT_1,212-500 um,Dry,,0.43,25.0
+744,LabM,LabM_FT_1,>500 um,Dry,,0.33,15.0
+745,LabM,LabM_FT_2,20-212 um,Dry,,1.25,45.0
+746,LabM,LabM_FT_2,212-500 um,Dry,,0.33,25.0
+747,LabM,LabM_FT_2,>500 um,Dry,,0.2,15.0
+748,LabM,LabM_FT_3,20-212 um,Dry,,1.42,45.0
+749,LabM,LabM_FT_3,212-500 um,Dry,,0.57,25.0
+750,LabM,LabM_FT_3,>500 um,Dry,,0.2,15.0
+751,LabM,LabM_FT_4,20-212 um,Dry,,0.33,45.0
+752,LabM,LabM_FT_4,212-500 um,Dry,,0.25,25.0
+753,LabM,LabM_FT_4,>500 um,Dry,,0.2,15.0
+754,LabM,LabM_SD_1,20-212 um,Dry,,1.25,45.0
+755,LabM,LabM_SD_1,212-500 um,Dry,,0.43,25.0
+756,LabM,LabM_SD_1,>500 um,Dry,,0.33,15.0
+757,LabM,LabM_SD_2,20-212 um,Dry,,1.25,45.0
+758,LabM,LabM_SD_2,212-500 um,Dry,,0.33,25.0
+759,LabM,LabM_SD_2,>500 um,Dry,,0.2,15.0
+760,LabM,LabM_SD_3,20-212 um,Dry,,1.42,45.0
+761,LabM,LabM_SD_3,212-500 um,Dry,,0.57,25.0
+762,LabM,LabM_SD_3,>500 um,Dry,,0.2,15.0
+763,LabM,LabM_SD_4,20-212 um,Dry,,0.33,45.0
+764,LabM,LabM_SD_4,212-500 um,Dry,,0.25,25.0
+765,LabM,LabM_SD_4,>500 um,Dry,,0.2,15.0
+766,LabCC,LabCC_DW_1,250-500 um,Dry,Please note that we used a 250 sieve instead of a 212 sieve; Magnification ranged from 40X - 100x,0.5,40.0
+767,LabCC,LabCC_DW_1,>500 um,Dry,Magnification ranged from 40X - 100x,0.5,40.0
+768,LabCC,LabCC_DW_2,250-500 um,Dry,Please note that we used a 250 sieve instead of a 212 sieve; Magnification ranged from 40X - 100x,0.5,40.0
+769,LabCC,LabCC_DW_2,>500 um,Dry,Magnification ranged from 40X - 100x,0.5,40.0
+770,LabCC,LabCC_DW_3,250-500 um,Dry,Please note that we used a 250 sieve instead of a 212 sieve; Magnification ranged from 40X - 100x,0.5,40.0
+771,LabCC,LabCC_DW_3,>500 um,Dry,Magnification ranged from 40X - 100x,0.5,40.0
+772,LabCC,LabCC_DW_4,250-500 um,Dry,Please note that we used a 250 sieve instead of a 212 sieve; Magnification ranged from 40X - 100x,0.5,40.0
+773,LabCC,LabCC_DW_4,>500 um,Dry,Magnification ranged from 40X - 100x,0.5,40.0
+774,LabBB,LabBB_DW_1,212-500 um,Dry,,8.0,20.0
+775,LabBB,LabBB_DW_1,>500 um,Dry,,8.0,5.0
+776,LabBB,LabBB_DW_2,212-500 um,Dry,,8.0,20.0
+777,LabBB,LabBB_DW_2,>500 um,Dry,,8.0,5.0
+778,LabBB,LabBB_DW_3,212-500 um,Dry,,8.0,20.0
+779,LabBB,LabBB_DW_3,>500 um,Dry,,8.0,5.0
+780,LabBB,LabBB_DW_4,212-500 um,Dry,,8.0,20.0
+781,LabBB,LabBB_DW_4,>500 um,Dry,,8.0,5.0
+782,LabBB,LabBB_FT_5,20-212 um,Dry,,8.0,20.0
+783,LabBB,LabBB_FT_5,212-500 um,Dry,,8.0,20.0
+784,LabBB,LabBB_FT_5,>500 um,Dry,,8.0,5.0
+785,LabBB,LabBB_FT_5,1-20 um,Dry,,8.0,50.0
+786,LabBB,LabBB_FT_6,20-212 um,Dry,,8.0,20.0
+787,LabBB,LabBB_FT_6,212-500 um,Dry,,8.0,20.0
+788,LabBB,LabBB_FT_6,>500 um,Dry,,8.0,5.0
+789,LabBB,LabBB_FT_6,1-20 um,Dry,,8.0,50.0
+790,LabBB,LabBB_FT_7,20-212 um,Dry,,8.0,20.0
+791,LabBB,LabBB_FT_7,212-500 um,Dry,,8.0,20.0
+792,LabBB,LabBB_FT_7,>500 um,Dry,,8.0,5.0
+793,LabBB,LabBB_FT_7,1-20 um,Dry,,8.0,50.0
+794,LabBB,LabBB_FT_8,20-212 um,Dry,,8.0,20.0
+795,LabBB,LabBB_FT_8,212-500 um,Dry,,8.0,20.0
+796,LabBB,LabBB_FT_8,>500 um,Dry,,8.0,5.0
+797,LabBB,LabBB_FT_8,1-20 um,Dry,,8.0,50.0
+798,LabCC,LabCC_SD_1,20-250 um,Dry,Magnification ranged from 40X - 100x,1.0,40.0
+799,LabCC,LabCC_SD_1,250-500 um,Dry,Please note that we used a 250 sieve instead of a 212 sieve; Magnification ranged from 40X - 100x,0.5,40.0
+800,LabCC,LabCC_SD_1,>500 um,Dry,Magnification ranged from 40X - 100x,0.5,40.0
+801,LabCC,LabCC_SD_2,20-250 um,Dry,Please note that we used a 250 sieve instead of a 212 sieve; Magnification ranged from 40X - 100x,1.0,40.0
+802,LabCC,LabCC_SD_2,250-500 um,Dry,Please note that we used a 250 sieve instead of a 212 sieve; Magnification ranged from 40X - 100x,0.5,40.0
+803,LabCC,LabCC_SD_2,>500 um,Dry,Magnification ranged from 40X - 100x,0.5,40.0
+804,LabCC,LabCC_SD_3,20-250 um,Dry,Please note that we used a 250 sieve instead of a 212 sieve; Magnification ranged from 40X - 100x,1.0,40.0
+805,LabCC,LabCC_SD_3,250-500 um,Dry,Please note that we used a 250 sieve instead of a 212 sieve; Magnification ranged from 40X - 100x,0.5,40.0
+806,LabCC,LabCC_SD_3,>500 um,Dry,Magnification ranged from 40X - 100x,0.5,40.0
+807,LabCC,LabCC_SD_4,20-250 um,Dry,Please note that we used a 250 sieve instead of a 212 sieve; Magnification ranged from 40X - 100x,1.0,40.0
+808,LabCC,LabCC_SD_4,250-500 um,Dry,Please note that we used a 250 sieve instead of a 212 sieve; Magnification ranged from 40X - 100x,0.5,40.0
+809,LabCC,LabCC_SD_4,>500 um,Dry,Magnification ranged from 40X - 100x,0.5,40.0
+810,LabCC,LabCC_FT_1,>500 um,Dry,Please note that we used a 250 sieve instead of a 212 sieve; Magnification ranged from 25X - 100x,0.6,40.0
+811,LabCC,LabCC_FT_1,250-500 um,Dry,Magnification ranged from 25X - 100x,0.6,40.0
+812,LabCC,LabCC_FT_2,>500 um,Dry,Please note that we used a 250 sieve instead of a 212 sieve; Magnification ranged from 25X - 100x,0.6,40.0
+813,LabCC,LabCC_FT_2,250-500 um,Dry,Magnification ranged from 25X - 100x,0.6,40.0
+814,LabCC,LabCC_FT_3,>500 um,Dry,Please note that we used a 250 sieve instead of a 212 sieve; Magnification ranged from 25X - 100x,0.6,40.0
+815,LabCC,LabCC_FT_3,250-500 um,Dry,Magnification ranged from 25X - 100x,0.6,40.0
+816,LabCC,LabCC_FT_4,>500 um,Dry,Please note that we used a 250 sieve instead of a 212 sieve; Magnification ranged from 25X - 100x,0.6,40.0
+817,LabCC,LabCC_FT_4,250-500 um,Dry,Magnification ranged from 25X - 100x,0.6,40.0
+818,LabCC,LabCC_FT_1,20-250 um,Dry,Magnification ranged from 25X - 100x,0.6,40.0
+819,LabCC,LabCC_FT_1,10-20 um,Dry,Magnification ranged from 25X - 100x,0.6,40.0
+820,LabCC,LabCC_FT_1,1-10 um,Dry,Magnification ranged from 25X - 100x,0.6,40.0
+821,LabCC,LabCC_FT_2,20-250 um,Dry,Magnification ranged from 25X - 100x,0.6,40.0
+822,LabCC,LabCC_FT_2,10-20 um,Dry,Magnification ranged from 25X - 100x,0.6,40.0
+823,LabCC,LabCC_FT_2,1-10 um,Dry,Magnification ranged from 25X - 100x,0.6,40.0
+824,LabCC,LabCC_FT_3,20-250 um,Dry,Magnification ranged from 25X - 100x,0.6,40.0
+825,LabCC,LabCC_FT_3,10-20 um,Dry,Magnification ranged from 25X - 100x,0.6,40.0
+826,LabCC,LabCC_FT_3,1-10 um,Dry,Magnification ranged from 25X - 100x,0.6,40.0
+827,LabCC,LabCC_FT_4,20-250 um,Dry,Magnification ranged from 25X - 100x,0.6,40.0
+828,LabCC,LabCC_FT_4,10-20 um,Dry,Magnification ranged from 25X - 100x,0.6,40.0
+829,LabCC,LabCC_FT_4,1-10 um,Dry,Magnification ranged from 25X - 100x,0.6,40.0
+830,LabR,LabR_SD_5,250-1000 um-1p3,Dry,,1.0,1.5
+831,LabR,LabR_SD_5,250-1000 um-1p5,Dry,,1.0,1.5
+832,LabR,LabR_SD_5,45-250 um-1p3,Dry,,1.0,2.0
+833,LabR,LabR_SD_5,45-250 um-1p5,Dry,,1.0,2.0
+834,LabR,LabR_SD_6,250-1000 um-1p3,Dry,,1.0,1.5
+835,LabR,LabR_SD_6,250-1000 um-1p5,Dry,,1.0,1.5
+836,LabR,LabR_SD_6,45-250 um-1p3,Dry,,1.0,2.0
+837,LabR,LabR_SD_6,45-250 um-1p5,Dry,,1.0,2.0
+838,LabR,LabR_SD_7,250-1000 um-1p3,Dry,,1.0,1.5
+839,LabR,LabR_SD_7,250-1000 um-1p5,Dry,,1.0,1.5
+840,LabR,LabR_SD_7,45-250 um-1p3,Dry,,1.0,2.0
+841,LabR,LabR_SD_7,45-250 um-1p5,Dry,,1.0,2.0
+842,LabR,LabR_SD_8,250-1000 um-1p3,Dry,,1.0,1.5
+843,LabR,LabR_SD_8,250-1000 um-1p5,Dry,,1.0,1.5
+844,LabR,LabR_SD_8,45-250 um-1p3,Dry,,1.0,2.0
+845,LabR,LabR_SD_8,45-250 um-1p5,Dry,,1.0,2.0
+846,LabD,LabD_SD_5,250-1000 um-1p3,Dry,,4.45,2.0
+847,LabD,LabD_SD_5,250-1000 um-1p5,Dry,,2.25,2.0
+848,LabD,LabD_SD_6,250-1000 um-1p3,Dry,,3.85,2.0
+849,LabD,LabD_SD_6,250-1000 um-1p5,Dry,,3.0,2.0
+850,LabD,LabD_SD_7,250-1000 um-1p3,Dry,,1.25,2.0
+851,LabD,LabD_SD_7,250-1000 um-1p5,Dry,,2.0,2.0
+852,LabD,LabD_SD_8,250-1000 um-1p3,Dry,,1.0,2.0
+853,LabD,LabD_SD_8,250-1000 um-1p5,Dry,,0.5,2.0
+854,LabL,LabL_DW_1,>500 um,Wet,"0,5 for DW_1_>500 to DW_125-250",0.5,20.0
+855,LabL,LabL_DW_1,250-500 um,Wet,"0,5 for DW_1_>500 to DW_125-251",0.5,20.0
+856,LabL,LabL_DW_1,125-250 um,Wet,"0,5 for DW_1_>500 to DW_125-252",0.5,20.0
+857,LabL,LabL_DW_2,>500 um,Wet,,0.5,20.0
+858,LabL,LabL_DW_2,250-500 um,Wet,,0.5,20.0
+859,LabL,LabL_DW_2,125-250 um,Wet,,0.25,20.0
+860,LabL,LabL_DW_3,>500 um,Wet,five min or less,0.1,20.0
+861,LabL,LabL_DW_3,250-500 um,Wet,,0.15,20.0
+862,LabL,LabL_DW_3,125-250 um,Wet,,0.5,20.0
+863,LabL,LabL_DW_4,>500 um,Wet,five min or less,0.01,20.0
+864,LabL,LabL_SD_1,>500 um,Wet,,0.25,20.0
+865,LabL,LabL_SD_1,250-500 um,Wet,,0.5,20.0
+866,LabL,LabL_SD_1,125-250 um,Wet,,0.0,20.0
+867,LabL,LabL_SD_2,>500 um,Wet,,0.25,20.0
+868,LabL,LabL_SD_2,250-500 um,Wet,,0.75,20.0
+869,LabL,LabL_SD_2,125-250 um,Wet,,0.25,20.0
+870,LabL,LabL_SD_3,>500 um,Wet,,0.5,20.0
+871,LabL,LabL_SD_3,250-500 um,Wet,,0.75,20.0
+872,LabL,LabL_SD_3,125-250 um,Wet,,0.5,20.0
+873,LabL,LabL_FT_1,212-500 um,Wet,"2,5 h for both FT_1_>212 to FT_1_20-212",2.5,20.0
+874,LabL,LabL_FT_1,20-212 um,Wet,"2,5 h for both FT_1_>212 to FT_1_20-212",2.5,20.0
+875,LabL,LabL_FT_2,212-500 um,Wet,,0.99,20.0
+876,LabL,LabL_FT_2,20-212 um,Wet,five min or less,0.01,20.0
+877,LabL,LabL_FT_3,212-500 um,Wet,,1.0,20.0
+878,LabL,LabL_FT_3,20-212 um,Wet,,1.0,20.0
+879,LabL,LabL_FT_4,212-500 um,Wet,,0.25,20.0
+880,LabJJ,LabJJ_FT_1,>500 um,Dry,Pictures were taken at varying magnifications.,3.0,20.0
+881,LabJJ,LabJJ_FT_1,212-500 um,Dry,Pictures were taken at varying magnifications.,3.0,20.0
+882,LabJJ,LabJJ_FT_1,20-212 um,Dry,Pictures were taken at varying magnifications.,3.0,20.0
+883,LabJJ,LabJJ_FT_2,>500 um,Dry,Pictures were taken at varying magnifications.,2.0,20.0
+884,LabJJ,LabJJ_FT_2,212-500 um,Dry,Pictures were taken at varying magnifications.,2.0,20.0
+885,LabJJ,LabJJ_FT_2,20-212 um,Dry,Pictures were taken at varying magnifications.,3.0,20.0
+886,LabJJ,LabJJ_FT_3,>500 um,Dry,Pictures were taken at varying magnifications.,2.0,20.0
+887,LabJJ,LabJJ_FT_3,212-500 um,Dry,Pictures were taken at varying magnifications.,3.0,20.0
+888,LabJJ,LabJJ_FT_3,20-212 um,Dry,Pictures were taken at varying magnifications.,2.0,20.0
+889,LabJJ,LabJJ_FT_4,>500 um,Dry,Pictures were taken at varying magnifications.,2.0,20.0
+890,LabJJ,LabJJ_FT_4,212-500 um,Dry,Pictures were taken at varying magnifications.,1.0,20.0
+891,LabJJ,LabJJ_FT_4,20-212 um,Dry,Pictures were taken at varying magnifications.,2.0,20.0
+892,LabL,LabL_SD_5,>500 um,Wet,,0.25,2.0
+893,LabL,LabL_SD_5,250-500 um,Wet,,0.5,2.0
+894,LabL,LabL_SD_5,125-250 um,Wet,,0.5,2.0
+895,LabL,LabL_SD_6,>500 um,Wet,,0.25,2.0
+896,LabL,LabL_SD_6,250-500 um,Wet,,0.5,2.0
+897,LabL,LabL_SD_6,125-250 um,Wet,,0.5,2.0
+898,LabL,LabL_SD_7,>500 um,Wet,,0.25,2.0
+899,LabL,LabL_SD_7,250-500 um,Wet,,0.5,2.0
+900,LabL,LabL_SD_7,125-250 um,Wet,,0.5,2.0
+901,LabL,LabL_FT_5,>500 um,Wet,,0.25,2.0
+902,LabL,LabL_FT_5,250-500 um,Wet,,0.25,2.0
+903,LabL,LabL_FT_5,20-250 um,Wet,,0.25,2.0
+904,LabL,LabL_FT_6,>500 um,Wet,,0.25,2.0
+905,LabL,LabL_FT_6,250-500 um,Wet,,0.25,2.0
+906,LabL,LabL_FT_6,20-250 um,Wet,,0.5,2.0
+907,LabL,LabL_FT_7,>500 um,Wet,,0.25,2.0
+908,LabL,LabL_FT_7,250-500 um,Wet,,0.25,2.0
+909,LabL,LabL_FT_7,20-250 um,Wet,,0.5,2.0
+910,LabL,LabL_FT_8,>500 um,Wet,five min or less,0.1,2.0
+911,LabL,LabL_FT_8,250-500 um,Wet,five min or less,0.1,2.0
+912,LabL,LabL_FT_8,20-250 um,Wet,five min or less,0.1,2.0
+913,LabL,LabL_FT_9,>500 um,Wet,,0.25,2.0
+914,LabL,LabL_FT_9,250-500 um,Wet,,0.25,2.0
+915,LabL,LabL_FT_9,20-250 um,Wet,,0.25,2.0
+916,LabL,LabL_FT_10,>500 um,Wet,,0.25,2.0
+917,LabL,LabL_FT_10,250-500 um,Wet,,0.25,2.0
+918,LabL,LabL_FT_10,20-250 um,Wet,,0.5,2.0
+919,LabL,LabL_FT_11,>500 um,Wet,,0.25,2.0
+920,LabL,LabL_FT_11,250-500 um,Wet,five min or less,0.1,2.0
+921,LabL,LabL_FT_11,20-250 um,Wet,,0.25,2.0
+922,LabL,LabL_FT_12,>500 um,Wet,five min or less,0.1,2.0
+923,LabL,LabL_FT_12,250-500 um,Wet,five min or less,0.1,2.0
+924,LabL,LabL_FT_12,20-250 um,Wet,five min or less,0.1,2.0
+925,LabNN,LabNN_CW_1,1-250 um,Dry,No camera attachment,2.0,4.0
+926,LabNN,LabNN_CW_1,250-710 um,Dry,No camera attachment,1.5,3.0
+927,LabNN,LabNN_CW_1,>710 um,Dry,No camera attachment,1.5,1.5
+928,LabNN,LabNN_CW_2,1-250 um,Dry,No camera attachment,2.0,4.0
+929,LabNN,LabNN_CW_2,250-710 um,Dry,No camera attachment,1.5,3.0
+930,LabNN,LabNN_CW_2,>710 um,Dry,No camera attachment,1.5,1.5
+931,LabNN,LabNN_CW_3,1-250 um,Dry,No camera attachment,2.0,4.0
+932,LabNN,LabNN_CW_3,250-710 um,Dry,No camera attachment,1.5,3.0
+933,LabNN,LabNN_CW_3,>710 um,Dry,No camera attachment,1.5,1.5
+934,LabNN,LabNN_CW_4,1-250 um,Dry,No camera attachment,2.0,4.0
+935,LabNN,LabNN_CW_4,250-710 um,Dry,No camera attachment,1.5,3.0
+936,LabNN,LabNN_CW_4,>710 um,Dry,No camera attachment,1.5,1.5
+937,LabNN,LabNN_SD_1,1-250 um,Dry,No camera attachment,2.0,4.0
+938,LabNN,LabNN_SD_1,250-710 um,Dry,No camera attachment,1.5,3.0
+939,LabNN,LabNN_SD_1,>710 um,Dry,No camera attachment,1.5,1.5
+940,LabNN,LabNN_SD_2,1-250 um,Dry,No camera attachment,2.0,4.0
+941,LabNN,LabNN_SD_2,250-710 um,Dry,No camera attachment,1.5,3.0
+942,LabNN,LabNN_SD_2,>710 um,Dry,No camera attachment,1.5,1.5
+943,LabNN,LabNN_SD_3,1-250 um,Dry,No camera attachment,2.0,4.0
+944,LabNN,LabNN_SD_3,250-710 um,Dry,No camera attachment,1.5,3.0
+945,LabNN,LabNN_SD_3,>710 um,Dry,No camera attachment,1.5,1.5
+946,LabNN,LabNN_SD_4,1-250 um,Dry,No camera attachment,2.0,4.0
+947,LabNN,LabNN_SD_4,250-710 um,Dry,No camera attachment,1.5,3.0
+948,LabNN,LabNN_SD_4,>710 um,Dry,No camera attachment,1.5,1.5

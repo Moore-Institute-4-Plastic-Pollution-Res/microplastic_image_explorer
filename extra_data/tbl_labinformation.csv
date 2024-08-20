@@ -1,0 +1,59 @@
+objectid,labid,expertiseextraction,expertisevisualmicroscopy,expertisenilered,expertiseftir,expertiseraman,expertisepy_gcms,watertype,airfiltration,airfiltrationtype,sealedenvironment,sealedenvironmenttype,clothingpolicy,clothingpolicytype,comments,startdate,enddate,matrix
+65,LabC,2,2,2,2,2,0,Milli-Q,Yes,"6000V, Allerair",Yes,clean room,Yes,cotton,,2020-08-26 00:00:00,2020-09-15 00:00:00,CW
+132,LabBB,2,2,2,2,2,0,Milli-Q,Yes,"B2, AirGard200",Yes,clean room,Yes,cotton,,2020-08-13 00:00:00,2020-09-16 00:00:00,FT
+81,LabB,2,2,1,2,0,2,MQ,No,,No,,Yes,Cotton or wool,"Lab is level 2 expertise, but personal is level 0. Cotton lab coat fibers were found in all samples, and are excluded in this spreadsheet. Also, the 1 um fraction was not able to be filtered, and is thus not included.",2020-07-31 00:00:00,2020-10-26 00:00:00,CW
+83,LabJ,0,0,0,0,0,0,RO,No,,No,,Yes,Yes,,2020-03-05 00:00:00,2020-03-05 00:00:00,CW
+82,LabZ,2,2,0,2,2,1,DI (0.22 um filtered),No,,Yes,Clean Bench (HEPA),Yes,"Nitrile Gloves, Cotton Lab Coat",,2020-07-30 10:00:00,2020-11-22 10:00:00,CW
+84,LabF,2,0,0,0,0,2,"Milli-Q, 0,2µm filtered",Yes,"EAP150, Electrolux",Yes,clean room,Yes,cotton,,2020-05-13 00:00:00,2020-11-25 00:00:00,CW
+85,LabV,0,1,0,0,0,1,Milli-Q 18ohm,No,,No,,Yes,Cotton,All filtration apparatus covered w/ foil during operation,2020-08-25 00:00:00,2020-09-03 00:00:00,CW
+86,LabM,2,2,0,2,0,0,RO,Yes,Benchtop HEPA and Carbon filter air purifier,No,,Yes,cotton lab coats,,2020-11-18 00:00:00,2020-11-30 00:00:00,CW
+87,LabD,2,2,0,0,2,0,MilliQ,Yes,HEPA,Yes,Laminar Flow Hood,Yes,Cotton coat mostly pink,,2020-10-08 00:00:00,2020-11-25 00:00:00,CW
+88,LabRR,0,1,0,0,2,0,Milli-Q,No,,Yes,laminar flow cabinet Spetec FBS75,Yes,cotton encouraged,Only filtration was carried out in laminar flow box,2020-10-19 00:00:00,2020-12-04 00:00:00,CW
+89,LabQ,1,1,1,1,1,1,RO,Yes,Not Recorded,Yes,Not Recorded,Yes,Not Recorded,lab information test,2020-07-15 00:00:00,2020-10-30 00:00:00,CW
+90,LabS,0,0,0,0,1,0,Nanopure Water,Yes,Unknown (Old Clean room),Yes,Biological safety hood (Con-test) but not verified since 2011,Yes,Cotton lab coat and Cotton clothes as more as possible,No data for FTIR,2020-07-16 00:00:00,2020-11-20 00:00:00,CW
+91,LabG,1,1,1,0,0,0,DI,No,,No,,Yes,Cotton,All samples were kept covered with aluminium foil as much as possible to avoid contamination,2020-08-01 00:00:00,2020-09-30 00:00:00,CW
+92,LabU,2,2,1,2,2,1,RO,No,,No,,Yes,Cotton Required,,2020-07-02 00:00:00,2020-07-02 00:00:00,CW
+93,LabAA,2,2,0,0,0,0,RO,Yes,HEPA,No,,Yes,Cotton required.,Started sorting in October but considerable COVID delays in receiving equipment or being able to access lab space delayed completion.,2020-10-21 08:00:00,2020-12-24 12:00:00,CW
+101,LabA,2,2,1,2,1,0,Milli-Q,Yes,Dustbox 1000 (HEPA-14 filter) ,Yes,"ScanLaf Fortuna 1800, LaboGene, Lillerod, Denmar",Yes,cotton,"Air Filtration in all labs, selaed environment during sample extraction and preparation",2020-03-18 00:00:00,2020-10-28 00:00:00,CW
+95,LabL,1,1,0,1,0,0,RO,Yes,VWR,Yes,laf-bench,Yes,100% cotton lab coats,,2020-08-13 00:00:00,2020-10-14 00:00:00,CW
+96,LabR,0,0,0,0,0,0,1 um filtered DI,Yes,HEPA,Yes,clean cabinet,Yes,cotton,,2020-10-09 00:00:00,2020-12-17 00:00:00,CW
+97,LabDD,2,2,2,0,0,0,Milli-Q filtered 1µm,Yes,central air with HEPA filteration for lab space; AER1 HAP9413 120 V inside clean pods,Yes,clean pod,Yes,cotton,air filtration+clean pod used for sample picking only; clean pod = area isolated with HDPE plastic sheeting and containing HEPA air filtration; our lab has 5 yrs experience with extraction+microscopy-we inserted 2 yrs to stay within the allowable range,2020-03-20 10:30:00,2021-01-12 18:00:00,CW
+98,LabJJ,2,2,0,2,0,0,RO 1 um filtered,Yes,HEPA H14 filter,Yes,Erlab CaptairFlow laminar flow hood,Yes,Cotton,Experience of researchers picking particles differs.  No researchers had experience with clean water samples.,2020-09-28 09:00:00,2021-01-25 17:00:00,CW
+99,LabH,2,2,0,0,2,0,Milli-Q,No,,No,,Yes,cotton,,2020-12-07 09:00:00,2020-12-17 18:00:00,CW
+100,LabQQ,2,2,0,0,2,0,Elix,Yes,Alen BreatheSmart,No,,No,,Analyst wore cotton lab coat but lab has some polyester labcoats,2020-12-09 00:00:00,2020-12-24 00:00:00,CW
+94,LabX,0,0,0,0,0,0,Milli-Q,No,,No,,No,,,2020-10-12 00:00:00,2021-01-04 00:00:00,CW
+78,LabN,2,1,1,0,0,0,RO,No,,Yes,Fumehood,Yes,Cotton labcoats/clothing required by study participants but NOT by other lab members,"CW_5-8 start/end date is 9/23/2020; DI water used for glassware cleaning, RO water used for reagents, mixing, and rinsing;",2020-02-25 08:30:00,2020-02-25 08:30:00,CW
+102,LabCC,2,2,1,0,0,0,"DI, 1 µm filtered",No,,No,,Yes,cotton,Cotton lab coats and masks were worn at all times. The lab is cleaned every day by wipping down the counter tops with a cellulose sponge and the floor vaccuumed with a HEPA filter vaccuum.,2020-08-26 12:00:00,2021-01-20 17:00:00,CW
+119,LabAA,2,2,0,0,0,0,RO,Yes,HEPA,No,,Yes,cotton,"No true sealed environments, but we did sort and filter in the fume hood, and a small enclosed area with extra Hepa filers.",2021-01-21 08:00:00,2021-03-24 12:00:00,DW
+107,LabD,2,1,0,0,1,0,Milli-Q,Yes,HEPA,Yes,Laminar flow hood,Yes,Cotton lab coat,,2020-11-14 00:00:00,2021-01-14 00:00:00,SD
+108,LabT,2,2,0,0,1,2,RO,Yes,HEPA,Yes,clean cabinet,Yes,cotton,,2021-09-03 00:00:00,2021-03-23 00:00:00,CW
+109,LabR,0,0,0,1,0,0,1 um filtered DI,Yes,"6000V, Allerair",Yes,clean cabinet,Yes,cotton,,2020-10-09 00:00:00,2021-03-22 00:00:00,DW
+110,LabRR,0,1,0,0,2,0,Milli-Q,No,,Yes,laminar flow cabinet Spetec FBS75,Yes,cotton encouraged,Only filtration was carried out in laminar flow box,2020-12-14 00:00:00,2020-02-25 00:00:00,DW
+111,LabWW,2,0,0,2,2,2,Milli-Q,Yes,"DP Max (Merv 8), 2 inch pleated filter (MZ40)",No,,No,,,2020-08-26 00:00:00,2021-02-26 00:00:00,CW
+112,LabV,1,1,0,0,0,2,Milli-Q,No,,No,,Yes,cotton,All filtration apparatus covered w/ foil during operation,2020-08-25 00:00:00,2020-09-03 00:00:00,SD
+113,LabZ,2,0,2,2,1,1,DI (0.22 um filtered),No,,Yes,Clean Bench (HEPA),Yes,"Nitrile Gloves, Cotton Lab Coat",,2021-01-06 10:00:00,2021-04-23 00:00:00,SD
+114,LabR,0,0,0,1,0,0,1 um filtered DI,Yes,"6000V, Allerair",Yes,clean cabinet,Yes,cotton,,2020-10-09 00:00:00,2021-04-09 00:00:00,SD
+115,LabR,0,0,0,1,0,0,1 um filtered DI,Yes,"6000V, Allerair",Yes,clean cabinet,Yes,cotton,,2020-10-09 00:00:00,2021-04-08 00:00:00,FT
+116,LabB,2,2,1,2,0,2,MQ,No,,No,,Yes,Cotton or wool,"Lab is level 2 expertise, but personal is level 0. Cotton lab coat fibers were found in all samples, and are excluded in this spreadsheet. Also, the 1 um fraction was not able to be filtered, and is thus not included.",2020-07-31 00:00:00,2020-12-19 00:00:00,DW
+117,LabQ,0,0,0,0,0,1,DI,Yes,MERV 8,No,,Yes,cotton,,2020-07-01 00:00:00,2021-05-28 00:00:00,DW
+118,LabQ,0,0,0,0,0,1,DI,Yes,MERV 8,No,,Yes,cotton,,2020-07-01 00:00:00,2021-05-28 00:00:00,SD
+120,LabAA,2,2,0,0,0,0,RO,Yes,HEPA,No,,Yes,cotton,"No true sealed environments, but we did sort and filter in the fume hood, and a small enclosed area with extra Hepa filers.",2021-04-20 08:00:00,2021-05-05 12:00:00,FT
+121,LabAA,2,2,0,0,0,0,RO,Yes,HEPA,No,,Yes,cotton,"No true sealed environments, but we did sort and filter in the fume hood, and a small enclosed area with extra Hepa filers.",2021-03-22 08:00:00,2021-04-18 12:00:00,SD
+122,LabN,2,1,1,1,0,0,RO,No,,Yes,Fumehood,Yes,Cotton labcoats/clothing required by study participants but NOT by other lab members,"DI water used for glassware cleaning, RO water used for reagents, mixing, and rinsing",2020-06-15 08:45:00,2020-12-09 14:30:00,DW
+123,LabN,2,1,1,1,0,0,RO,No,,Yes,Fumehood,Yes,Cotton labcoats/clothing required by study participants but NOT by other lab members,"DI water used for glassware cleaning, RO water used for reagents, mixing, and rinsing",2020-11-09 07:25:00,2020-12-10 16:00:00,SD
+124,LabG,1,1,1,0,0,0,DI,No,,No,,Yes,cotton,All samples were kept covered with aluminium foil as much as possible to avoid contamination when not in use,2020-08-27 00:00:00,2020-09-17 00:00:00,DW
+125,LabQ,0,0,0,0,0,1,DI,Yes,MERV 8,No,,Yes,cotton,,2021-07-01 00:00:00,2021-05-28 00:00:00,FT
+126,LabG,1,1,1,0,0,0,DI,No,,No,,Yes,cotton,All samples were kept covered with aluminium foil as much as possible to avoid contamination when not in use,2020-08-27 00:00:00,2020-09-17 00:00:00,SD
+127,LabM,2,2,0,2,0,0,RO,Yes,Benchtop HEPA and Carbon filter air purifier,No,,Yes,cotton lab coats,,2020-12-02 00:00:00,2020-12-21 00:00:00,DW
+128,LabM,2,2,0,2,0,0,RO,Yes,Benchtop HEPA and Carbon filter air purifier,No,,Yes,cotton lab coats,processing & most analysis completed by 21-Dec-20; FTIR finished May/June 2021,2020-12-01 00:00:00,2021-06-05 00:00:00,FT
+129,LabM,2,2,0,2,0,0,RO,Yes,Benchtop HEPA and Carbon filter air purifier,No,,Yes,cotton lab coats,processing & most analysis completed by 21-Dec-20; FTIR finished May/June 2021,2020-12-01 00:00:00,2021-06-05 00:00:00,SD
+130,LabCC,2,2,1,0,0,0,"DI, 1 µm filtered",No,,No,,Yes,Yes,Cotton lab coats and masks were worn at all times. The lab is cleaned every day by wipping down the counter tops with a cellulose sponge and the floor vaccuumed with a HEPA filter vaccuum.,2020-08-26 12:00:00,2021-01-20 17:00:00,DW
+131,LabBB,2,2,2,2,2,0,Milli-Q,Yes,"B2, AirGard200",Yes,clean room,Yes,cotton,,2020-08-13 00:00:00,2020-09-16 00:00:00,DW
+133,LabCC,2,2,1,0,0,0,"DI, 1 µm filtered",No,,No,,Yes,Yes,Cotton lab coats and masks were worn at all times. The lab is cleaned every day by wipping down the counter tops with a cellulose sponge and the floor vaccuumed with a HEPA filter vaccuum.,2020-08-26 12:00:00,2021-01-20 17:00:00,SD
+134,LabCC,2,2,1,0,0,0,"DI, 1 µm filtered",No,,No,,Yes,Yes,Cotton lab coats and masks were worn at all times. The lab is cleaned every day by wipping down the counter tops with a cellulose sponge and the floor vaccuumed with a HEPA filter vaccuum.,2020-08-26 12:00:00,2021-01-20 17:00:00,FT
+135,LabL,2,1,0,1,0,0,RO-water,Yes,Hepa class H-13,Yes,clean room,Yes,cotton,,2020-02-24 00:00:00,2020-05-20 00:00:00,DW
+136,LabL,2,1,0,1,0,0,RO-water,Yes,Hepa class H-13,Yes,clean room,Yes,cotton,,2020-02-15 00:00:00,2020-05-20 00:00:00,SD
+137,LabL,2,1,0,1,0,0,RO-water,Yes,Hepa class H-13,Yes,clean room,Yes,cotton,,2020-02-05 00:00:00,2020-05-20 00:00:00,FT
+138,LabJJ,1,1,0,2,0,0,RO 1 um filtered,Yes,HEPA H14 filter,Yes,Erlab CaptairFlow laminar flow hood,Yes,Cotton,,2021-07-22 09:00:00,2021-08-26 17:00:00,FT
+139,LabNN,2,2,0,2,1,0,Milli-Q,Yes,HEPA Filter,Partially,Laminar Flow Hood,Yes,cotton,,2020-06-15 00:00:00,2021-09-28 00:00:00,SD
+140,LabNN,1,2,0,2,1,0,Milli-Q,Yes,HEPA Filter,Partially,Laminar Flow Hood,Yes,cotton,The work on the CW were done by an experience and novice microplastic researchers,2020-03-01 00:00:00,2021-09-28 00:00:00,CW
