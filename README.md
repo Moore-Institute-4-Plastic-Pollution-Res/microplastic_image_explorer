@@ -1,6 +1,6 @@
 # Microplastic Image Explorer Tool <a href="https://openanalysis.org/image_explorer"><img src="man/MicroplasticImageExplorerhex.png" alt="Microplastic Image Explorer logo" align="right" style="height: 140px;"/></a>
 
-[![Website](https://img.shields.io/badge/web-openanalysis.org-white)](https://openanalysis.org/image_explorer)
+[![Website](https://img.shields.io/badge/web-openanalysis.org-white)]([https://openanalysis.org/image_explorer](https://www.openanalysis.org/microplastic_image_explorer/))
 
 # Description
 
